@@ -2817,6 +2817,28 @@
     }
   },
   {
+    "_id": 1061,
+    "name": "真快活美乐园电玩城",
+    "per_coin_price": 1.0,
+    "description": "",
+    "location": {
+      "province": "河北省",
+      "city": "廊坊市",
+      "district": "三河市",
+      "address": "京哈公路27号(102国道北)永旺梦乐城B1层B101",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 116.864234,
+      "latitude": 39.948575
+    },
+    "has": [],
+    "external": {
+      "bcn": 1061,
+      "amap": ""
+    }
+  },
+  {
     "_id": 972,
     "name": "酷客领域游戏体验中心",
     "per_coin_price": 1.0,
@@ -20802,13 +20824,13 @@
     "_id": 176,
     "name": "城市英雄（长沙春天百货店）",
     "per_coin_price": 1.0,
-    "description": "",
+    "description": "店铺单币价格1元=1币\r\n常见套餐          80元=120币\r\n美团，大众套餐   15元=35币\r\n玩家卡套餐        30元=80币\r\n节假日套餐一般在5毛一个币左右",
     "location": {
       "province": "湖南省",
       "city": "长沙市",
       "district": "天心区",
       "address": "天心区长沙春天百货负一层",
-      "transport": "地铁1、2号线五一广场站"
+      "transport": "地铁1、2号线五一广场站 3号口"
     },
     "coordinate": {
       "longitude": 112.975854,

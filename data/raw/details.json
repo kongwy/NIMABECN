@@ -782,8 +782,8 @@
         "title_id": 9,
         "version": "HIGH-VOLTAGE",
         "count": "1",
-        "coin_per_play": "0",
-        "desc": "待补充"
+        "coin_per_play": "3                                         72",
+        "desc": "待补充。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。"
       },
       {
         "title": "Dance Dance Revolution",
@@ -5528,14 +5528,6 @@
         "count": "1",
         "coin_per_play": "4",
         "desc": "已更新DX 2021. 机况优良。附近没有其他音游和比较吵闹的街机 环境也很良好"
-      },
-      {
-        "title": "maimai",
-        "title_id": 2,
-        "version": "Finale Ver.1.99B",
-        "count": "1",
-        "coin_per_play": "3",
-        "desc": "机台已撤除。"
       }
     ]
   },
@@ -18024,23 +18016,6 @@
         "desc": ""
       }
     ]
-  },
-  "1058": {
-    "id": 1058,
-    "url": "https://map.bemanicn.com/shop/1058",
-    "name": "动漫城",
-    "province": "河南省",
-    "city": "周口市",
-    "district": "周口市郸城县",
-    "address": "广场南路奥斯卡影城公园店一楼动漫城",
-    "location": {
-      "longitude": 115.143703,
-      "latitude": 33.621178
-    },
-    "commute": "",
-    "coin_price": "3元",
-    "desc": "机子成色很好",
-    "machines": []
   },
   "941": {
     "id": 941,

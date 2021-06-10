@@ -789,8 +789,8 @@
         "game": 2010,
         "version": "HIGH-VOLTAGE",
         "count": 1,
-        "coin_per_play": 0,
-        "description": "待补充"
+        "coin_per_play": 3,
+        "description": "待补充。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。"
       },
       {
         "game": 2008,
@@ -5730,13 +5730,6 @@
         "count": 1,
         "coin_per_play": 4,
         "description": "已更新DX 2021. 机况优良。附近没有其他音游和比较吵闹的街机 环境也很良好"
-      },
-      {
-        "game": 1001,
-        "version": "Finale Ver.1.99B",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": "机台已撤除。"
       }
     ],
     "external": {
@@ -18697,28 +18690,6 @@
     ],
     "external": {
       "bcn": 965,
-      "amap": ""
-    }
-  },
-  {
-    "_id": 1058,
-    "name": "动漫城",
-    "per_coin_price": 3.0,
-    "description": "机子成色很好",
-    "location": {
-      "province": "河南省",
-      "city": "周口市",
-      "district": "郸城县",
-      "address": "广场南路奥斯卡影城公园店一楼动漫城",
-      "transport": ""
-    },
-    "coordinate": {
-      "longitude": 115.143703,
-      "latitude": 33.621178
-    },
-    "has": [],
-    "external": {
-      "bcn": 1058,
       "amap": ""
     }
   },

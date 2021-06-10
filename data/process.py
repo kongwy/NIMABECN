@@ -64,5 +64,22 @@ def process(detail_path):
             json.dump(processed, wf, ensure_ascii=False, indent=2)
 
 
+def temp():
+    with open('games.json', 'r', encoding='utf8') as gf, open('bcn_game_map.json', 'r', encoding='utf8') as mf:
+        games = json.load(gf)
+        mapping = json.load(mf)
+        new_games = []
+        for game in games:
+            game['title_zh'] = game.get('title_zh', None)
+            for bcn_game in mapping:
+                if bcn_game['id'] == game['_id']:
+                    game['external'] = {'bcn': bcn_game['_id']}
+                    new_games.append(game)
+                    break
+        with open('games.json', 'w', encoding='utf8') as wf:
+            json.dump(new_games, wf, ensure_ascii=False, indent=2)
+
+
 if __name__ == '__main__':
-    process('raw/details.json')
+    # process('raw/details.json')
+    temp()

@@ -2,134 +2,235 @@
   {
     "_id": 1001,
     "title": "maimai",
-    "developer": "SEGA"
+    "developer": "SEGA",
+    "title_zh": null,
+    "external": {
+      "bcn": 2
+    }
   },
   {
     "_id": 1002,
     "title": "maimai DX",
-    "developer": "SEGA"
+    "developer": "SEGA",
+    "title_zh": null,
+    "external": {
+      "bcn": 1
+    }
   },
   {
     "_id": 1003,
     "title": "CHUNITHM",
-    "developer": "SEGA"
+    "developer": "SEGA",
+    "title_zh": null,
+    "external": {
+      "bcn": 3
+    }
   },
   {
     "_id": 1004,
     "title": "オンゲキ",
     "title_zh": "音擊",
-    "developer": "SEGA"
+    "developer": "SEGA",
+    "external": {
+      "bcn": 27
+    }
   },
   {
     "_id": 1005,
     "title": "Project DIVA Arcade",
-    "developer": "SEGA"
+    "developer": "SEGA",
+    "title_zh": null,
+    "external": {
+      "bcn": 24
+    }
   },
   {
     "_id": 2001,
     "title": "SOUND VOLTEX",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 4
+    }
   },
   {
     "_id": 2002,
     "title": "beatmania IIDX",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 5
+    }
   },
   {
     "_id": 2003,
     "title": "jubeat",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 6
+    }
   },
   {
     "_id": 2004,
     "title": "pop'n music",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 12
+    }
   },
   {
     "_id": 2005,
     "title": "REFLEC BEAT",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 14
+    }
   },
   {
     "_id": 2006,
     "title": "Nostalgia",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 7
+    }
   },
   {
     "_id": 2007,
     "title": "DANCERUSH",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 10
+    }
   },
   {
     "_id": 2008,
     "title": "Dance Dance Revolution",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 11
+    }
   },
   {
     "_id": 2009,
     "title": "Dance Evolution",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 13
+    }
   },
   {
     "_id": 2010,
     "title": "GITADORA DrumMania",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 9
+    }
   },
   {
     "_id": 2011,
     "title": "GITADORA GuitarFreaks",
-    "developer": "KONAMI"
+    "developer": "KONAMI",
+    "title_zh": null,
+    "external": {
+      "bcn": 8
+    }
   },
   {
     "_id": 3001,
     "title": "GROOVE COASTER",
-    "developer": "TAITO"
+    "developer": "TAITO",
+    "title_zh": null,
+    "external": {
+      "bcn": 16
+    }
   },
   {
     "_id": 4001,
     "title": "太鼓达人",
-    "developer": "BANDAI NAMCO"
+    "developer": "BANDAI NAMCO",
+    "title_zh": null,
+    "external": {
+      "bcn": 15
+    }
   },
   {
     "_id": 5001,
     "title": "WACCA",
     "title_zh": "华卡音舞",
-    "developer": "Marvelous"
+    "developer": "Marvelous",
+    "external": {
+      "bcn": 17
+    }
   },
   {
     "_id": 6001,
     "title": "EZ2DJ",
-    "developer": null
+    "developer": null,
+    "title_zh": null,
+    "external": {
+      "bcn": 18
+    }
   },
   {
     "_id": 6002,
     "title": "DJMAX Technika",
-    "developer": null
+    "developer": null,
+    "title_zh": null,
+    "external": {
+      "bcn": 21
+    }
   },
   {
     "_id": 6003,
     "title": "PUMP IT UP",
-    "developer": null
+    "developer": null,
+    "title_zh": null,
+    "external": {
+      "bcn": 19
+    }
   },
   {
     "_id": 9001,
     "title": "星光",
-    "developer": "华立科技"
+    "developer": "华立科技",
+    "title_zh": null,
+    "external": {
+      "bcn": 20
+    }
   },
   {
     "_id": 9002,
     "title": "DANZ BASE",
-    "developer": "IGS"
+    "developer": "IGS",
+    "title_zh": null,
+    "external": {
+      "bcn": 23
+    }
   },
   {
     "_id": 9003,
     "title": "鼓王",
-    "developer": "IGS"
+    "developer": "IGS",
+    "title_zh": null,
+    "external": {
+      "bcn": 22
+    }
   },
   {
     "_id": 9004,
     "title": "MuziBox",
     "title_zh": "音炫疯",
-    "developer": "IGS"
+    "developer": "IGS",
+    "external": {
+      "bcn": 25
+    }
   }
 ]

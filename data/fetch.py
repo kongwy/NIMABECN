@@ -117,10 +117,43 @@ def fetch_games():
         json.dump(game_list, f, ensure_ascii=False, indent=2)
 
 
+def fetch_regions():
+    print('Fetching all provinces...')
+    r = requests.get('http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/index.html')
+    bs = BeautifulSoup(r.content, 'html.parser')
+    provinces = bs.find('table', attrs={'class': 'provincetable'}).find_all('a')
+    provinces = [{
+        '_id': int(province['href'].split('.')[0]),
+        'name': province.text.strip(),
+        'is_municipality': province.text.strip() in ['北京市', '天津市', '上海市', '重庆市']
+    } for province in provinces]
+
+    province_list = []
+    for province in provinces:
+        print('Fetching ' + province['name'] + '...')
+        r = requests.get('http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/' + str(province['_id']) + '.html')
+        bs = BeautifulSoup(r.content, 'html.parser')
+        citys = bs.find('table', attrs={'class': 'citytable'}).find_all('a')
+        province['cities'] = []
+        for city in citys:
+            if city.text.strip().isdigit():
+                continue
+            province['cities'].append({
+                '_id': int(city['href'].split('.')[0].split('/')[-1].replace(str(province['_id']), '')),
+                'name': city.text.strip()
+            })
+        province_list.append(province)
+    with open('regions.json', 'w', encoding='utf8') as w:
+        json.dump(province_list, w, ensure_ascii=False, indent=2)
+
+
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='1.0')
-    if arguments['--stage'] == 'game':
+    stage = arguments['--stage']
+    if stage == 'game':
         fetch_games()
-    else:
+    elif stage == 'region':
+        fetch_regions()
+    elif stage == 'shop':
         fetch_shops()
         fetch_details('raw/shops.json')

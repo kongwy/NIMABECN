@@ -3,11 +3,11 @@ import json
 
 def process_machines(machines):
     processed = []
-    with open('bcn_game_map.json', 'r') as mf:
-        mapping = json.load(mf)
+    with open('games.json', 'r') as gf:
+        games = json.load(gf)
         game_map = {}
-        for game in mapping:
-            game_map[game['_id']] = game['id']
+        for game in games:
+            game_map[game['external']['bcn']] = game['_id']
         for machine in machines:
             game_id = game_map.get(machine['title_id'], None)
             if game_id is None:

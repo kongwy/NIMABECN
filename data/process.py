@@ -35,6 +35,9 @@ def process(detail_path):
             shop_district = shop['district'].replace(shop['city'], '')
             if shop['city'] == '市辖区':
                 shop['city'] = shop['province']
+            elif '直辖县级行政区划' in shop['city']:
+                shop['city'] = shop_district
+                shop_district = ''
 
             shop_machine = process_machines(shop['machines'])
 

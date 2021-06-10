@@ -133,14 +133,32 @@ def fetch_regions():
         print('Fetching ' + province['name'] + '...')
         r = requests.get('http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/' + str(province['_id']) + '.html')
         bs = BeautifulSoup(r.content, 'html.parser')
-        citys = bs.find('table', attrs={'class': 'citytable'}).find_all('a')
+        cities = bs.find('table', attrs={'class': 'citytable'}).find_all('a')
         province['cities'] = []
-        for city in citys:
-            if city.text.strip().isdigit():
+        for city in cities:
+            city_name = city.text.strip()
+            if city_name.isdigit():
                 continue
+            if city_name == '市辖区':
+                city_name = province['name']
+
+            if '直辖县级行政区划' in city_name:
+                r = requests.get('http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/' + city['href'])
+                bs = BeautifulSoup(r.content, 'html.parser')
+                counties = bs.find('table', attrs={'class': 'countytable'}).find_all('a')
+                for county in counties:
+                    county_name = county.text.strip()
+                    if county_name.isdigit():
+                        continue
+                    province['cities'].append({
+                        '_id': int(county['href'].split('.')[0].split('/')[-1].replace(str(province['_id']), '')),
+                        'name': county_name
+                    })
+                continue
+
             province['cities'].append({
                 '_id': int(city['href'].split('.')[0].split('/')[-1].replace(str(province['_id']), '')),
-                'name': city.text.strip()
+                'name': city_name
             })
         province_list.append(province)
     with open('regions.json', 'w', encoding='utf8') as w:

@@ -7862,7 +7862,7 @@
     "_id": 8,
     "name": "熊窝KUMA Studio音游专营店",
     "per_coin_price": 1.0,
-    "description": "- MUSE DASH官方手台 场测进行中 -\r\n\r\n官方微博：@熊窝KUMAStudio\r\n淘宝店铺：熊窝KUMA Studio\r\nBilibili直播间: 熊窝KUMA_Studio\r\n\r\n【营业时间】\r\n全年无休，24小时开放\r\n日场：10：00~22：00\r\n夜场：22：00~10：00\r\n\r\n【收费】\r\n按时计费：19元/小时\r\nDaypass：88元/场次（12小时）\r\n\r\n● 淘宝预先购买Daypass，可在当前场次时段内：\r\n☆ 不限时畅玩店内所有音乐游戏项目\r\n☆ Dartslive 2EX飞镖机 免费游玩一局\r\n☆ 免费赠饮 一瓶\r\n●每月1日/15日，Daypass将限时折扣为【68元】\r\n\r\n前台有售各类游戏记录卡及maimai/CHUNITHM手套\r\n店内有售各种音乐游戏专辑/卡片/周边等收藏品及出勤用品\r\n\r\n有任何需求可致电：18917252135 或 QQ：734598373\r\n（为了减少等待时间，计划于早10:00之前到店的玩家请提前一天微博留言/电联告知行程！）",
+    "description": "- MUSE DASH官方手台 场测进行中 -\r\n\r\n官方微博：@熊窝KUMAStudio\r\n淘宝店铺：熊窝KUMA Studio\r\nBilibili直播间: 熊窝KUMA_Studio\r\n\r\n【营业时间】\r\n工作日：\r\n日场：13：00~次日00：00\r\n夜场：00：00~10：00\r\n（10：00~13：00日常维护，不对外营业）\r\n\r\n双休日、节假日全天开放：\r\n日场：10：00~22：00\r\n夜场：22：00~次日10：00\r\n【收费】\r\n按时计费：19元/小时\r\nDaypass：88元/场次（12小时）\r\n\r\n● 淘宝预先购买Daypass，可在当前场次时段内：\r\n☆ 不限时畅玩店内所有音乐游戏项目\r\n☆ Dartslive 2EX飞镖机 免费游玩一局\r\n☆ 免费赠饮 一瓶\r\n●每月1日/15日，Daypass将限时折扣为【68元】\r\n\r\n前台有售各类游戏记录卡及maimai/CHUNITHM手套\r\n店内有售各种音乐游戏专辑/卡片/周边等收藏品及出勤用品\r\n\r\n有任何需求可致电：18917252135 或 QQ：734598373\r\n（为了减少等待时间，计划于周末节假日早10:00之前到店的玩家请提前一天微博留言/电联告知行程！）",
     "location": {
       "province": "上海市",
       "city": "上海市",
@@ -18021,6 +18021,36 @@
     }
   },
   {
+    "_id": 1062,
+    "name": "玩美世界e动城郑州绿地360店",
+    "per_coin_price": 1.0,
+    "description": "",
+    "location": {
+      "province": "河南省",
+      "city": "郑州市",
+      "district": "金水区",
+      "address": "金水东路绿地新都会A座4楼",
+      "transport": "地铁5号线金水东路站"
+    },
+    "coordinate": {
+      "longitude": 113.7675,
+      "latitude": 34.770786
+    },
+    "has": [
+      {
+        "game": 1002,
+        "version": "国服",
+        "count": 1,
+        "coin_per_play": 2,
+        "description": "新机，屏幕很滑"
+      }
+    ],
+    "external": {
+      "bcn": 1062,
+      "amap": ""
+    }
+  },
+  {
     "_id": 970,
     "name": "玩美世界e动城郑州店",
     "per_coin_price": 1.0,
@@ -19160,6 +19190,50 @@
     ],
     "external": {
       "bcn": 288,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1063,
+    "name": "神采飞扬钟家村店",
+    "per_coin_price": 1.0,
+    "description": "",
+    "location": {
+      "province": "湖北省",
+      "city": "武汉市",
+      "district": "汉阳区",
+      "address": "汉阳大道137号汉商银座购物中心F2",
+      "transport": "地铁4号线 6号线钟家村E1出口旁边21世纪2楼"
+    },
+    "coordinate": {
+      "longitude": 114.268114,
+      "latitude": 30.548666
+    },
+    "has": [
+      {
+        "game": 1001,
+        "version": "final",
+        "count": 1,
+        "coin_per_play": 3,
+        "description": "鸡盘，3币一把 机况极好 几乎没人"
+      },
+      {
+        "game": 9001,
+        "version": "大陆版",
+        "count": 2,
+        "coin_per_play": 3,
+        "description": "声音大的那台机况较好"
+      },
+      {
+        "game": 9001,
+        "version": "2代",
+        "count": 2,
+        "coin_per_play": 3,
+        "description": ""
+      }
+    ],
+    "external": {
+      "bcn": 1063,
       "amap": ""
     }
   },

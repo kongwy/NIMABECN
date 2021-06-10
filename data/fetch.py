@@ -1,13 +1,12 @@
 """Fetch data from https://map.bemanicn.com
 
 Usage:
-  fetch.py -s <STAGE> [-i INPUT]
+  fetch.py [-s STAGE]
 
 Options:
   -h --help             Show this message.
   -v --version          Show version.
   -s --stage STAGE      STAGE to fetch. Must be in [shop, detail, game].
-  -i --input INPUT      Output of previous stage. Must be set if STAGE is 2.
 
 """
 from docopt import docopt
@@ -120,10 +119,8 @@ def fetch_games():
 
 if __name__ == '__main__':
     arguments = docopt(__doc__, version='1.0')
-    if arguments['--stage'] == 'shop':
-        fetch_shops()
-    elif arguments['--stage'] == 'detail':
-        input_p = arguments['--input'] or 'raw/shops.json'
-        fetch_details(input_p)
-    elif arguments['--stage'] == 'game':
+    if arguments['--stage'] == 'game':
         fetch_games()
+    else:
+        fetch_shops()
+        fetch_details('raw/shops.json')

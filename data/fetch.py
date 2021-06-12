@@ -119,57 +119,25 @@ def fetch_games():
 
 def fetch_regions():
     print('Fetching all provinces...')
-    r = requests.get('http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/index.html')
+    r = requests.get('http://www.mca.gov.cn/article/sj/xzqh/2020/20201201.html')
     bs = BeautifulSoup(r.content, 'html.parser')
-    provinces = bs.find('table', attrs={'class': 'provincetable'}).find_all('a')
-    provinces = [{
-        '_id': int(province['href'].split('.')[0]),
-        'name': province.text.strip(),
-        'is_municipality': province.text.strip() in ['北京市', '天津市', '上海市', '重庆市']
-    } for province in provinces]
-
-    province_list = []
-    for province in provinces:
-        print('Fetching ' + province['name'] + '...')
-        r = requests.get('http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/' + str(province['_id']) + '.html')
-        bs = BeautifulSoup(r.content, 'html.parser')
-        cities = bs.find('table', attrs={'class': 'citytable'}).find_all('a')
-        province['cities'] = []
-        if province['is_municipality']:
-            province['cities'] = [{
-                '_id': 1,
-                'name': province['name']
-            }]
-            province_list.append(province)
+    region_rows = bs.find_all('tr', attrs={'height': '19'})
+    regions = []
+    for row in region_rows:
+        cells = row.find_all('td')
+        region_id = cells[1].text.strip()
+        if region_id == '':
             continue
-        for city in cities:
-            city_name = city.text.strip()
-            if city_name.isdigit():
-                continue
-            if city_name == '市辖区':
-                city_name = province['name']
-
-            if '直辖县级行政区划' in city_name:
-                r = requests.get('http://www.stats.gov.cn/tjsj/tjbz/tjyqhdmhcxhfdm/2020/' + city['href'])
-                bs = BeautifulSoup(r.content, 'html.parser')
-                counties = bs.find('table', attrs={'class': 'countytable'}).find_all('a')
-                for county in counties:
-                    county_name = county.text.strip()
-                    if county_name.isdigit():
-                        continue
-                    province['cities'].append({
-                        '_id': int(county['href'].split('.')[0].split('/')[-1].replace(str(province['_id']), '')),
-                        'name': county_name
-                    })
-                continue
-
-            province['cities'].append({
-                '_id': int(city['href'].split('.')[0].split('/')[-1].replace(str(province['_id']), '')),
-                'name': city_name
-            })
-        province_list.append(province)
+        region_id = int(region_id)
+        region_name = cells[2].text.strip()
+        region = {
+            '_id': region_id,
+            'name': region_name
+        }
+        print(region_name + ' fetched. ')
+        regions.append(region)
     with open('regions.json', 'w', encoding='utf8') as w:
-        json.dump(province_list, w, ensure_ascii=False, indent=2)
+        json.dump(regions, w, ensure_ascii=False, indent=2)
 
 
 if __name__ == '__main__':

@@ -309,6 +309,13 @@
     },
     "has": [
       {
+        "game": 2003,
+        "version": "未知",
+        "count": 1,
+        "coin_per_play": 2,
+        "description": "手感差"
+      },
+      {
         "game": 4001,
         "version": "日版",
         "count": 1,
@@ -1202,7 +1209,7 @@
         "version": "CH1.11(2021)",
         "count": 3,
         "coin_per_play": 5,
-        "description": "二号机右机有振键现象。金属入耳式耳机用户请注意，左边机台1p&2p耳机孔均有漏电现象，打歌时小概率漏电，请各位玩家注意，左1 2台可以快乐4p，第三台暂不支持\r\n靠近finale那台2p屏幕坏，具体表现类似于烧屏，无法正常游玩（我说是机修硬重启修坏的你会信？"
+        "description": "二号机右机有振键现象。金属入耳式耳机用户请注意，左边机台1p&2p耳机孔均有漏电现象，打歌时小概率漏电，请各位玩家注意，左1 2台可以快乐4p，第三台暂不支持"
       },
       {
         "game": 1001,
@@ -2757,6 +2764,28 @@
     }
   },
   {
+    "_id": 1071,
+    "name": "乐无限游乐体验中心",
+    "per_coin_price": 1.0,
+    "description": "",
+    "location": {
+      "province": "河北省",
+      "city": "廊坊市",
+      "district": "广阳区",
+      "address": "新华路45号附近尚品地下商业街02区1-126号",
+      "transport": "公交1A/5/7/8/13B/14/15B/33/37/38B路万达广场站"
+    },
+    "coordinate": {
+      "longitude": 116.706088,
+      "latitude": 39.520689
+    },
+    "has": [],
+    "external": {
+      "bcn": 1071,
+      "amap": ""
+    }
+  },
+  {
     "_id": 617,
     "name": "大玩家超乐场（廊坊万达店）",
     "per_coin_price": 1.25,
@@ -2832,7 +2861,15 @@
       "longitude": 116.864234,
       "latitude": 39.948575
     },
-    "has": [],
+    "has": [
+      {
+        "game": 1002,
+        "version": "CH1.11-A",
+        "count": 1,
+        "coin_per_play": 6,
+        "description": "1p耳机不能用"
+      }
+    ],
     "external": {
       "bcn": 1061,
       "amap": ""
@@ -3223,6 +3260,58 @@
     }
   },
   {
+    "_id": 1070,
+    "name": "大玩家play1",
+    "per_coin_price": 1.5,
+    "description": "",
+    "location": {
+      "province": "山西省",
+      "city": "大同市",
+      "district": "平城区",
+      "address": "永和路与南环东路交汇处东北角",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 113.340878,
+      "latitude": 40.064808
+    },
+    "has": [
+      {
+        "game": 9001,
+        "version": "1",
+        "count": 1,
+        "coin_per_play": 2,
+        "description": ""
+      }
+    ],
+    "external": {
+      "bcn": 1070,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1072,
+    "name": "乐宇电玩城",
+    "per_coin_price": 1.0,
+    "description": "负一层\r\n舞立方 e舞成名",
+    "location": {
+      "province": "山西省",
+      "city": "大同市",
+      "district": "平城区",
+      "address": "永泰南路3333号",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 113.301702,
+      "latitude": 40.07146
+    },
+    "has": [],
+    "external": {
+      "bcn": 1072,
+      "amap": ""
+    }
+  },
+  {
     "_id": 570,
     "name": "梦幻乐园",
     "per_coin_price": 2.0,
@@ -3367,6 +3456,28 @@
     ],
     "external": {
       "bcn": 957,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1073,
+    "name": "奇幻空间",
+    "per_coin_price": 1.0,
+    "description": "",
+    "location": {
+      "province": "山西省",
+      "city": "临汾市",
+      "district": "尧都区",
+      "address": "解放路工贸购物中心5层",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 111.522025,
+      "latitude": 36.083532
+    },
+    "has": [],
+    "external": {
+      "bcn": 1073,
       "amap": ""
     }
   },
@@ -4353,8 +4464,8 @@
   },
   {
     "_id": 87,
-    "name": "嘉斯猫电玩城",
-    "per_coin_price": 1.0,
+    "name": "卡其部落电玩城",
+    "per_coin_price": 0.7,
     "description": "5.2已经开业\r\n改成卡奇部落了\r\n原一方广场店\r\n前台有卖茶盘卡 15/张",
     "location": {
       "province": "辽宁省",
@@ -4364,8 +4475,8 @@
       "transport": "沈阳地铁东中街站C口；150、250、273、286路大悦城站；147、151、173、259、273、V126路大悦城东站。"
     },
     "coordinate": {
-      "longitude": 123.468368,
-      "latitude": 41.793785
+      "longitude": 123.468161,
+      "latitude": 41.791768
     },
     "has": [
       {
@@ -4760,7 +4871,7 @@
     "_id": 92,
     "name": "银河系（恒隆广场店）",
     "per_coin_price": 2.0,
-    "description": "早上10点-晚上10点\r\n2元1币 50元50个 100元110个 周三充值活动100元150币(需要会员卡 首次充值不能使用优惠)\r\n店铺已从原地址迁移至四楼413a号商铺，具体位置为星巴克与电影院中间，6.6仍未开业，门口公告线路调整，各位通勤请注意。如果开业了有人看到这里记得删掉。",
+    "description": "早上10点-晚上10点\r\n2元1币 50元50个 100元110个 周三充值活动100元150币(需要会员卡 首次充值不能使用优惠)\r\n店铺已从原地址迁移至四楼413a号商铺，具体位置为星巴克与电影院中间，6.12仍未开业，门口公告线路调整，各位通勤请注意。如果开业了有人看到这里记得删掉。",
     "location": {
       "province": "辽宁省",
       "city": "大连市",
@@ -5729,7 +5840,7 @@
         "version": "Ver.CH1.11-A",
         "count": 1,
         "coin_per_play": 4,
-        "description": "已更新DX 2021. 机况优良。附近没有其他音游和比较吵闹的街机 环境也很良好"
+        "description": "据称偶有吃星问题。附近没有其他音游和比较吵闹的街机 环境也很良好"
       }
     ],
     "external": {
@@ -5741,7 +5852,7 @@
     "_id": 1010,
     "name": "东方英雄（盘锦水游城店）",
     "per_coin_price": 1.0,
-    "description": "似乎是大商地下商业街店迁移到这里，地下商业街店可能不再营业了。",
+    "description": "",
     "location": {
       "province": "辽宁省",
       "city": "盘锦市",
@@ -5766,7 +5877,7 @@
         "version": "国行 (1.50.01.CHN.C?)",
         "count": 2,
         "coin_per_play": 4,
-        "description": "新机。声音有时会被场地内播放的BGM盖过去。"
+        "description": "新机。已移动至舞立方旁，噪音可能较大。"
       }
     ],
     "external": {
@@ -9250,7 +9361,7 @@
     "has": [
       {
         "game": 1002,
-        "version": "CH1.01-E",
+        "version": "CH1.11-A",
         "count": 1,
         "coin_per_play": 6,
         "description": ""
@@ -10269,10 +10380,10 @@
       },
       {
         "game": 5001,
-        "version": "S",
+        "version": "Lily",
         "count": 2,
         "coin_per_play": 4,
-        "description": "4币3首，需要wacca基本会员/vip次数\r\nwacca两边是vr摩托车和赛车，\"建议\"带耳机\r\n机况已属不错，江北唯二，且珍惜"
+        "description": "4币3首，需要wacca基本会员/vip次数\r\nwacca两边是vr摩托车和赛车，\"建议\"带耳机\r\n新机器耳机孔有些失音，需要把耳机线拔出来一点转到合适角度"
       }
     ],
     "external": {
@@ -10712,14 +10823,14 @@
       {
         "game": 2001,
         "version": "5代 国行",
-        "count": 2,
+        "count": 1,
         "coin_per_play": 2,
-        "description": "扫码显示网络混乱。世宇官方群里询问后发现机台没有插网线（实际是机厅只有前台有网），所以只能单机。"
+        "description": "旋钮干涩松垮，扫码显示网络混乱。世宇官方群里询问后发现机台没有插网线（实际是机厅只有前台有网），所以只能单机。"
       },
       {
         "game": 2007,
         "version": "国行 联网",
-        "count": 2,
+        "count": 1,
         "coin_per_play": 4,
         "description": "可以通过游艺宝扫码登录记录成绩"
       }
@@ -11744,7 +11855,7 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 6,
-        "description": "机台正常无吃音，耳机孔无损坏漏电，摆放位置较偏，风云再起大门进去后走到底进一道门左转即可看到，左边龙飞凤舞后方e舞声音都比maimai大，建议携带耳机出勤\r\n\r\n双休日出勤谨防仨熊孩子插队！\r\n\r\n宿迁舞萌dx交流群招募椰叶中！！！！群号953764610！"
+        "description": "机台正常无吃音，耳机孔无损坏漏电，摆放位置较偏，风云再起大门进去后走到底进一道门左转即可看到，左边PIU后方e舞声音都比maimai大，建议携带耳机出勤,\r\n双休日出勤谨防仨熊孩子插队拆机！！(已多次劝阻其插队拆机行为，没用)\r\n宿迁舞萌dx交流群招募椰叶中！！！！群号953764610！"
       },
       {
         "game": 4001,
@@ -11763,6 +11874,36 @@
     ],
     "external": {
       "bcn": 454,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1064,
+    "name": "大玩家沭阳店",
+    "per_coin_price": 1.0,
+    "description": "50币起充",
+    "location": {
+      "province": "江苏省",
+      "city": "宿迁市",
+      "district": "沭阳县",
+      "address": "万达广场2F",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 118.765593,
+      "latitude": 34.095826
+    },
+    "has": [
+      {
+        "game": 9001,
+        "version": "2",
+        "count": 1,
+        "coin_per_play": 2,
+        "description": ""
+      }
+    ],
+    "external": {
+      "bcn": 1064,
       "amap": ""
     }
   },
@@ -11825,14 +11966,14 @@
         "version": "CH1.11",
         "count": 2,
         "coin_per_play": 6,
-        "description": "单人3曲双人4曲,左机暂时维修几天不可游玩"
+        "description": "单人3曲双人4曲"
       },
       {
         "game": 1001,
         "version": "FiNALE",
         "count": 1,
         "coin_per_play": 3,
-        "description": "单人3track，双人4track JiNALE，同步联网更新，支持红黑和banapass，机况正常，2p读卡器位置处于刷卡区正下方，暂时维修中"
+        "description": "单人3track，双人4track JiNALE，同步联网更新，支持红黑和banapass，机况正常，2p读卡器位置处于刷卡区正下方"
       },
       {
         "game": 5001,
@@ -12221,7 +12362,7 @@
     "_id": 341,
     "name": "宁波工程学院东校区[宁工音游社]",
     "per_coin_price": 20.0,
-    "description": "校外访问请加社团群预约\r\n详细社团介绍信息参考b站专栏\r\nQQ群：167837761\r\nBilibili/微博：宁波工程学院PIU音游社\r\n\r\n活动时间：12:30 - 22:00\r\n接待时间：12:30 - 20:00",
+    "description": "【标0币的机台暂不可用】\r\n校外访问请加社团群预约\r\n详细社团介绍信息参考b站专栏\r\nQQ群：167837761\r\nBilibili/微博：宁波工程学院PIU音游社\r\n\r\n活动时间：12:30 - 22:00\r\n接待时间：12:30 - 20:00",
     "location": {
       "province": "浙江省",
       "city": "宁波市",
@@ -14007,7 +14148,7 @@
     "_id": 293,
     "name": "福州东百中心乐炫风",
     "per_coin_price": 1.5,
-    "description": "店内大部分机台(除星光2和所有B系机台外)均可刷会员币卡\r\nbana卡前台有售（有一定概率缺货！） 40/张 50/一张卡+15游戏币\r\n也可在福州maimai群/BEMANI系玩家交流群购买bjmania游戏卡，mai群群号在maimai机台上方，BEMANI玩家请咨询现场玩家扫码加群。\r\n（店内不售epass/AIC卡，请提前自备卡片，或者去咲窝那边买aic）\r\nP点充值方法请自行加QQ群咨询，店内不负责充值。\r\n店内电梯仅4号电梯可以使用且不停靠1-3楼，如果有需要上去坐公交请直接走门口手扶梯（也可以使用湾岸后面的5-6号电梯）\r\n22：00以后所有电梯通道关闭，请走门口手扶梯上楼\r\n部分机子会在闭店前提前关机，请合理安排游戏时间，如果出勤时发现机子没开可呼叫机修或者导玩开机\r\n另：店内maimai新旧框中间新加了衣架 出勤的各位请把脱下来的外套挂上面 谢谢！储物架在maimaidx和jubeat中间，东西每天都会清理\r\n音游区有三脚架，需要手机/运动相机录手元可以取出使用（有个三脚架若需要使用其他设备请拆快装板后自行安装就行）\r\n机子如果有问题，请到对应的玩家群进行反馈，现场游玩有问题时可以使用按钮呼叫工作人员\r\n代币价格：\r\n100=90（不送积分） 200=220 500=650 1000=1500 3000=5200 会员卡（炫风卡）第一次办免工本费（需至少买200=220的套餐，店内已经不再提供0元欢乐卡），后续补卡费用为10元/次，每月前台签到送10币（暴风卡为50币），公众号签满7天送10币，生日当天前台凭身份证签到送50币（暴风卡为300币），充值对应套餐送对应价格积分，有效期一年，每年到期后需扣除300积分或再购买套餐即可续期（暴风卡为2000积分续期），满20000分升级暴风卡（20积分换1币）\r\n美团有8.8=15(仅能购买一次）和99.9=100（可多次购买）的套餐，其他活动可以关注本地群或者店铺公众号\r\nmaimai玩家可以申请加入玩家会，每月一次100=200和六次50=75（具体请在群内咨询）\r\n营业时间：\r\n10:00～23:00（部分节假日可能会提前或者延后闭店，可加店铺微信群咨询）",
+    "description": "店内大部分机台(除星光2和所有B系机台外)均可刷会员币卡\r\nbana卡前台有售（有一定概率缺货！） 40/张 50/一张卡+15游戏币\r\n也可在福州maimai群/BEMANI系玩家交流群购买bjmania游戏卡，mai群群号在maimai机台上方，BEMANI玩家请咨询现场玩家或者看看jubeat旁边的三脚架扫码加群。（三脚架上面贴二维码的那张纸别撕！！！！！）\r\n（店内不售epass/AIC卡，请提前自备卡片，或者去咲窝那边买aic）\r\nP点充值方法请自行加QQ群咨询，店内不负责充值。\r\n店内电梯仅4号电梯可以使用且不停靠1-3楼，如果有需要上去坐公交请直接走门口手扶梯（也可以使用湾岸后面的5-6号电梯）\r\n22：00以后所有电梯通道关闭，请走门口手扶梯上楼\r\n部分机子会在闭店前提前关机，请合理安排游戏时间，如果出勤时发现机子没开可呼叫机修或者导玩开机\r\n另：店内maimai新旧框中间新加了衣架 出勤的各位请把脱下来的外套挂上面 谢谢！储物架在maimaidx和jubeat中间，东西每天都会清理\r\n音游区有三脚架，需要手机/运动相机录手元可以取出使用（有个三脚架若需要使用其他设备请拆快装板后自行安装就行）\r\n机子如果有问题，请到对应的玩家群进行反馈，现场游玩有问题时可以使用按钮呼叫工作人员\r\n代币价格：\r\n100=90（不送积分） 200=220 500=650 1000=1500 3000=5200 会员卡（炫风卡）第一次办免工本费（需至少买200=220的套餐，店内已经不再提供0元欢乐卡），后续补卡费用为10元/次，每月前台签到送10币（暴风卡为50币），公众号签满7天送10币，生日当天前台凭身份证签到送50币（暴风卡为300币），充值对应套餐送对应价格积分，有效期一年，每年到期后需扣除300积分或再购买套餐即可续期（暴风卡为2000积分续期），满20000分升级暴风卡（20积分换1币）\r\n美团有8.8=15(仅能购买一次）和99.9=100（可多次购买）的套餐，其他活动可以关注本地群或者店铺公众号\r\nmaimai玩家可以申请加入玩家会，每月一次100=200和六次50=75（具体请在群内咨询）\r\n营业时间：\r\n10:00～23:00（部分节假日可能会提前或者延后闭店，可加店铺微信群咨询）",
     "location": {
       "province": "福建省",
       "city": "福州市",
@@ -15692,7 +15833,7 @@
     "_id": 1028,
     "name": "幸运星南昌万象汇店",
     "per_coin_price": 1.5,
-    "description": "目前比较贵套餐只能把成本压在4元以下",
+    "description": "前台有音乐机专用的50元80电子币，为长期套餐，需给前台出示自己在微信群才可购买。\r\n微信群进入方法，关注公众号《LuckyStar家庭娱乐南昌万象汇店》，添加客服二维码在公众号菜单《小程序》《在线客服》，说自己是玩家需要进微信群让客服拉。\r\n音乐机（就舞萌DX和E-mai）刷实体卡或投实体币为5币，微信扫码投币为3币，微信扫码直接付费为4.5元一把。",
     "location": {
       "province": "江西省",
       "city": "南昌市",
@@ -15710,7 +15851,7 @@
         "version": "2021",
         "count": 2,
         "coin_per_play": 5,
-        "description": "有沙发x2，落地风扇x2，挂衣架，目前币价偏贵，算是南昌最贵的DX机厅。熊孩子比较多。"
+        "description": "有沙发x2，落地风扇x2，挂衣架，左侧机1P换的新屏幕屎黄颜色，2P较暗；右侧机3P换的新屏幕除了小黑点几乎和去年2020年11月之前的屏幕一样，3P较暗有黑线。"
       }
     ],
     "external": {
@@ -17856,10 +17997,10 @@
     "has": [
       {
         "game": 1001,
-        "version": "日文原版，FINAL",
+        "version": "Jinale联网",
         "count": 1,
         "coin_per_play": 3,
-        "description": "机台已断网，不再更新，左边的屏幕偶尔会黑屏几秒，体验较差"
+        "description": "已升级Jinale联网，可刷卡，左边的屏幕偶尔会黑屏几秒，体验较差"
       },
       {
         "game": 2001,
@@ -17968,7 +18109,7 @@
         "version": "dx2021",
         "count": 2,
         "coin_per_play": 2,
-        "description": "新机子，很丝滑，但是有两台屏幕出厂中奖了，有黑线，但是不影响使用。求求各位爷⑧拆了"
+        "description": "新机子，很丝滑。求求各位爷⑧拆了。\r\n游玩maimai dx请一定要自备耳机，不然真的会被吵死"
       }
     ],
     "external": {
@@ -18574,6 +18715,28 @@
     }
   },
   {
+    "_id": 1068,
+    "name": "名将之风",
+    "per_coin_price": 1.0,
+    "description": "",
+    "location": {
+      "province": "河南省",
+      "city": "漯河市",
+      "district": "源汇区",
+      "address": "人民路新天地钟楼广场东",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 114.035691,
+      "latitude": 33.570867
+    },
+    "has": [],
+    "external": {
+      "bcn": 1068,
+      "amap": ""
+    }
+  },
+  {
     "_id": 1052,
     "name": "玩美世界e动城",
     "per_coin_price": 1.0,
@@ -18781,7 +18944,7 @@
         "game": 1002,
         "version": "国行",
         "count": 1,
-        "coin_per_play": 0,
+        "coin_per_play": 3,
         "description": ""
       },
       {
@@ -19942,6 +20105,36 @@
     }
   },
   {
+    "_id": 1069,
+    "name": "国贸电玩城",
+    "per_coin_price": 1.0,
+    "description": "华卡仅支持刷卡游玩（投币口被堵住了",
+    "location": {
+      "province": "湖北省",
+      "city": "宜昌市",
+      "district": "西陵区",
+      "address": "东山大道106号国贸大厦四楼",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 111.183263,
+      "latitude": 30.763663
+    },
+    "has": [
+      {
+        "game": 5001,
+        "version": "ver.2",
+        "count": 2,
+        "coin_per_play": 5,
+        "description": "6月进的新机"
+      }
+    ],
+    "external": {
+      "bcn": 1069,
+      "amap": ""
+    }
+  },
+  {
     "_id": 173,
     "name": "奇奇乐园CBD店",
     "per_coin_price": 1.0,
@@ -20119,7 +20312,7 @@
   },
   {
     "_id": 1020,
-    "name": "大玩家宜昌兴发广场店",
+    "name": "大玩家宜昌夷陵万达广场店",
     "per_coin_price": 1.0,
     "description": "",
     "location": {
@@ -22130,43 +22323,6 @@
     }
   },
   {
-    "_id": 184,
-    "name": "春园金鹰电玩城",
-    "per_coin_price": 1.0,
-    "description": "欢迎加入娄底音游人交流群（Q群：894201839），获取更多机台信息，和全娄底市的音游人一起交流！",
-    "location": {
-      "province": "湖南省",
-      "city": "娄底市",
-      "district": "娄星区",
-      "address": "娄底市娄星区春园商业步行街银街14栋2楼(时尚春天东北)",
-      "transport": ""
-    },
-    "coordinate": {
-      "longitude": 112.008594,
-      "latitude": 27.727
-    },
-    "has": [
-      {
-        "game": 1001,
-        "version": "Finale全曲",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": "双人模式无奖励"
-      },
-      {
-        "game": 9002,
-        "version": "联网",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": ""
-      }
-    ],
-    "external": {
-      "bcn": 184,
-      "amap": ""
-    }
-  },
-  {
     "_id": 1018,
     "name": "万豪星世纪电玩城",
     "per_coin_price": 1.0,
@@ -22213,7 +22369,7 @@
       "city": "娄底市",
       "district": "新化县",
       "address": "娄底市新化县东方城市广场1085-1093号",
-      "transport": "5路或6路公交车至东方城市广场站"
+      "transport": ""
     },
     "coordinate": {
       "longitude": 111.315368,
@@ -24492,7 +24648,7 @@
         "game": 1002,
         "version": "国服",
         "count": 1,
-        "coin_per_play": 3,
+        "coin_per_play": 4,
         "description": ""
       }
     ],
@@ -25292,7 +25448,7 @@
     "_id": 773,
     "name": "大玩家汕头金平万达店",
     "per_coin_price": 1.0,
-    "description": "最低消费50元60币",
+    "description": "最低消费50元50币",
     "location": {
       "province": "广东省",
       "city": "汕头市",
@@ -25375,6 +25531,36 @@
     ],
     "external": {
       "bcn": 433,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1066,
+    "name": "晴空超乐园",
+    "per_coin_price": 1.0,
+    "description": "最低消费50元，100元110币，可办卡\r\n潮南有自己的玩家群，群号750869059\r\n汕头也有玩家群，欢迎游玩",
+    "location": {
+      "province": "广东省",
+      "city": "汕头市",
+      "district": "潮南区",
+      "address": "广汕公路峡山路段123号香域广场7栋1-4层",
+      "transport": "地方比较偏僻，建议开车或电动"
+    },
+    "coordinate": {
+      "longitude": 116.435269,
+      "latitude": 23.215092
+    },
+    "has": [
+      {
+        "game": 1002,
+        "version": "国行",
+        "count": 1,
+        "coin_per_play": 4,
+        "description": "刚进的新机，机况良好"
+      }
+    ],
+    "external": {
+      "bcn": 1066,
       "amap": ""
     }
   },
@@ -27391,7 +27577,7 @@
         "version": "12代亚洲版",
         "count": 2,
         "coin_per_play": 3,
-        "description": "左边机器声音偏小，右边机器绿屏，右边机器右边鼓鼓棒连接线断开"
+        "description": "右边机器声音偏小并且判定有问题，左边机器绿屏，左边机器右边鼓鼓棒连接线断开"
       },
       {
         "game": 5001,
@@ -27654,8 +27840,8 @@
         "game": 2001,
         "version": "CHN",
         "count": 2,
-        "coin_per_play": 3,
-        "description": "国行。已接入微信游艺宝。\r\n机台的旋钮有点松，有时会吞币\r\n部分按键可能有问题"
+        "coin_per_play": 5,
+        "description": "国行。已接入微信游艺宝。\r\n机台的旋钮有点松，有时会吞币\r\n部分按键可能有问题，原3币 现5币"
       },
       {
         "game": 2007,
@@ -27669,7 +27855,7 @@
         "version": "WACCA CHN",
         "count": 2,
         "coin_per_play": 5,
-        "description": "Ver.CHN 左边机耳机孔有问题"
+        "description": "Ver.CHN"
       }
     ],
     "external": {
@@ -27765,21 +27951,21 @@
         "game": 2001,
         "version": "CHN",
         "count": 2,
-        "coin_per_play": 3,
+        "coin_per_play": 4,
         "description": "左机BT-A和BT-D有问题\r\n右机FX-L会吃音"
       },
       {
         "game": 2007,
         "version": "Stardom",
         "count": 1,
-        "coin_per_play": 3,
+        "coin_per_play": 4,
         "description": "板子右上角有裂痕，右半部分无影脚"
       },
       {
         "game": 5001,
         "version": "CHN",
         "count": 2,
-        "coin_per_play": 3,
+        "coin_per_play": 5,
         "description": "Ver.CHN"
       }
     ],
@@ -28128,8 +28314,8 @@
         "game": 5001,
         "version": "s",
         "count": 2,
-        "coin_per_play": 3,
-        "description": "靠向篮球机的机台音量较大，向外侧的机台音量较小且容易吸引路人围观。周围环境噪音较大建议耳机"
+        "coin_per_play": 5,
+        "description": "依旧没更新，从3币涨价到5币。无更新消息。耳机孔更拉胯了。没必要玩。"
       }
     ],
     "external": {
@@ -28163,10 +28349,10 @@
       },
       {
         "game": 2001,
-        "version": "IV （又 坏 了）",
+        "version": "IV",
         "count": 1,
         "coin_per_play": 2,
-        "description": "2月3日更新：它又坏了。。。\r\nLight Start=2币,Standard Start=4币,仅支持广西卡\r\n右旋钮有问题，有时候会放飞自我"
+        "description": "6月10日更新：暂时复活\r\nLight Start=2币,Standard Start=4币,仅支持广西卡\r\n右旋钮有问题，有时候会放飞自我"
       },
       {
         "game": 2005,
@@ -28759,7 +28945,7 @@
         "version": "FINAL联网球盘",
         "count": 1,
         "coin_per_play": 2,
-        "description": "1p现在被拆了，询问机修说正在维修\r\n2p好像可以运行，具体情况请到店询问"
+        "description": "4track，机台现已被修复，可以正常使用"
       },
       {
         "game": 2003,
@@ -28963,6 +29149,58 @@
     ],
     "external": {
       "bcn": 483,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1065,
+    "name": "乐趣时代贵港港北店",
+    "per_coin_price": 1.0,
+    "description": "新机5币",
+    "location": {
+      "province": "广西壮族自治区",
+      "city": "贵港市",
+      "district": "港北区",
+      "address": "广西省贵港市港北区贵城街道客世界三楼乐趣时代",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 116.360787,
+      "latitude": 39.888503
+    },
+    "has": [],
+    "external": {
+      "bcn": 1065,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1067,
+    "name": "乐趣时代客世界店",
+    "per_coin_price": 1.0,
+    "description": "有100块150币等优惠套餐。散币20起步并加收5块钱手续费。有离线湾岸3",
+    "location": {
+      "province": "广西壮族自治区",
+      "city": "贵港市",
+      "district": "港北区",
+      "address": "中山路与江北大道交汇处",
+      "transport": "共享单车"
+    },
+    "coordinate": {
+      "longitude": 109.599392,
+      "latitude": 23.095078
+    },
+    "has": [
+      {
+        "game": 1002,
+        "version": "Ver.Ch1.11-A",
+        "count": 1,
+        "coin_per_play": 5,
+        "description": "6月11日新机"
+      }
+    ],
+    "external": {
+      "bcn": 1067,
       "amap": ""
     }
   },
@@ -29442,7 +29680,7 @@
     "_id": 864,
     "name": "爱玩嘉年华江北观音桥店",
     "per_coin_price": 1.0,
-    "description": "maimai和e舞放在一起，特别吵，建议佩戴耳机。maimai上午11点或者10点之前可能都无联网，早勤人注意~",
+    "description": "maimai和e舞放在一起，特别吵，建议佩戴耳机。maimai上午11点或者10点之前可能都无联网，早勤人注意~maimai 1p的4号键卡扣已经坏了，暂时未修理，不影响游玩，收歌请注意。",
     "location": {
       "province": "重庆市",
       "city": "重庆市",
@@ -30222,7 +30460,7 @@
         "version": "ver.2",
         "count": 2,
         "coin_per_play": 4,
-        "description": "左机音量小，右机有延判现象。两台耳机口都已修复。"
+        "description": "左机音量小，右机有延判现象。左机耳机接口有轻微电流声。"
       },
       {
         "game": 9001,
@@ -31217,6 +31455,36 @@
     ],
     "external": {
       "bcn": 553,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1074,
+    "name": "大玩家（雅安万达店）",
+    "per_coin_price": 1.0,
+    "description": "",
+    "location": {
+      "province": "四川省",
+      "city": "雅安市",
+      "district": "雨城区",
+      "address": "万达广场 四楼",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 103.034376,
+      "latitude": 30.00591
+    },
+    "has": [
+      {
+        "game": 2003,
+        "version": "一代",
+        "count": 1,
+        "coin_per_play": 2,
+        "description": "键的情况不是很好\r\n店家不提供IC卡\r\n店家也不知道有这个东西的存在\r\n但是仍然能玩"
+      }
+    ],
+    "external": {
+      "bcn": 1074,
       "amap": ""
     }
   },

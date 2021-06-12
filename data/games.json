@@ -2,8 +2,8 @@
   {
     "_id": 1001,
     "title": "maimai",
+    "alias": "舞萌",
     "developer": "SEGA",
-    "title_zh": null,
     "external": {
       "bcn": 2
     }
@@ -11,8 +11,8 @@
   {
     "_id": 1002,
     "title": "maimai DX",
+    "alias": "舞萌DX",
     "developer": "SEGA",
-    "title_zh": null,
     "external": {
       "bcn": 1
     }
@@ -20,16 +20,16 @@
   {
     "_id": 1003,
     "title": "CHUNITHM",
+    "alias": "中二节奏",
     "developer": "SEGA",
-    "title_zh": null,
     "external": {
       "bcn": 3
     }
   },
   {
     "_id": 1004,
-    "title": "オンゲキ",
-    "title_zh": "音擊",
+    "title": "音擊",
+    "alias": "オンゲキ",
     "developer": "SEGA",
     "external": {
       "bcn": 27
@@ -38,8 +38,8 @@
   {
     "_id": 1005,
     "title": "Project DIVA Arcade",
+    "alias": null,
     "developer": "SEGA",
-    "title_zh": null,
     "external": {
       "bcn": 24
     }
@@ -47,8 +47,8 @@
   {
     "_id": 2001,
     "title": "SOUND VOLTEX",
+    "alias": "音律炫动",
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 4
     }
@@ -56,8 +56,8 @@
   {
     "_id": 2002,
     "title": "beatmania IIDX",
+    "alias": "狂热节拍 IIDX",
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 5
     }
@@ -65,8 +65,8 @@
   {
     "_id": 2003,
     "title": "jubeat",
+    "alias": "乐动魔方",
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 6
     }
@@ -74,8 +74,8 @@
   {
     "_id": 2004,
     "title": "pop'n music",
+    "alias": null,
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 12
     }
@@ -83,8 +83,8 @@
   {
     "_id": 2005,
     "title": "REFLEC BEAT",
+    "alias": "动感弹珠",
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 14
     }
@@ -92,8 +92,8 @@
   {
     "_id": 2006,
     "title": "Nostalgia",
+    "alias": null,
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 7
     }
@@ -101,26 +101,26 @@
   {
     "_id": 2007,
     "title": "DANCERUSH",
+    "alias": "舞律炫步",
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 10
     }
   },
   {
     "_id": 2008,
-    "title": "Dance Dance Revolution",
+    "title": "DanceDanceRevolution",
+    "alias": "劲舞革命",
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 11
     }
   },
   {
     "_id": 2009,
-    "title": "Dance Evolution",
+    "title": "DanceEvolution",
+    "alias": "舞蹈进化",
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 13
     }
@@ -128,8 +128,8 @@
   {
     "_id": 2010,
     "title": "GITADORA DrumMania",
+    "alias": "狂热鼓手",
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 9
     }
@@ -137,8 +137,8 @@
   {
     "_id": 2011,
     "title": "GITADORA GuitarFreaks",
+    "alias": "吉他高手",
     "developer": "KONAMI",
-    "title_zh": null,
     "external": {
       "bcn": 8
     }
@@ -147,7 +147,7 @@
     "_id": 3001,
     "title": "GROOVE COASTER",
     "developer": "TAITO",
-    "title_zh": null,
+    "alias": "音炫轨道",
     "external": {
       "bcn": 16
     }
@@ -155,8 +155,8 @@
   {
     "_id": 4001,
     "title": "太鼓达人",
+    "alias": "太鼓の達人",
     "developer": "BANDAI NAMCO",
-    "title_zh": null,
     "external": {
       "bcn": 15
     }
@@ -164,7 +164,7 @@
   {
     "_id": 5001,
     "title": "WACCA",
-    "title_zh": "华卡音舞",
+    "alias": "华卡音舞",
     "developer": "Marvelous",
     "external": {
       "bcn": 17
@@ -172,9 +172,9 @@
   },
   {
     "_id": 6001,
-    "title": "EZ2DJ",
+    "title": "EZ2AC",
+    "alias": null,
     "developer": null,
-    "title_zh": null,
     "external": {
       "bcn": 18
     }
@@ -182,8 +182,8 @@
   {
     "_id": 6002,
     "title": "DJMAX Technika",
+    "alias": null,
     "developer": null,
-    "title_zh": null,
     "external": {
       "bcn": 21
     }
@@ -191,8 +191,8 @@
   {
     "_id": 6003,
     "title": "PUMP IT UP",
+    "alias": null,
     "developer": null,
-    "title_zh": null,
     "external": {
       "bcn": 19
     }
@@ -200,8 +200,8 @@
   {
     "_id": 9001,
     "title": "星光",
+    "alias": null,
     "developer": "华立科技",
-    "title_zh": null,
     "external": {
       "bcn": 20
     }
@@ -209,8 +209,8 @@
   {
     "_id": 9002,
     "title": "DANZ BASE",
+    "alias": "舞力特区",
     "developer": "IGS",
-    "title_zh": null,
     "external": {
       "bcn": 23
     }
@@ -218,16 +218,16 @@
   {
     "_id": 9003,
     "title": "鼓王",
+    "alias": null,
     "developer": "IGS",
-    "title_zh": null,
     "external": {
       "bcn": 22
     }
   },
   {
     "_id": 9004,
-    "title": "MuziBox",
-    "title_zh": "音炫疯",
+    "title": "音炫疯",
+    "alias": "MuziBox",
     "developer": "IGS",
     "external": {
       "bcn": 25

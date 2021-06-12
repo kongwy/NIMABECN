@@ -135,6 +135,13 @@ def fetch_regions():
         bs = BeautifulSoup(r.content, 'html.parser')
         cities = bs.find('table', attrs={'class': 'citytable'}).find_all('a')
         province['cities'] = []
+        if province['is_municipality']:
+            province['cities'] = [{
+                '_id': 1,
+                'name': province['name']
+            }]
+            province_list.append(province)
+            continue
         for city in cities:
             city_name = city.text.strip()
             if city_name.isdigit():

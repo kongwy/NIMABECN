@@ -134,6 +134,13 @@ def fetch_regions():
             '_id': region_id,
             'name': region_name
         }
+        t, m, b = int(region_id / 10000), int(region_id / 100) % 100, region_id % 100
+        if b != 0 and t not in [11, 12, 31, 50] and m not in [90]:
+            region['parent'] = t * 10000 + m * 100
+        elif m != 0:
+            region['parent'] = t * 10000
+        else:
+            region['parent'] = None
         print(region_name + ' fetched. ')
         regions.append(region)
     with open('regions.json', 'w', encoding='utf8') as w:

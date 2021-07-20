@@ -1,2 +1,3 @@
-# 573KW-Utils
-Utils for 573KW project.
+# NIMABECN
+
+Simple backend for 573KW, with data from BEMANICN's map website.

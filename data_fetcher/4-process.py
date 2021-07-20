@@ -81,8 +81,11 @@ def process(games_path, regions_path, detail_path, output_path):
                     'transport': shop['commute']
                 },
                 'coordinate': {
-                    'longitude': shop['location']['longitude'],
-                    'latitude': shop['location']['latitude']
+                    'type': 'Point',
+                    'coordinates': [
+                        shop['location']['longitude'],
+                        shop['location']['latitude']
+                    ]
                 },
                 'has': shop_machine,
                 'external': {

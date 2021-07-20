@@ -63,7 +63,7 @@
         "version": "音律炫动",
         "count": "2",
         "coin_per_play": "3",
-        "desc": "1组（世宇双人版）。左机故障。"
+        "desc": "1组（世宇双人版）。左机已修复。"
       },
       {
         "title": "GTDR DM",
@@ -161,15 +161,15 @@
     },
     "commute": "地铁1/4号线 西单站 F1出口",
     "coin_price": "2元",
-    "desc": "美团有该店一次性19.9元20币的套餐\r\n店里面巨热，且暂无风扇，建议少穿衣服并自备毛巾",
+    "desc": "美团有该店一次性19.9元20币的套餐\r\n店内暂无风扇，建议少穿衣服并自备毛巾\r\n大悦城内饮料较贵，建议在地铁站内或附近的7-11提前购买饮料",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "国行",
+        "version": "CH1.11-B",
         "count": "3",
         "coin_per_play": "2",
-        "desc": "机况不错\r\n最右侧机器2P屏幕色温偏冷，不影响游玩。\r\n3组机器均未开启续关功能，需要玩家重新扫描玩家二维码。"
+        "desc": "机况不错，续关功能已开启\r\n最右侧机器2P屏幕色温偏冷，不影响游玩。"
       },
       {
         "title": "太鼓达人",
@@ -227,7 +227,7 @@
         "version": "音炫轨道",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "由于e舞噪音的影响，游玩右侧机台必须戴耳机，左侧机台右手柄有故障。（没有椅子）"
+        "desc": "由于e舞噪音的影响，游玩右侧机台必须戴耳机，右侧机台手柄有故障！（没有椅子）"
       },
       {
         "title": "PUMP IT UP",
@@ -251,7 +251,31 @@
         "version": "骑士与公主",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "声音不太大，e舞释放噪音时勉强正常游玩"
+        "desc": "目前无法刷卡"
+      },
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "zero",
+        "count": "2",
+        "coin_per_play": "6",
+        "desc": ""
+      },
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "5",
+        "count": "4",
+        "coin_per_play": "3",
+        "desc": "断网"
+      },
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "8インフィニティ",
+        "count": "4",
+        "coin_per_play": "5",
+        "desc": "断网"
       }
     ]
   },
@@ -499,7 +523,7 @@
     },
     "commute": "地铁郭公庄/丰台科技园站，公交477/480/692/840/912/967路田何庄站",
     "coin_price": "1.5元",
-    "desc": "可小程序购币，有自助提币机，微信公众号注册免费赠10币。\r\n永旺舞萌dx交流群：1020013215\r\n\r\n已暂停营业，重开日期2021年7月1号",
+    "desc": "可小程序购币，有自助提币机，微信公众号注册免费赠10币。\r\n永旺舞萌dx交流群：1020013215\r\n\r\n已暂停营业",
     "machines": [
       {
         "title": "maimai DX",
@@ -585,7 +609,7 @@
         "version": "国行",
         "count": "1",
         "coin_per_play": "4",
-        "desc": ""
+        "desc": "机子一直都在的，怎么被删了，就在SDVX旁边。"
       },
       {
         "title": "SOUND VOLTEX",
@@ -687,6 +711,32 @@
       }
     ]
   },
+  "1137": {
+    "id": 1137,
+    "url": "https://map.bemanicn.com/shop/1137",
+    "name": "阿凡达儿童乐园",
+    "province": "北京市",
+    "city": "市辖区",
+    "district": "市辖区海淀区",
+    "address": "四道口路2号京果商厦B座",
+    "location": {
+      "longitude": 116.346118,
+      "latitude": 39.959901
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "美团点评有仅限一次的团购套餐，首次关注公众号验证手机可领30币，店内购币单价1~0.61不等。",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "2021",
+        "count": "1",
+        "coin_per_play": "5",
+        "desc": "前面有开放唱吧K歌台超大声，背面有e舞成名更大声，推荐自带耳机"
+      }
+    ]
+  },
   "890": {
     "id": 890,
     "url": "https://map.bemanicn.com/shop/890",
@@ -694,13 +744,13 @@
     "province": "北京市",
     "city": "市辖区",
     "district": "市辖区海淀区",
-    "address": "远大路金源购物中心-1层B12",
+    "address": "远大路金源购物中心-B1层",
     "location": {
-      "longitude": 116.29164,
-      "latitude": 39.958775
+      "longitude": 116.283186,
+      "latitude": 39.942194
     },
     "commute": "[地铁]长春桥 10号线（A口）；[公交]79、360、365、425、539、611、664、运通101、运通114、运通118 远大路东口站，74、437、运通124 长春桥站。",
-    "coin_price": "1元",
+    "coin_price": "2元",
     "desc": "待确认",
     "machines": [
       {
@@ -735,7 +785,7 @@
         "version": "国行2021",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "联网。公放音量尚可。耳机输出稍有杂音不影响游戏（无音时杂音明显）。【请使用排队板排队】"
+        "desc": "「B1F」联网。公放音量尚可。耳机输出稍有杂音不影响游戏（无音时杂音明显）。【请使用排队板排队】"
       },
       {
         "title": "maimai",
@@ -743,15 +793,7 @@
         "version": "FiNALE（茶/球）",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "【维修关机中】可刷Aime/BanaPass，暂不能刷AmuIC/Suica系。茶网、球网不定期轮换。"
-      },
-      {
-        "title": "SOUND VOLTEX",
-        "title_id": 4,
-        "version": "VIVID WAVE",
-        "count": "1",
-        "coin_per_play": "4                                         72",
-        "desc": "(Bjmania Service)可刷新老Epass/AmuIC/Suica系。有外置耳放（独立）。"
+        "desc": "「1F」可刷Aime/BanaPass，暂不能刷AmuIC/Suica系。茶网、球网不定期轮换。"
       },
       {
         "title": "beatmania IIDX",
@@ -759,7 +801,7 @@
         "version": "28 BISTROVER",
         "count": "1",
         "coin_per_play": "3                                         76",
-        "desc": "「里侧右」120Hz屏幕。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。没有米字屏和EQ滑条。刷卡器不定期失灵请联系staff重启。"
+        "desc": "「B1F」「里侧右」120Hz屏幕。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。没有米字屏和EQ滑条。刷卡器不定期失灵请联系staff重启。"
       },
       {
         "title": "beatmania IIDX",
@@ -767,7 +809,7 @@
         "version": "28 BISTROVER",
         "count": "1",
         "coin_per_play": "3                                         74",
-        "desc": "「里侧左」60Hz屏幕，轻微偏色与位移不影响游戏。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。"
+        "desc": "「B1F」「里侧左」60Hz屏幕，轻微偏色与位移不影响游戏。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。"
       },
       {
         "title": "beatmania IIDX",
@@ -775,7 +817,7 @@
         "version": "28 BISTROVER",
         "count": "1",
         "coin_per_play": "3                                         76",
-        "desc": "「外侧右」120Hz屏幕。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。刷卡器单侧失灵，请刷另一侧，待登出（密码超时、密码错误登出、选择模式取消付费）后再尝试刷卡，多试几次。若刷卡器双侧全失灵请联系staff重启机台。不定期参与直播。"
+        "desc": "「B1F」「外侧右」120Hz屏幕。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。刷卡器单侧失灵，请刷另一侧，待登出（密码超时、密码错误登出、选择模式取消付费）后再尝试刷卡，多试几次。若刷卡器双侧全失灵请联系staff重启机台。不定期参与直播。"
       },
       {
         "title": "jubeat",
@@ -783,7 +825,7 @@
         "version": "festo",
         "count": "1",
         "coin_per_play": "2                                         50",
-        "desc": "可能轻微震键。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。展示80p不要激动，实际扣p无问题；EXPERT OPTION不扣P。有外置耳放。"
+        "desc": "「B1F」可能轻微震键。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。展示80p不要激动，实际扣p无问题；EXPERT OPTION不扣P。有外置耳放。"
       },
       {
         "title": "Nostalgia",
@@ -791,7 +833,7 @@
         "version": "Op.3",
         "count": "1",
         "coin_per_play": "3                                         60",
-        "desc": "(Bjmania Service)可刷新老Epass/AmuIC/Suica系。"
+        "desc": "「1F」(Bjmania Service)可刷新老Epass/AmuIC/Suica系。"
       },
       {
         "title": "GTDR DM",
@@ -799,7 +841,7 @@
         "version": "HIGH-VOLTAGE",
         "count": "1",
         "coin_per_play": "3                                         72",
-        "desc": "白框，有耳放（调音台），外放声音大。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。"
+        "desc": "「B1F」白框，有耳放（调音台），外放声音大。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。"
       },
       {
         "title": "Dance Dance Revolution",
@@ -807,7 +849,7 @@
         "version": "A20 Plus",
         "count": "1",
         "coin_per_play": "3                                         72",
-        "desc": "CRT红框。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。屏幕稍欠。踏板时不时有点毛病。【请爱惜！】"
+        "desc": "「B1F」CRT红框。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。屏幕稍欠。踏板时不时有点毛病。【请爱惜！】"
       },
       {
         "title": "Pop'n music",
@@ -815,15 +857,7 @@
         "version": "peace",
         "count": "1",
         "coin_per_play": "3                                         54",
-        "desc": "CRT框体。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。有外置耳放。外放目前无声（？）"
-      },
-      {
-        "title": "Reflec beat",
-        "title_id": 14,
-        "version": "悠久のリフレシア",
-        "count": "1",
-        "coin_per_play": "2",
-        "desc": "(Bjmania Service)可刷新老Epass/AmuIC/Suica系（刷卡器在屏幕右边），不开放P点服务。有外置耳放。"
+        "desc": "「1F」CRT框体。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。有外置耳放。外放目前无声（？）"
       },
       {
         "title": "太鼓达人",
@@ -831,7 +865,7 @@
         "version": "新筐体 ニジイロ",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "暂无网。4曲保证。公棒小细棍，建议自带鼓棒。环境稍微有点吵，2p可能听不太清。机况尚可。不定期参与直播。"
+        "desc": "「B1F」暂无网。4曲保证。公棒小细棍，建议自带鼓棒。环境稍微有点吵，2p可能听不太清。机况尚可。不定期参与直播。"
       },
       {
         "title": "GROOVE COASTER",
@@ -839,7 +873,7 @@
         "version": "4MAX",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "【维修关机中】3曲。暂无网，暂不能刷卡。偶尔出现崩溃现象。"
+        "desc": "「1F」3曲。暂无网，暂不能刷卡。偶尔出现崩溃现象。"
       },
       {
         "title": "DANZBASE",
@@ -848,32 +882,6 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": ""
-      }
-    ]
-  },
-  "449": {
-    "id": 449,
-    "url": "https://map.bemanicn.com/shop/449",
-    "name": "land mark",
-    "province": "北京市",
-    "city": "市辖区",
-    "district": "市辖区海淀区",
-    "address": "海淀区华联3F东侧",
-    "location": {
-      "longitude": 116.295174,
-      "latitude": 39.973817
-    },
-    "commute": "公交",
-    "coin_price": "2元",
-    "desc": "币多买可打折 只有maimaifinale一组(1p2p)",
-    "machines": [
-      {
-        "title": "maimai",
-        "title_id": 2,
-        "version": "finale",
-        "count": "2",
-        "coin_per_play": "4",
-        "desc": "4曲 鸭盘未实装自动更新"
       }
     ]
   },
@@ -912,12 +920,12 @@
     "district": "市辖区通州区",
     "address": "新华东街289号院1号楼北京北投爱琴海购物公园M层",
     "location": {
-      "longitude": 116.658174,
-      "latitude": 39.908584
+      "longitude": 116.65806,
+      "latitude": 39.908692
     },
-    "commute": "",
+    "commute": "6号线地铁北关站下车后骑车1.3公里左右或乘342路至西大街路口东，公交车请乘坐322路或804/808等，到西大街路口西或西大街路口东下车",
     "coin_price": "1元",
-    "desc": "试运营，无空调风扇。出勤前请确认当日气温，店内温度不一定比店外气温低。想要便宜的币暂时要去西单买完了带到爱琴海玩，店内只有自动售币机，还有1000平米左右没装修。\r\n（打MAIMAI打累了可以去旁边的ROG体验店嫖电脑打会儿LOL(bushi)）",
+    "desc": "现预计7月底闭店装修\r\n预计7月底闭店装修\r\n预计7月底闭店装修\r\n再次开业的时间等待官方消息\r\n试运营，有冷气扇。要便宜的币要去西单买完了带到爱琴海玩，店内只有自动售币机，战队卡学生卡什么的暂时都不能用，也无法存币。\r\n（打MAIMAI打累了可以去旁边的ROG体验店嫖电脑打会儿LOL(bushi)）\r\n或者去蜜雪冰城买杯饮料喝(?)",
     "machines": [
       {
         "title": "maimai DX",
@@ -925,7 +933,7 @@
         "version": "CH1.11-A",
         "count": "2",
         "coin_per_play": "5",
-        "desc": "可4P，可续关。根据当日玩家叙述最左侧机体可能因电压不稳导致漏星，但是有待观察。"
+        "desc": "可4P，可续关。根据当日玩家叙述最左侧机体可能因电压不稳导致漏星，但是有待观察。右机略微震键。\r\n左机外放声音比较大，可以不戴耳机游玩。"
       },
       {
         "title": "WACCA",
@@ -933,7 +941,7 @@
         "version": "已于2021-6-21更新到华卡ver2",
         "count": "2",
         "coin_per_play": "0",
-        "desc": "新店开业华卡音舞 Free Play，华卡音舞和左侧MAIMAI靠近玻璃门，下午太阳直射两台华卡和左边MAIMAI的壳，暂时无空调风扇。"
+        "desc": "新店开业华卡音舞 Free Play，华卡音舞和左侧MAIMAI靠近玻璃门，下午太阳直射两台华卡和左边MAIMAI的壳。左机耳机孔有问题，缺失高频。华卡音舞左边就是e舞，噪音较大，推荐戴耳机游玩。"
       }
     ]
   },
@@ -951,7 +959,7 @@
     },
     "commute": "通州北苑 地铁八通线A口出站 / 666&806&通6路至通州西门路口东&北站/通州北苑路口东站，317路至通州西门路口南站，809路至复兴里站",
     "coin_price": "1.99元",
-    "desc": "美团20元15币\r\n前台可购买maimaiDX套餐 30元15次\r\n6月16日起暂时停业，具体开业时间未知（经理说他累了，歇会儿）",
+    "desc": "美团20元15币\r\n前台可购买maimaiDX套餐 30元15次\r\n和爱琴海风云再起只隔了一两站公交车，四舍五入一个地方有3台DX（",
     "machines": [
       {
         "title": "maimai DX",
@@ -1079,23 +1087,23 @@
     },
     "commute": "专62路 庑殿桥",
     "coin_price": "1元",
-    "desc": "楼上的部分饭店前台有20元的代金卡，可以直接用",
+    "desc": "美团有购币优惠",
     "machines": [
       {
         "title": "太鼓达人",
         "title_id": 15,
         "version": "12亚",
         "count": "1",
-        "coin_per_play": "1",
-        "desc": "2币2曲"
+        "coin_per_play": "2",
+        "desc": ""
       },
       {
         "title": "太鼓达人",
         "title_id": 15,
         "version": "14亚",
         "count": "1",
-        "coin_per_play": "1",
-        "desc": "在左边 店员优先开右边的12亚"
+        "coin_per_play": "2",
+        "desc": "号称全北京第一台14亚 画面亮度低 看不太清QAQ"
       }
     ]
   },
@@ -1221,7 +1229,7 @@
         "version": "CH1.11(2021)",
         "count": "3",
         "coin_per_play": "5",
-        "desc": "二号机右机有振键现象。金属入耳式耳机用户请注意，左边机台1p&2p耳机孔均有漏电现象，打歌时小概率漏电，请各位玩家注意，左1 2台可以快乐4p，第三台暂不支持"
+        "desc": "二号机右机有振键现象，由于力度不当导致1p部分按键壳损坏，2p碎了边框和部分按键，如果打第二台机子建议内屏。金属入耳式耳机用户请注意，左边机台1p&2p耳机孔均有漏电现象，打歌时小概率漏电，请各位玩家注意，左1 2台可以快乐4p，第三台暂不支持，三倍DX!"
       },
       {
         "title": "maimai",
@@ -1229,7 +1237,7 @@
         "version": "FiNALE",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "换装球盘！AmuIC支持！\r\n1P貌似刷不了aime兼容卡"
+        "desc": "换装球盘！AmuIC支持！\r\n请注意读卡器接反的问题"
       },
       {
         "title": "SOUND VOLTEX",
@@ -1238,6 +1246,14 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": "世宇套机，网络时好时坏，已更换原装旋钮电位器，按键已经更换为三和，弹簧20g"
+      },
+      {
+        "title": "beatmania IIDX",
+        "title_id": 5,
+        "version": "text=0",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "需要购买专门的彩虹pass 30一张，可以去前台购买"
       },
       {
         "title": "jubeat",
@@ -1253,7 +1269,7 @@
         "version": "festo",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "可刷新老Epass/AmuIC或者BJM卡，卡槽位于左下方，左侧有耳放（已坏）目前出现按键失灵问题 不建议游玩"
+        "desc": "可刷新老Epass/AmuIC或者BJM卡，卡槽位于左下方，左侧有耳放（已坏）游玩后记得取走卡片哦"
       },
       {
         "title": "DANCERUSH",
@@ -1269,7 +1285,7 @@
         "version": "解明リドルズ",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "原装机台，可刷AmuIC，Epass，已加装耳放，另有游玩指导书（赞美之心）"
+        "desc": "原装机台，2币3track，可刷AmuIC，Epass，已加装耳放，另有游玩指导书（赞美之心）"
       },
       {
         "title": "太鼓达人",
@@ -1282,10 +1298,10 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "Ver 2",
+        "version": "Ver 2 lily",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "右机耳机需插紧，左机耳机已坏"
+        "desc": "备注：如果想玩雪月花等曲子需要开vip，vip次数，价格登陆机台可以查阅\r\n右机耳机需插紧，左机耳机已坏"
       },
       {
         "title": "PUMP IT UP",
@@ -1299,9 +1315,9 @@
         "title": "头文字D",
         "title_id": 26,
         "version": "Zero",
-        "count": "4",
+        "count": "2",
         "coin_per_play": "4",
-        "desc": ""
+        "desc": "挡杆直接赛博朋克\r\n4P音量诉讼"
       }
     ]
   },
@@ -1477,7 +1493,7 @@
     },
     "commute": "泰兴南路站，28/30/47/48/327/368/369/511/666/706/862/912直达",
     "coin_price": "1元",
-    "desc": "侦测到在途的吴丽芳打击！！！\r\n买币建议从微信，优惠比支付宝美团大 98/115 177/220 268/360\r\n\r\n楼上有萨莉亚（",
+    "desc": "侦测到在途的吴丽芳打击！！！\r\n买币建议从微信，优惠比支付宝美团大 98/115 177/220 268/360\r\n未成年不让进！未成年不让进！未成年不让进！注意！！！！！（有成年的带你就能进）\r\n\r\n楼上有萨莉亚（",
     "machines": [
       {
         "title": "maimai DX",
@@ -1687,7 +1703,7 @@
         "version": "CH1.11(2021)",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "在大门口前，毕竟大悦城人很多，围观率极高（\r\nP.S机器饭量很好（机况稍差、节假日排队很久"
+        "desc": "在大门口前，毕竟大悦城人很多，围观率极高（\r\nP.S机器饭量很好（机况一般偏差，即使不是节假日有时也会出现8+人排队的盛装，建议在大悦城里左右互搏穿插玩"
       },
       {
         "title": "太鼓达人",
@@ -1696,6 +1712,32 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": "三币两首"
+      }
+    ]
+  },
+  "1117": {
+    "id": 1117,
+    "url": "https://map.bemanicn.com/shop/1117",
+    "name": "大玩家（东丽万达店）",
+    "province": "天津市",
+    "city": "市辖区",
+    "district": "市辖区东丽区",
+    "address": "先锋路南侧东丽万达广场",
+    "location": {
+      "longitude": 117.325822,
+      "latitude": 39.08103
+    },
+    "commute": "轻轨9号线 新立站；公交30、872、835等 东丽体育中心站。",
+    "coin_price": "1.5元",
+    "desc": "该店游玩只能刷卡，在此店买卡最少60元",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "2021",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "在机厅中央，新机机况良好。"
       }
     ]
   },
@@ -1721,7 +1763,7 @@
         "version": "大陆版",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "新机器"
+        "desc": "21年4月的新机器"
       },
       {
         "title": "太鼓达人",
@@ -1816,6 +1858,14 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": "现在e舞偶尔会比较吵，吴丽芳基本被静音了，每周五maimai免费"
+      },
+      {
+        "title": "WACCA",
+        "title_id": 17,
+        "version": "Ver2",
+        "count": "2",
+        "coin_per_play": "0",
+        "desc": "待调查"
       }
     ]
   },
@@ -1872,7 +1922,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.01-D",
+        "version": "CH1.11-A(2021)",
         "count": "1",
         "coin_per_play": "5",
         "desc": "状况时好时坏，不定期断触（）"
@@ -2011,7 +2061,7 @@
         "version": "3",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "联网"
+        "desc": "触屏翻转，维护中"
       },
       {
         "title": "鼓王",
@@ -2103,7 +2153,7 @@
         "version": "12亚",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "宽屏"
+        "desc": "宽屏,1p失灵"
       },
       {
         "title": "WACCA",
@@ -2160,8 +2210,8 @@
         "title_id": 1,
         "version": "1.01-E",
         "count": "1",
-        "coin_per_play": "3",
-        "desc": "新机器。"
+        "coin_per_play": "4",
+        "desc": "新机器。只能通过刷机厅的卡投币，无法使用实体币。"
       },
       {
         "title": "jubeat",
@@ -2211,7 +2261,15 @@
         "version": "12亚",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "并不是每天都会开机；\r\n屏幕严重偏色（偏蓝色）；\r\n1P鼓右半边操作不灵敏，2P鼓基本可用"
+        "desc": "在2021年6月更换了屏幕和鼓皮，当前存在以下问题：\r\n液晶屏画面“上下发抖”（相机拍不出来）；\r\n1P鼓左边鼓面正常，右边鼓面没反应，鼓边工作不稳定；\r\n2P鼓左边鼓面正常，右边鼓面基本没反应，但鼓边正常"
+      },
+      {
+        "title": "鼓王",
+        "title_id": 22,
+        "version": "2008",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "具体情况不明，开机的概率比《太鼓之达人》还小"
       }
     ]
   },
@@ -2246,6 +2304,48 @@
         "count": "1",
         "coin_per_play": "1",
         "desc": "虽然机台上面写的是2币，但实测只要1币"
+      }
+    ]
+  },
+  "1126": {
+    "id": 1126,
+    "url": "https://map.bemanicn.com/shop/1126",
+    "name": "再现狂潮电玩城",
+    "province": "河北省",
+    "city": "秦皇岛市",
+    "district": "秦皇岛市海港区",
+    "address": "杜庄镇中石油加油站南侧首钢赛车谷卡丁世界三楼",
+    "location": {
+      "longitude": 119.519785,
+      "latitude": 40.013623
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "营业时间10：00-21：00\r\n49元60币，99元200币，299元800币\r\n机况良好机台都较新\r\n店内的VR体验可以游玩节奏光剑（beat saber）（yi巴！）",
+    "machines": [
+      {
+        "title": "SOUND VOLTEX",
+        "title_id": 4,
+        "version": "5",
+        "count": "2",
+        "coin_per_play": "4",
+        "desc": "机台状况良好"
+      },
+      {
+        "title": "DANCERUSH",
+        "title_id": 10,
+        "version": "世宇国代",
+        "count": "2",
+        "coin_per_play": "2",
+        "desc": "机台状况良好，踏板很新"
+      },
+      {
+        "title": "WACCA",
+        "title_id": 17,
+        "version": "S",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": "机台状况良好，对，只有一台"
       }
     ]
   },
@@ -2286,8 +2386,8 @@
         "title_id": 26,
         "version": "Zero国行",
         "count": "2",
-        "coin_per_play": "5",
-        "desc": "币数不确定"
+        "coin_per_play": "4",
+        "desc": "机况良好 有一台油门较松"
       }
     ]
   },
@@ -2329,7 +2429,7 @@
         "version": "Zero国行",
         "count": "4",
         "coin_per_play": "3",
-        "desc": ""
+        "desc": "大玩家d0确实玩着便宜 但四台机况不容乐观 声音调的巨小 油门很松"
       }
     ]
   },
@@ -2479,6 +2579,32 @@
       }
     ]
   },
+  "1124": {
+    "id": 1124,
+    "url": "https://map.bemanicn.com/shop/1124",
+    "name": "米乐多邯郸丛台店",
+    "province": "河北省",
+    "city": "邯郸市",
+    "district": "邯郸市丛台区",
+    "address": "苏曹乡天虹广场a座3楼米乐多家庭中心",
+    "location": {
+      "longitude": 114.518826,
+      "latitude": 36.626302
+    },
+    "commute": "公交可乘9、24、29、30、38、49、59路劳模广场站下车，或乘24、29、40路迎宾路联纺路口站下车即到",
+    "coin_price": "1元",
+    "desc": "",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "国行",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "试营业期间1币一局"
+      }
+    ]
+  },
   "199": {
     "id": 199,
     "url": "https://map.bemanicn.com/shop/199",
@@ -2530,12 +2656,20 @@
         "desc": "球网，可刷和banapass系"
       },
       {
-        "title": "beatmania IIDX",
-        "title_id": 5,
-        "version": "大鱼吃小鱼27",
+        "title": "CHUNITHM",
+        "title_id": 3,
+        "version": "paradise lost",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "源台魔改机，BJM网，预计周内添加读卡器。"
+        "desc": "理网，2币三曲"
+      },
+      {
+        "title": "beatmania IIDX",
+        "title_id": 5,
+        "version": "大鱼吃小鱼28",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "源台魔改机，BJM网，已添加读卡器，不可使用paseli。"
       }
     ]
   },
@@ -2907,9 +3041,9 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "S",
+        "version": "Ver2",
         "count": "2",
-        "coin_per_play": "6",
+        "coin_per_play": "4",
         "desc": ""
       }
     ]
@@ -2975,7 +3109,7 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "S",
+        "version": "Ver2",
         "count": "2",
         "coin_per_play": "4",
         "desc": "声音较小，除了尝试回レ回レ都建议戴耳机"
@@ -3372,13 +3506,30 @@
     "district": "临汾市尧都区",
     "address": "解放路工贸购物中心5层",
     "location": {
-      "longitude": 111.522025,
-      "latitude": 36.083532
+      "longitude": 111.522175,
+      "latitude": 36.083466
     },
     "commute": "",
     "coin_price": "1元",
-    "desc": "",
-    "machines": []
+    "desc": "唯一不好的是最低价格30元",
+    "machines": [
+      {
+        "title": "PUMP IT UP",
+        "title_id": 19,
+        "version": "未联网",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": ""
+      },
+      {
+        "title": "MuziBox",
+        "title_id": 25,
+        "version": "已断网",
+        "count": "2",
+        "coin_per_play": "2",
+        "desc": "一台机子可能已坏"
+      }
+    ]
   },
   "326": {
     "id": 326,
@@ -4136,7 +4287,7 @@
     },
     "commute": "沈阳地铁沈阳站站D口；103、152、220、221、221区间、235、237、240、271、328、399沈阳站站；223、225、324、324区间、327、523、环路沈阳站南站；232路万达商业广场站。",
     "coin_price": "1元",
-    "desc": "机修态度不佳\r\n修机器频率不高但修的完美\r\n机厅有空调但是还是会热",
+    "desc": "机修态度不佳\r\n修机器频率不高但修的完美\r\n机厅有空调但是还是会热\r\n门口就是舞萌、舞立方、E舞成名，可能互相干扰",
     "machines": [
       {
         "title": "maimai DX",
@@ -4144,15 +4295,15 @@
         "version": "国行",
         "count": "1",
         "coin_per_play": "5",
-        "desc": "前台有卖30元15次的套餐\r\n不建议用币子打"
+        "desc": "前台有卖30元15次的套餐，不建议用币子打。设备现在门口，对面有E舞成名和舞立方，可能会互相干扰。"
       },
       {
         "title": "太鼓达人",
         "title_id": 15,
         "version": "12亚",
         "count": "1",
-        "coin_per_play": "3",
-        "desc": "屏幕污黑，框体十分破旧，鼓皮全漏了"
+        "coin_per_play": "2",
+        "desc": "鼓已经换新了，但屏幕依然发黑，被放在台球桌附近"
       },
       {
         "title": "GROOVE COASTER",
@@ -4168,7 +4319,7 @@
         "version": "1",
         "count": "2",
         "coin_per_play": "2",
-        "desc": "不开机"
+        "desc": "不开机，放在里面，跟太鼓达人是一边。"
       },
       {
         "title": "鼓王",
@@ -4177,6 +4328,14 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": "没有声音。。"
+      },
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "Zero",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": "Start键很硬，凭手感感觉不出来是有没有按下去……"
       }
     ]
   },
@@ -4259,10 +4418,10 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "国行",
+        "version": "CH1.11(2021)",
         "count": "1",
         "coin_per_play": "6",
-        "desc": ""
+        "desc": "1P按键有些毛病、2P屏幕有些问题，请窒息；投币口经常投不进币"
       },
       {
         "title": "PUMP IT UP",
@@ -4288,22 +4447,22 @@
     },
     "commute": "沈阳地铁中街站A口；105、113、117、131、133、150、179、218、219、248、298东顺城街北顺城路站。",
     "coin_price": "1元",
-    "desc": "无机修\r\n机器都被关到一个区域里\r\n要80块钱才能玩几个小时\r\n不用币子了\r\n前台有卖鸡盘卡 30元/张",
+    "desc": "无机修\r\n机器都被关到一个区域里\r\n要79块钱能玩一天\r\n不用币子了\r\n如果全天出勤还是比较合适的（\r\n前台有卖鸡盘卡 30元/张",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
         "version": "国行",
         "count": "2",
-        "coin_per_play": "4",
-        "desc": "新机，只开了一台"
+        "coin_per_play": "0",
+        "desc": "新机,路人拆机较多（"
       },
       {
         "title": "maimai",
         "title_id": 2,
         "version": "FiNALE",
         "count": "1",
-        "coin_per_play": "4",
+        "coin_per_play": "0",
         "desc": "支持，鸡盘。1P有时会吃音。"
       },
       {
@@ -4311,16 +4470,16 @@
         "title_id": 9,
         "version": "XG",
         "count": "1",
-        "coin_per_play": "4",
+        "coin_per_play": "0",
         "desc": "无鼓凳"
       },
       {
-        "title": "DANCERUSH",
-        "title_id": 10,
-        "version": "舞战纪",
-        "count": "1",
-        "coin_per_play": "6",
-        "desc": "6币3曲，双人8币"
+        "title": "星光",
+        "title_id": 20,
+        "version": "2",
+        "count": "2",
+        "coin_per_play": "0",
+        "desc": "断网"
       }
     ]
   },
@@ -4361,7 +4520,7 @@
   "87": {
     "id": 87,
     "url": "https://map.bemanicn.com/shop/87",
-    "name": "卡其部落电玩城",
+    "name": "卡奇部落电玩城（嘉斯猫电玩城）",
     "province": "辽宁省",
     "city": "沈阳市",
     "district": "沈阳市大东区",
@@ -4380,7 +4539,7 @@
         "version": "FiNALE",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "支持，茶盘，左边屏幕下方液晶漏液，有耳机插孔"
+        "desc": "支持，茶盘，1P左边屏幕下方液晶漏液，且疑似触屏有失效区域，有耳机插孔（应该是直接拿外放扬声器改的）"
       },
       {
         "title": "SOUND VOLTEX",
@@ -4464,23 +4623,23 @@
     },
     "commute": "沈阳地铁中街站A口；东顺城街北顺城路：105、113、117、131、133、150、179、218、219、219区间、299路。",
     "coin_price": "1元",
-    "desc": "可团购 9.9元30币 19.9元60币\r\n曾用名：金通娱乐城",
+    "desc": "可团购 4.9元21币（1次）；39.9元100币\r\n曾用名：金通娱乐城",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "国行",
+        "version": "CH1.11(2021)",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "戴耳机打有轻微电流声"
+        "desc": "戴耳机打有轻微电流声；两个内屏都有点脏，略微吃星吃touch"
       },
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "国行",
+        "version": "Ver2",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "key音较大不过可以调（前提你得有账号），建议带耳机"
+        "desc": "key音较大不过可以调（前提你得有账号）；外放基本无声且机台无耳机，请自戴耳机"
       }
     ]
   },
@@ -4616,7 +4775,7 @@
     },
     "commute": "沈阳地铁于洪广场站C口；依云首府北门：185、185支、186、187、226、501路；太湖街黄海路：189、284路。",
     "coin_price": "1元",
-    "desc": "",
+    "desc": "39元100币，99元270币",
     "machines": [
       {
         "title": "maimai DX",
@@ -4700,7 +4859,7 @@
         "version": "P2",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "不只是piu，e舞也是有的，音游机器都放一起了，说实在的，很吵（。\r\nps.这家店还有头文字D，本来想添加机台的，但又想为什么要在音游地图里开车（指游戏），就写在这里吧ᥬ😂᭄"
+        "desc": "不只是piu，e舞也是有的，音游机器都放一起了，说实在的，很吵（"
       },
       {
         "title": "头文字D",
@@ -4726,12 +4885,12 @@
     },
     "commute": "大连地铁人民广场站；公交：奥林匹克广场站",
     "coin_price": "2元",
-    "desc": "早上10点-晚上10点\r\n2元1币 50元50个 100元110个 周三充值活动100元150币(需要会员卡 首次充值不能使用优惠)\r\n店铺已从原地址迁移至四楼413a号商铺，具体位置为星巴克与电影院中间，6.20仍未开业，门口公告线路调整，各位通勤请注意。如果开业了有人看到这里记得删掉。",
+    "desc": "早上10点-晚上10点\r\n2元1币 50元50个 100元110个 周三充值活动100元150币(需要会员卡 首次充值不能使用优惠)\r\n店铺已从原地址迁移至四楼413a号商铺，具体位置为星巴克与电影院中间。",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "Ver.CH1.11-A",
+        "version": "Ver.CH1.11-B",
         "count": "1",
         "coin_per_play": "4",
         "desc": "机况良好"
@@ -4742,7 +4901,7 @@
         "version": "FiNALE",
         "count": "2",
         "coin_per_play": "3",
-        "desc": ""
+        "desc": "靠近dx的那一组1p没有外放"
       },
       {
         "title": "太鼓达人",
@@ -4805,10 +4964,10 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "国行世宇联网",
+        "version": "国行世宇联网（一代）",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "刷卡器一次刷 4 个币（3 局）。耳机孔不太好用了，每次要找半天位置，金属耳机会漏电，电死我了"
+        "desc": "刷卡器一次刷 4 个币（3 局）。耳机孔不太好用了，每次要找半天位置，金属耳机会漏电，电死我了；工作日不开机的话找staff帮你开或者你自己开（开关在机器后面）"
       }
     ]
   },
@@ -4839,7 +4998,7 @@
       {
         "title": "maimai",
         "title_id": 2,
-        "version": "Ver.JiNALE",
+        "version": "球盘",
         "count": "1",
         "coin_per_play": "3",
         "desc": "4曲设定。有外加看谱屏幕，需要自备 Aime 卡以存储成绩，也支持AIC和国内 Aime 兼容卡。注意:1P的2a键易损，卡死时呼叫工作人员处理即可。"
@@ -5044,7 +5203,7 @@
         "version": "12亚",
         "count": "1",
         "coin_per_play": "3",
-        "desc": ""
+        "desc": "1p2p鼓吃音较严重 重敲才能判定到 并且2p鼓棒少一根"
       }
     ]
   },
@@ -5151,14 +5310,14 @@
   "1051": {
     "id": 1051,
     "url": "https://map.bemanicn.com/shop/1051",
-    "name": "东方英雄（万熹城市公园店）",
+    "name": "东方英雄（万熹城市广场店）",
     "province": "辽宁省",
     "city": "鞍山市",
     "district": "鞍山市铁东区",
-    "address": "站前街与铁东二道街交叉口东南",
+    "address": "站前街与铁东二道街交叉口东南万熹城市广场7F",
     "location": {
-      "longitude": 122.989324,
-      "latitude": 41.109435
+      "longitude": 122.989344,
+      "latitude": 41.109447
     },
     "commute": "鞍山站出门向东步行  鞍山客运站出门后先向北步行，然后在第一个路口右转步行即可  附近经过的公交线路有： 8路，602路，43路，410路，34A路，28路，237A路，237C路，20A路，20C路，11A路，11B路，11C路，11D路，11E路，101路，101A路及长旅千山号，其中部分线路车隔较长，建议出发前查看公交发车信息",
     "coin_price": "1元",
@@ -5253,7 +5412,7 @@
         "title_id": 1,
         "version": "DX 2021（Ver. 1.11）",
         "count": "1",
-        "coin_per_play": "5",
+        "coin_per_play": "3",
         "desc": ""
       },
       {
@@ -5317,14 +5476,6 @@
     "desc": "2020年12月19日正式开业\r\nwacca只需三币，人很少，建议霸机（\r\n但是节假日会有很多人类幼崽打到一半跑掉，请做好收拾游客号的准备。\r\n楼下有饭店，性价比低，建议去外面买煎饼果子次。",
     "machines": [
       {
-        "title": "SOUND VOLTEX",
-        "title_id": 4,
-        "version": "5",
-        "count": "2",
-        "coin_per_play": "4",
-        "desc": ""
-      },
-      {
         "title": "DANCERUSH",
         "title_id": 10,
         "version": "STAEDOM",
@@ -5361,10 +5512,10 @@
       {
         "title": "maimai",
         "title_id": 2,
-        "version": "舞萌 1更",
+        "version": "舞立方",
         "count": "1",
         "coin_per_play": "3",
-        "desc": ""
+        "desc": "因为机台消失了"
       },
       {
         "title": "jubeat",
@@ -5645,16 +5796,16 @@
       "latitude": 41.128246
     },
     "commute": "4路/5路/9路内环/15路，钻井市场站",
-    "coin_price": "1.5元",
+    "coin_price": "1元",
     "desc": "",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "Ver.CH1.11-A",
+        "version": "Ver.CH1.11-B",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "据称偶有吃星问题，1P比2P更为严重。附近没有其他音游和比较吵闹的街机，环境也很良好。"
+        "desc": "据称偶有吃星问题，1P比2P更为严重。1P屏幕里有灰，不影响游玩。附近没有其他音游和比较吵闹的街机，环境也很良好。"
       }
     ]
   },
@@ -5808,7 +5959,7 @@
         "version": "FiNALE 鸡盘",
         "count": "1",
         "coin_per_play": "1",
-        "desc": "3曲/局，1P内屏A5判定区失灵；\r\n长春maimai玩家交流群：519107290"
+        "desc": "3曲/局，1P内屏A5判定区失灵；2P 7号键失灵；长春maimai玩家交流群：519107290"
       },
       {
         "title": "太鼓达人",
@@ -6038,7 +6189,15 @@
         "version": "CH1.01-D",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "机况良好，但1P存在轻微随机震键情况，2P情况ok，喇叭声音一般，可扫码/刷卡投币，续关功能已开启。\r\n长春maimai玩家交流群：519107290"
+        "desc": "因活动被暂时移动至一楼。机况良好，1P机况一般，会随机震键，2P三号键碎键，震键。可扫码/刷卡投币，续关功能已开启。\r\n长春maimai玩家交流群：519107290"
+      },
+      {
+        "title": "WACCA",
+        "title_id": 17,
+        "version": "Ver2",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": "机况良好。机台声音稍小，机台周围较吵，建议插入耳机游玩。仅支持投币，暂不可刷卡"
       },
       {
         "title": "PUMP IT UP",
@@ -6264,14 +6423,6 @@
     "desc": "万达旗下，基本靠刷卡",
     "machines": [
       {
-        "title": "jubeat",
-        "title_id": 6,
-        "version": "未知",
-        "count": "1",
-        "coin_per_play": "2",
-        "desc": "没有IC卡，半废状态"
-      },
-      {
         "title": "鼓王",
         "title_id": 22,
         "version": "2008",
@@ -6345,7 +6496,7 @@
         "version": "未知",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "目前不开机，可以尝试前台询问能否正常开机"
+        "desc": "目前不开机，可以尝试前台询问能否正常开机，打起来手感不佳"
       }
     ]
   },
@@ -6412,7 +6563,7 @@
   "73": {
     "id": 73,
     "url": "https://map.bemanicn.com/shop/73",
-    "name": "世宇乐园（吉林）",
+    "name": "世宇乐园（吉林欧亚综合体）",
     "province": "吉林省",
     "city": "吉林市",
     "district": "吉林市丰满区",
@@ -6431,7 +6582,7 @@
         "version": "国行",
         "count": "1",
         "coin_per_play": "5",
-        "desc": "仅投币，有当地或个人定期比赛\r\n1P和2P上屏有点进灰，但机况良好，进灰不影响游玩，1p现在右上角有破洞，游玩时请注意防止割伤"
+        "desc": "仅投币，有当地或个人定期比赛\r\n1P和2P上屏有点进灰，1p震键比较严重 2p轻微震键 ，1p现在右上角有破洞，游玩时请注意防止割伤\r\n吉林市唯一一台DX 请善待迪拉熊"
       },
       {
         "title": "太鼓达人",
@@ -6444,10 +6595,10 @@
       {
         "title": "鼓王",
         "title_id": 22,
-        "version": "未知",
+        "version": "骑士与公主",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "目前机台无人游玩，很少有人光顾，且机台目前不开机(或许可以问一下工作人员可不可以开)"
+        "desc": "目前机台无人游玩，很少有人光顾，且机台目前不开机(或许可以问一下工作人员可不可以开)不过目前有开（21.7.14）鼓棒落地请整理好捡起来"
       }
     ]
   },
@@ -6638,6 +6789,14 @@
         "desc": "机器不错 联网"
       },
       {
+        "title": "鼓王",
+        "title_id": 22,
+        "version": "骑士与公主",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": "屏幕良好，公棒偏重"
+      },
+      {
         "title": "MuziBox",
         "title_id": 25,
         "version": "已断网",
@@ -6770,8 +6929,8 @@
         "title_id": 19,
         "version": "Prime",
         "count": "1",
-        "coin_per_play": "0",
-        "desc": "币数待填"
+        "coin_per_play": "4",
+        "desc": ""
       }
     ]
   },
@@ -6808,11 +6967,27 @@
         "desc": ""
       },
       {
+        "title": "太鼓达人",
+        "title_id": 15,
+        "version": "亚洲版",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": ""
+      },
+      {
         "title": "DJMAX Technika",
         "title_id": 21,
         "version": "2",
         "count": "1",
         "coin_per_play": "0",
+        "desc": ""
+      },
+      {
+        "title": "鼓王",
+        "title_id": 22,
+        "version": "不知道",
+        "count": "1",
+        "coin_per_play": "4",
         "desc": ""
       }
     ]
@@ -6905,7 +7080,7 @@
       "longitude": 126.701362,
       "latitude": 45.755096
     },
-    "commute": "乘坐公交车201路、209路、268路、376路（2元）、553路（5元）至红博世纪广场站，地铁3号线（在建）会展中心站或海河东路站到达",
+    "commute": "乘坐公交车201路、209路、268路、376路（2元）、553路（5元）至红博世纪广场站，地铁3号线（在建）会展中心站或海河东路站到达266或者26路到会展中心站",
     "coin_price": "1元",
     "desc": "里面跟个迷宫一样 进去之前记得好好看看导引牌和指路标 记得拍照 不然一定会迷路",
     "machines": [
@@ -6932,6 +7107,14 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": ""
+      },
+      {
+        "title": "DANZBASE",
+        "title_id": 23,
+        "version": "origin",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "老机器，都好使"
       }
     ]
   },
@@ -7099,7 +7282,7 @@
       "longitude": 123.955309,
       "latitude": 47.344682
     },
-    "commute": "13路，7路等～",
+    "commute": "13路（齐市火车站直达)，7路等～",
     "coin_price": "1元",
     "desc": "新来的店家，似乎不太支持音游，等后继观望。\r\n（多勤！多勤！多勤！让老板知道音游机的潜力，收币多老板自然会重视的，期待回家能玩到各种最新最热 ----来自某不在齐市的玩家）",
     "machines": [
@@ -7109,7 +7292,7 @@
         "version": "1.99b",
         "count": "1",
         "coin_per_play": "1",
-        "desc": "1币4曲，刚优化完，打起来还是蛮爽的。\r\n无手套禁止出勤.jpg (逃)"
+        "desc": "1币4曲，刚优化完，打起来还是蛮爽的。\r\n无手套禁止出勤.jpg (逃)（平时人不算很多快来霸机（但是会被真人快打）"
       },
       {
         "title": "太鼓达人",
@@ -7195,7 +7378,7 @@
     },
     "commute": "",
     "coin_price": "1.5元",
-    "desc": "100币起购，无实体币，仅能刷大玩家专用币卡，卡中余额不可退。",
+    "desc": "单币1.5/个，多买有优惠。无实体币，仅能刷大玩家专用币卡，卡中余额不可退。",
     "machines": [
       {
         "title": "GROOVE COASTER",
@@ -7210,8 +7393,8 @@
         "title_id": 22,
         "version": "骑士与公主",
         "count": "1",
-        "coin_per_play": "0",
-        "desc": "免费鼓王，机况一般，选歌会误触，擀面杖鼓棒。"
+        "coin_per_play": "2",
+        "desc": "机况一般，选歌有概率误触，擀面杖鼓棒。"
       },
       {
         "title": "头文字D",
@@ -7237,7 +7420,7 @@
     },
     "commute": "乘801路在万达广场站下车",
     "coin_price": "1元",
-    "desc": "需临时卡，很麻烦，请咨询前台，不支持投币，币孔被塞住",
+    "desc": "无实体币，仅能刷大玩家专用币卡，卡中余额不可退。",
     "machines": [
       {
         "title": "jubeat",
@@ -7245,15 +7428,15 @@
         "version": "官二",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "一次五首歌，断网，机况良好。"
+        "desc": "一次五首歌，断网，按键有中度磨损，币孔堵塞，需要前台办卡使用"
       },
       {
         "title": "太鼓达人",
         "title_id": 15,
         "version": "12亚",
         "count": "1",
-        "coin_per_play": "3",
-        "desc": "左鼓右半面以瘫痪，右鼓的左鼓面还可以打个松，右鼓面些许吃音。"
+        "coin_per_play": "2",
+        "desc": "机台左鼓几乎完全损坏，如果不用鼓棒大力击打完全感应不到，右鼓状态还行，成色较差，大擀面杖。"
       },
       {
         "title": "鼓王",
@@ -7262,6 +7445,14 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": "声音特小，勉强可以玩，一次4歌，华语歌曲和名曲居多"
+      },
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "Zero",
+        "count": "4",
+        "coin_per_play": "5",
+        "desc": ""
       }
     ]
   },
@@ -7452,7 +7643,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "2",
         "coin_per_play": "6",
         "desc": "左机1P5号键震键严重，其余可正常游玩，请一定要戴耳机出勤(店内广播声音巨大+场内声音混杂)，最好不要戴金属入耳耳机（因为有概率轻微漏电）\r\n2组皆可续关，店内联机功能未开启！\r\n近期网络问题较严重，若断网，找机修可以退币重启"
@@ -7508,10 +7699,10 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "Ver 1/2",
+        "version": "Ver 2",
         "count": "4",
         "coin_per_play": "6",
-        "desc": "左边两机为Ver1，右边两机为Ver2\r\n触控板略灵敏，注意调节延迟。耳放状态时好时坏。\r\n右边两机的续关已开启。"
+        "desc": "所有机台已更新至Ver.2 (字体修正版）\r\n触控板略灵敏，注意调节延迟。耳放状态时好时坏。\r\n续关均已开启。"
       },
       {
         "title": "PUMP IT UP",
@@ -7616,7 +7807,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "1",
         "coin_per_play": "6",
         "desc": "机况一般，有部分按键存在震键和噪音过大问题，续关功能已开启，可刷币卡"
@@ -7924,7 +8115,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "1",
         "coin_per_play": "4",
         "desc": "新机到场优惠，何时恢复原价有待确认"
@@ -7984,7 +8175,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "2",
         "coin_per_play": "6",
         "desc": "左机2p4号键为淘宝键，右机为绿屏二批次机且扫码需尝试多次，两组皆可续关"
@@ -8121,23 +8312,23 @@
         "version": "finale",
         "count": "3",
         "coin_per_play": "3",
-        "desc": "离线，玩家自制盘"
+        "desc": "球盘/茶盘/玩家自制离线盘"
       },
       {
         "title": "音击",
         "title_id": 27,
-        "version": "R.E.D",
-        "count": "1",
-        "coin_per_play": "0",
-        "desc": "有对应卡机"
+        "version": "R.E.D PLUS",
+        "count": "2",
+        "coin_per_play": "6",
+        "desc": ""
       },
       {
         "title": "SOUND VOLTEX",
         "title_id": 4,
-        "version": "VIVID WAVE",
+        "version": "EXCEED GEAR",
         "count": "2",
         "coin_per_play": "5                                         84",
-        "desc": "可扫码支付,1 币 = 1 CREDIT\r\n前台有售分数记录卡,支持aic"
+        "desc": "前台有售分数记录卡，支持aic"
       },
       {
         "title": "beatmania IIDX",
@@ -8166,7 +8357,7 @@
       {
         "title": "GTDR GF",
         "title_id": 8,
-        "version": "NEX+AGE",
+        "version": "HIGH-VOLTAGE",
         "count": "1",
         "coin_per_play": "4                                         67",
         "desc": "支持"
@@ -8174,7 +8365,7 @@
       {
         "title": "GTDR DM",
         "title_id": 9,
-        "version": "NEX+AGE",
+        "version": "HIGH-VOLTAGE",
         "count": "1",
         "coin_per_play": "4                                         67",
         "desc": "支持"
@@ -8206,10 +8397,10 @@
       {
         "title": "GROOVE COASTER",
         "title_id": 16,
-        "version": "4 EX",
+        "version": "4 Max",
         "count": "1",
         "coin_per_play": "5",
-        "desc": "扫码支付,前台有售分数记录卡"
+        "desc": "维护中"
       },
       {
         "title": "ez2dj",
@@ -8233,7 +8424,7 @@
         "version": "3",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "Programmed Crew联网版"
+        "desc": "维护中"
       },
       {
         "title": "头文字D",
@@ -8264,18 +8455,10 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "1",
         "coin_per_play": "6",
         "desc": "2P的4号键震键。\r\n旁边是e舞，建议佩戴耳机，已提高外放音量。"
-      },
-      {
-        "title": "maimai",
-        "title_id": 2,
-        "version": "FINALE",
-        "count": "1",
-        "coin_per_play": "3",
-        "desc": "离线，左右音箱接反，机况不太好，按键可能有点吃音"
       },
       {
         "title": "太鼓达人",
@@ -8284,6 +8467,14 @@
         "count": "1",
         "coin_per_play": "2",
         "desc": "2币2曲，屏幕延迟注意\r\n1/2p右侧鼓面失灵，不建议游玩"
+      },
+      {
+        "title": "WACCA",
+        "title_id": 17,
+        "version": "Ver2",
+        "count": "2",
+        "coin_per_play": "0",
+        "desc": "待调查"
       }
     ]
   },
@@ -8301,12 +8492,12 @@
     },
     "commute": "地铁15号线 长风公园站",
     "coin_price": "1元",
-    "desc": "在室外商场，玩具反斗城旁\r\n风云再起实体代币全国通用，但是存只能存在同一家店内\r\n美团有该店9.9元25币的优惠套餐，需持证件且只能享受一次",
+    "desc": "在室外商场，玩具反斗城旁\r\n风云再起实体代币上海通用，但是存只能存在同一家店内\r\n美团有该店9.9元25币的优惠套餐，需持证件且只能享受一次",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "2",
         "coin_per_play": "6",
         "desc": "右侧那台的1p触屏存在一定概率完全失灵，遇到这种情况直接联系机修，其他时候均机况良好"
@@ -8322,10 +8513,10 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "S",
+        "version": "Ver.2.02.01.CHN.C",
         "count": "2",
         "coin_per_play": "6",
-        "desc": "21年四月时已搬走至门口跟maimai在一起，左边是吴丽芳，建议戴耳机"
+        "desc": "21年四月时已搬走至门口跟maimai在一起，左边是吴丽芳，建议戴耳机\r\n已更新至最新版Ver.2，耳机模块已随更新更换"
       },
       {
         "title": "头文字D",
@@ -8356,7 +8547,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "4",
         "coin_per_play": "6",
         "desc": "可进行联机，可续关；左3组为绿屏二批次机，右机为19年末老机\r\n全上海最贵DX(若无任何优惠，实际为12元一次)"
@@ -8446,7 +8637,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "2",
         "coin_per_play": "6",
         "desc": "两台机台按键比较光滑紧实，打上去很舒服"
@@ -8474,6 +8665,40 @@
         "count": "4",
         "coin_per_play": "4",
         "desc": ""
+      }
+    ]
+  },
+  "1104": {
+    "id": 1104,
+    "url": "https://map.bemanicn.com/shop/1104",
+    "name": "汤姆熊上海环球港店",
+    "province": "上海市",
+    "city": "市辖区",
+    "district": "市辖区普陀区",
+    "address": "中山北路3300号上海环球港L3层",
+    "location": {
+      "longitude": 121.412705,
+      "latitude": 31.231937
+    },
+    "commute": "地铁3、4、13号线到金沙江路站下",
+    "coin_price": "1元",
+    "desc": "机台在靠里边",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "CH1.11-B",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": "机况良好，绿屏机，已联网"
+      },
+      {
+        "title": "maimai",
+        "title_id": 2,
+        "version": "FiNALE",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "左右音响接反"
       }
     ]
   },
@@ -8614,7 +8839,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "Ver.CH1.11-A",
+        "version": "CH1.11-B",
         "count": "1",
         "coin_per_play": "3",
         "desc": "新机到店，机况良好，背后跳舞机声音不是很大可以不佩戴耳机"
@@ -8637,14 +8862,6 @@
     "coin_price": "1元",
     "desc": "商城装修完了，老早的事情了(",
     "machines": [
-      {
-        "title": "maimai",
-        "title_id": 2,
-        "version": "FINALE",
-        "count": "1",
-        "coin_per_play": "3",
-        "desc": "一局可以玩4首歌，1P按键有点接触不良，2P最上边屏幕似乎有吃音"
-      },
       {
         "title": "太鼓达人",
         "title_id": 15,
@@ -8702,13 +8919,13 @@
       "latitude": 31.107253
     },
     "commute": "地铁1号线莘庄站地铁南口步行600米",
-    "coin_price": "1元",
+    "coin_price": "1.5元",
     "desc": "大众：9.9元=33币/59.9元=70币/129.9元=168币\r\n办卡需交10元，作为币充入卡中，可在前台存币，会员有购币优惠。\r\n会员每币价格实惠 \r\n100元180币 200元460币 300元800币\r\n店内有排卡板",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "2",
         "coin_per_play": "6",
         "desc": "年底新上的机台，机况很好。两台机背靠背放置，报错可自行重启。"
@@ -8726,8 +8943,8 @@
         "title_id": 17,
         "version": "S",
         "count": "2",
-        "coin_per_play": "5",
-        "desc": "两台机子均较旧，维护不是很好。左机为旧批次，右机为新批次，两机灵敏度须自行适应，左右机耳放基本处于不可用状态,2021年2月底两台机子搬动到店门口，有时信号连接不太好，有可能结算时要等一段时间。"
+        "coin_per_play": "6",
+        "desc": "两台机子均较旧，维护不是很好。左机为旧批次，右机为新批次，两机灵敏度须自行适应，,2021年2月底两台机子搬动到店门口，有时信号连接不太好，有可能结算时要等一段时间。"
       },
       {
         "title": "头文字D",
@@ -8806,7 +9023,24 @@
     "commute": "",
     "coin_price": "1元",
     "desc": "人流不多的一家汤姆熊，太鼓达人5,12亚，maimai都有。十月底出勤时2pmaimai机器屏幕错位",
-    "machines": []
+    "machines": [
+      {
+        "title": "maimai",
+        "title_id": 2,
+        "version": "finale",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": ""
+      },
+      {
+        "title": "太鼓达人",
+        "title_id": 15,
+        "version": "5代",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": ""
+      }
+    ]
   },
   "732": {
     "id": 732,
@@ -8853,7 +9087,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "2",
         "coin_per_play": "6",
         "desc": "目前两台机器全部被搬到4楼风云再起大厅，按键均有一定程度的松动，有一定程度吃slide和touch的情况，2p尤其严重；机厅环境有点吵闹，出勤请带好耳机。现已支持续关。"
@@ -8898,7 +9132,7 @@
     },
     "commute": "地铁三号线宝杨路站（出站后沿宝杨路向东走15分钟左右）宝山10路 宝山7路 宝山15路 宝山29路 宝山9路在“宝杨路牡丹江路站”下",
     "coin_price": "1元",
-    "desc": "",
+    "desc": "机子在最里面，1p右下按键失灵，2p右侧屏幕有点失灵，机子吞币频繁；jubeat太鼓达人可能是搬走了，没有看到。",
     "machines": [
       {
         "title": "maimai",
@@ -8979,7 +9213,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "1",
         "coin_per_play": "3",
         "desc": "现在舞萌DX机台已经移动到游戏厅正门外豆捞坊火锅店边上，和e舞成名并排在一起，当中用储物格隔开；舞萌DX 30元玩15局套餐已经恢复购买;现在大玩家店内禁止使用实体游戏币，一律使用购买充值会员卡插卡进行游戏，所有的街机投币口用强力胶全封住了；新版本已经正常运行，删歌照常。"
@@ -8990,7 +9224,7 @@
         "version": "乐动魔方2代",
         "count": "2",
         "coin_per_play": "3",
-        "desc": "现在是关机（2月19日）的状态；右边机器机况较差，下半区按键几乎不是震就是坏，左边机器左下角按键失灵，若大力直接震，其余良好，不建议只为了jubeat的玩家前往。（如开机希望及时更改）"
+        "desc": "目前询问前台得知机器已经撤走"
       },
       {
         "title": "太鼓达人",
@@ -9016,7 +9250,7 @@
     },
     "commute": "地铁13号线 金运路站 出站步行2分钟左右",
     "coin_price": "1元",
-    "desc": "店铺正在进行升级改造，预计开业时间6月底。",
+    "desc": "店铺7月1日重新开业，已搬至二楼。舞萌2021的u盘没到暂时断网，其他机台是否还在有待确认。",
     "machines": [
       {
         "title": "maimai DX",
@@ -9147,7 +9381,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "1",
         "coin_per_play": "6",
         "desc": ""
@@ -9181,7 +9415,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "4",
         "coin_per_play": "6",
         "desc": "机况恶化中...\r\n靠近前台的两台:\r\n右起第一台机器2P耳机插孔接触不良并且屏幕有些滑,耳机孔有电流声，1P按键较硬,\r\n右起第二台机器死机问题已解决，屏幕有灰，2P耳机孔没有声音，1P电流声重\r\n进门左手边(靠近娃娃机):\r\n右起第一台机器需要凑近了刷二维码，网络问题已解决\r\n右起第二台机器一切正常\r\n有风扇和衣架"
@@ -9213,7 +9447,7 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "Ver.1.50.01.CHN.C",
+        "version": "Ver.2",
         "count": "2",
         "coin_per_play": "6",
         "desc": "2020年9月23日到店，机况较好，但是左侧机位的耳机接触不良，需要多调整耳机插头位置。\r\n现已移动到太鼓达人附近。环境声音比较吵建议做好听力保护."
@@ -9467,7 +9701,7 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "Ver.1.50.00.CHN.C",
+        "version": "Ver.2",
         "count": "2",
         "coin_per_play": "6",
         "desc": "全新，1P屏幕问题已修复"
@@ -9618,6 +9852,32 @@
       }
     ]
   },
+  "1122": {
+    "id": 1122,
+    "url": "https://map.bemanicn.com/shop/1122",
+    "name": "上海欢乐谷",
+    "province": "上海市",
+    "city": "市辖区",
+    "district": "市辖区松江区",
+    "address": "佘山林湖路888号上海欢乐谷欢乐海洋",
+    "location": {
+      "longitude": 121.21285,
+      "latitude": 31.095703
+    },
+    "commute": "2号线佘山站转接驳车",
+    "coin_price": "2.5元",
+    "desc": "欢乐谷海洋馆里意外发现，有框体奇怪的太鼓。",
+    "machines": [
+      {
+        "title": "太鼓达人",
+        "title_id": 15,
+        "version": "12亚",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "长期没人碰也没人维护的感觉，总不可能跑进去出勤吧……\r\n鼓棒很重"
+      }
+    ]
+  },
   "659": {
     "id": 659,
     "url": "https://map.bemanicn.com/shop/659",
@@ -9679,7 +9939,7 @@
       {
         "title": "太鼓达人",
         "title_id": 15,
-        "version": "14日",
+        "version": "12框升14",
         "count": "1",
         "coin_per_play": "2",
         "desc": "2币1曲 2p吃音"
@@ -9689,7 +9949,7 @@
         "title_id": 22,
         "version": "2008",
         "count": "1",
-        "coin_per_play": "4",
+        "coin_per_play": "2",
         "desc": ""
       },
       {
@@ -9698,7 +9958,7 @@
         "version": "头文字d8",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "3p坏了，所有机子均未联网"
+        "desc": "所有机子均未联网（"
       }
     ]
   },
@@ -9716,20 +9976,20 @@
     },
     "commute": "地铁乘3号线在南京林业大学·新庄站下从3号口出跟公交24/40路到曹后村站下从2号门进直上电梯3F",
     "coin_price": "1元",
-    "desc": "(ps:特殊时期2号门封闭需要从1号门进)",
+    "desc": "如果有看到路人拆机请麻烦制止谢谢",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
         "version": "CH1.11",
-        "count": "1",
+        "count": "2",
         "coin_per_play": "5",
         "desc": "南京风云全线新价格qwq 实则是涨价惹（然后又降价了( ॑꒳ ॑ )）"
       },
       {
         "title": "maimai",
         "title_id": 2,
-        "version": "finale 1.99B",
+        "version": "finale 1.99B/JiNALE 2.33",
         "count": "2",
         "coin_per_play": "3",
         "desc": "左为没有读卡器的鸭盘，左位二号键区域触屏严重失灵，右位六号键轻微失灵。\r\n右边的机台已经简体中文破解可联网Jinale，左位扬声器失灵没有声音但机况良好，右位三号键间歇性故障，勉强能用。\r\n两台均为3币/4首，全南京最划算。"
@@ -9779,16 +10039,8 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "wacca s",
-        "count": "2",
-        "coin_per_play": "4",
-        "desc": "4币3首，需要wacca基本会员/vip次数"
-      },
-      {
-        "title": "WACCA",
-        "title_id": 17,
         "version": "lily",
-        "count": "2",
+        "count": "4",
         "coin_per_play": "4",
         "desc": ""
       },
@@ -9837,7 +10089,7 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "S",
+        "version": "Ver2",
         "count": "4",
         "coin_per_play": "4",
         "desc": "4币3首，需要wacca基本会员/vip次数\r\n出现过游玩途中断网的情况"
@@ -10016,7 +10268,7 @@
     },
     "commute": "地铁二号线集庆门大街7A口出，经所街地道过街，公交江东中路应天大街下（步行距离短）",
     "coin_price": "1元",
-    "desc": "出门右转厕所门口有饮水机。**由于Wacca在大门口并且Maimai在其一侧，店面在儿童用品楼层所以概率会有熊孩出现；店面过大（是卡丁车体验改的）业务繁杂容易出现人挤人的高峰，请务！必！保管好自身财物（泪",
+    "desc": "出门右转厕所门口有饮水机。**由于Wacca在大门口并且Maimai在其一侧，店面在儿童用品楼层所以概率会有熊孩出现；店面过大（是卡丁车体验改的）业务繁杂容易出现人挤人的高峰，请务！必！保管好自身财物（泪\r\n(旧框在金鹰世界9楼，坐电梯到8楼后乘扶梯到9楼，位于卢米埃影城门口)",
     "machines": [
       {
         "title": "maimai DX",
@@ -10025,6 +10277,14 @@
         "count": "2",
         "coin_per_play": "5",
         "desc": "屏幕拖判严重，吃星星吃touch，环境热到爆炸，狗都不玩"
+      },
+      {
+        "title": "maimai",
+        "title_id": 2,
+        "version": "finale 1.99b",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "断网，不能刷卡，机况良好，3币3曲"
       },
       {
         "title": "WACCA",
@@ -10079,7 +10339,7 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "S",
+        "version": "Ver2",
         "count": "2",
         "coin_per_play": "4",
         "desc": "4币3首，需要wacca基本会员/vip次数。只有伴奏，唱声小到几乎没有，戴不戴耳机都一样，以反映且看会不会搭理，，，"
@@ -10099,6 +10359,32 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": "待补充"
+      }
+    ]
+  },
+  "1119": {
+    "id": 1119,
+    "url": "https://map.bemanicn.com/shop/1119",
+    "name": "反斗乐园（星际传奇）",
+    "province": "江苏省",
+    "city": "南京市",
+    "district": "南京市浦口区",
+    "address": "浦珠北路1号",
+    "location": {
+      "longitude": 118.730653,
+      "latitude": 32.125056
+    },
+    "commute": "目前无直达地铁（S8延长线和11号线）仅可公交车到浦珠北路·大桥北路/桥荫路北下车从FILA旁边的电梯上三楼就能看到了",
+    "coin_price": "1.5元",
+    "desc": "店内可能会时不时有买币的套餐，找几个人拼币会便宜一点",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "Ver.CH1.11",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": ""
       }
     ]
   },
@@ -10196,6 +10482,32 @@
       }
     ]
   },
+  "1115": {
+    "id": 1115,
+    "url": "https://map.bemanicn.com/shop/1115",
+    "name": "惠山万达大玩家",
+    "province": "江苏省",
+    "city": "无锡市",
+    "district": "无锡市惠山区",
+    "address": "吴韵路321号",
+    "location": {
+      "longitude": 120.299553,
+      "latitude": 31.675063
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "有一台老旧的太鼓（\r\n但貌似使用的是擀面杖？？！手感很烂建议自带棒",
+    "machines": [
+      {
+        "title": "太鼓达人",
+        "title_id": 15,
+        "version": "12亚",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "很旧 手感不好"
+      }
+    ]
+  },
   "825": {
     "id": 825,
     "url": "https://map.bemanicn.com/shop/825",
@@ -10210,7 +10522,7 @@
     },
     "commute": "",
     "coin_price": "1元",
-    "desc": "大部分机子只能刷此店的充值卡，无法投币",
+    "desc": "大部分机子只能刷此店的充值卡，无法投币，充值卡最低消费100仅限本店使用",
     "machines": [
       {
         "title": "maimai DX",
@@ -10347,10 +10659,10 @@
     "district": "无锡市梁溪区",
     "address": "苏宁广场3层309E号商铺",
     "location": {
-      "longitude": 120.303109,
-      "latitude": 31.575607
+      "longitude": 120.296285,
+      "latitude": 31.550461
     },
-    "commute": "",
+    "commute": "地铁1号线三阳广场站 苏宁广场出口",
     "coin_price": "1元",
     "desc": "",
     "machines": [
@@ -10376,7 +10688,7 @@
         "version": "Ver.2 Lily",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "左边机台声音较大，耳机孔插不严会漏电，右边机台声音较小，耳机孔正常，出勤可备耳机"
+        "desc": "左边机台声音较大，耳机孔插不严会漏电，右边机台声音较小，耳机孔正常，出勤可备耳机\r\n2021.7.8右边机台仍损坏不能使用 只有左边可以用"
       },
       {
         "title": "PUMP IT UP",
@@ -10570,7 +10882,7 @@
         "version": "国行 联网",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "可以通过游艺宝扫码登录记录成绩"
+        "desc": "基本玩不了，可以通过游艺宝扫码登录记录成绩"
       }
     ]
   },
@@ -10627,16 +10939,8 @@
       {
         "title": "SOUND VOLTEX",
         "title_id": 4,
-        "version": "5",
-        "count": "3",
-        "coin_per_play": "18",
-        "desc": ""
-      },
-      {
-        "title": "SOUND VOLTEX",
-        "title_id": 4,
         "version": "6",
-        "count": "1",
+        "count": "4",
         "coin_per_play": "18",
         "desc": ""
       },
@@ -10722,7 +11026,7 @@
     },
     "commute": "",
     "coin_price": "1元",
-    "desc": "",
+    "desc": "美团团购有更便宜的币",
     "machines": [
       {
         "title": "maimai DX",
@@ -10903,10 +11207,10 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11",
+        "version": "CH1.11-A",
         "count": "1",
         "coin_per_play": "6",
-        "desc": "建议携带耳机出勤"
+        "desc": "环境噪音较大，建议携带耳机出勤。机况一般，1p触摸屏 A7区域坏 需要用力才有判定 内屏玩家注意。"
       },
       {
         "title": "maimai",
@@ -10927,7 +11231,7 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "S",
+        "version": "Ver2",
         "count": "2",
         "coin_per_play": "6",
         "desc": "似乎1P触摸板不太灵敏"
@@ -10956,7 +11260,7 @@
         "version": "2021",
         "count": "1",
         "coin_per_play": "6",
-        "desc": "1P2P内屏吃键非常严重 本地玩家不建议在此出勤"
+        "desc": "电压不稳内屏没法正常游玩 不建议在此出勤\r\n不介意的社恐玩家可以出勤 以及刷牌子"
       },
       {
         "title": "WACCA",
@@ -10982,7 +11286,7 @@
     },
     "commute": "东方之门地铁站，苏州中心出口",
     "coin_price": "1.5元",
-    "desc": "机厅刷卡，卡100起办。南区6楼电影院边上",
+    "desc": "机厅刷卡，办卡无下限，200元及以上是会员。南区6楼电影院边上",
     "machines": [
       {
         "title": "maimai DX",
@@ -11153,7 +11457,7 @@
         "title_id": 1,
         "version": "国行",
         "count": "1",
-        "coin_per_play": "0",
+        "coin_per_play": "3",
         "desc": "待补充"
       },
       {
@@ -11205,6 +11509,40 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": "旁边就是e舞，出勤建议耳机。非会员3币，会员1币。"
+      }
+    ]
+  },
+  "1125": {
+    "id": 1125,
+    "url": "https://map.bemanicn.com/shop/1125",
+    "name": "嗨倍堂超级乐园",
+    "province": "江苏省",
+    "city": "南通市",
+    "district": "南通市海门市",
+    "address": "长江南路105号正西方向130米",
+    "location": {
+      "longitude": 121.183973,
+      "latitude": 31.878216
+    },
+    "commute": "",
+    "coin_price": "0.7元",
+    "desc": "",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "dx",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "cool"
+      },
+      {
+        "title": "太鼓达人",
+        "title_id": 15,
+        "version": "10",
+        "count": "1",
+        "coin_per_play": "1",
+        "desc": ""
       }
     ]
   },
@@ -11368,7 +11706,7 @@
         "version": "国行",
         "count": "1",
         "coin_per_play": "6",
-        "desc": "位置在店门口鹅舞旁边\r\n注：连续游玩时出现未知原因随机吃音，时不时断网。\r\n淮安maimai玩家交流群:786679394"
+        "desc": "位置在店门口鹅舞旁边\r\n注：连续游玩时出现未知原因随机吃音，时不时断网。内屏框已锈，不建议使用白色手套。\r\n淮安maimai玩家交流群:786679394"
       }
     ]
   },
@@ -11527,7 +11865,7 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "S",
+        "version": "Ver2",
         "count": "2",
         "coin_per_play": "5",
         "desc": "左机情况（1号）：机况良好，尽量戴耳机玩，因为左边挨着的是舞立方。耳机孔需要调试一下，没调试好可能只有key音或者没有人声，能听见学姐的声音就没啥问题了，玩的人挺少的，基本上可以霸机。如果触摸板粘手可以让工作人员帮忙清洁一下。"
@@ -11860,12 +12198,12 @@
         "version": "CH-1.11",
         "count": "1",
         "coin_per_play": "5",
-        "desc": "会员4币，1P偶尔黑屏，短时间内无法修复"
+        "desc": "会员4币。  1P 5号键震键"
       },
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "世宇代理",
+        "version": "世宇代理VER2",
         "count": "2",
         "coin_per_play": "5",
         "desc": "会员4币"
@@ -12010,6 +12348,32 @@
       }
     ]
   },
+  "1100": {
+    "id": 1100,
+    "url": "https://map.bemanicn.com/shop/1100",
+    "name": "万达大玩家（富阳）",
+    "province": "浙江省",
+    "city": "杭州市",
+    "district": "杭州市富阳区",
+    "address": "金桥北路990号杭州富阳万达广场2楼",
+    "location": {
+      "longitude": 119.933344,
+      "latitude": 30.089688
+    },
+    "commute": "地铁6号线至高桥站，往南走约200米",
+    "coin_price": "1元",
+    "desc": "散币30元起售，充值100元=110币，高额充值有其它优惠（未调查完全）",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "国行",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "机厅开业价2币一把，预计后期涨至3币，按键较软，屏幕良好，但偶尔会断网"
+      }
+    ]
+  },
   "770": {
     "id": 770,
     "url": "https://map.bemanicn.com/shop/770",
@@ -12116,15 +12480,15 @@
     },
     "commute": "地铁2号线路林站、公交工程学院东校区站、公交工程学院北大门站",
     "coin_price": "20元",
-    "desc": "【近期暂不开放】\r\n【标0币的机台暂不可用】\r\n校外访问请加社团群私聊管理员预约\r\n详细社团介绍信息参考b站专栏\r\nQQ群：167837761\r\nBilibili/微博：您宫PIU音游社/宁波工程学院PIU音游社\r\n\r\n活动时间：12:30 - 22:00\r\n接待时间：12:30 - 20:00",
+    "desc": "【标0币的机台暂不可用】\r\n校外访问请加社团群私聊管理员预约\r\n详细社团介绍信息参考b站专栏\r\nQQ群：167837761\r\nBilibili/微博：您宫PIU音游社/宁波工程学院PIU音游社",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
         "version": "CH1.11",
         "count": "1",
-        "coin_per_play": "0",
-        "desc": "【即将上线】"
+        "coin_per_play": "20",
+        "desc": ""
       },
       {
         "title": "maimai",
@@ -12440,7 +12804,7 @@
         "version": "国行",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "单人3曲，双人4曲，有电风扇和桌子"
+        "desc": "单人3曲，双人4曲，有电风扇和桌子，2p位置耳机位有电流声"
       },
       {
         "title": "maimai",
@@ -12448,7 +12812,7 @@
         "version": "FiNALE",
         "count": "2",
         "coin_per_play": "3",
-        "desc": "原装日框，JiNALE联网。可刷Aime/AmuIC/BanaPass/Suica，左机左后方有电风扇。\r\n左机2P黑屏无法游玩，2台机子单人/双人游玩均4曲。"
+        "desc": "原装日框，JiNALE联网。可刷Aime/AmuIC/BanaPass/Suica，左机左后方有电风扇。\r\n左台机子单人/双人游玩均4曲。\r\n部分按键卡键。"
       },
       {
         "title": "SOUND VOLTEX",
@@ -12817,6 +13181,32 @@
       }
     ]
   },
+  "1131": {
+    "id": 1131,
+    "url": "https://map.bemanicn.com/shop/1131",
+    "name": "秀斗城邦（绍兴越城区店）",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "district": "绍兴市越城区",
+    "address": "解放南路777号银泰城（金帝店）",
+    "location": {
+      "longitude": 120.578737,
+      "latitude": 29.98515
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "七月底进maimai",
+    "machines": [
+      {
+        "title": "鼓王",
+        "title_id": 22,
+        "version": "鼓王3骑士与公主",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": ""
+      }
+    ]
+  },
   "349": {
     "id": 349,
     "url": "https://map.bemanicn.com/shop/349",
@@ -12851,32 +13241,6 @@
       }
     ]
   },
-  "351": {
-    "id": 351,
-    "url": "https://map.bemanicn.com/shop/351",
-    "name": "万达广场大玩家（绍兴）",
-    "province": "浙江省",
-    "city": "绍兴市",
-    "district": "绍兴市柯桥区",
-    "address": "称山北路399号万达广场F3层",
-    "location": {
-      "longitude": 120.845385,
-      "latitude": 30.052857
-    },
-    "commute": "万达广场站",
-    "coin_price": "1元",
-    "desc": "会员优惠\r\n本店另有：\r\n音炫疯\t\t2\t\t按键有刮痕\r\n注：还有一台仿钢琴的音游（不知道名字）",
-    "machines": [
-      {
-        "title": "jubeat",
-        "title_id": 6,
-        "version": "官2",
-        "count": "2",
-        "coin_per_play": "3",
-        "desc": "左边那台音响不好，右边那台震键"
-      }
-    ]
-  },
   "350": {
     "id": 350,
     "url": "https://map.bemanicn.com/shop/350",
@@ -12903,6 +13267,32 @@
       }
     ]
   },
+  "351": {
+    "id": 351,
+    "url": "https://map.bemanicn.com/shop/351",
+    "name": "万达广场大玩家（绍兴上虞店）",
+    "province": "浙江省",
+    "city": "绍兴市",
+    "district": "绍兴市上虞区",
+    "address": "称山北路399号万达广场F3层3F-A",
+    "location": {
+      "longitude": 120.84437,
+      "latitude": 30.053534
+    },
+    "commute": "万达广场站",
+    "coin_price": "1元",
+    "desc": "会员优惠\r\n本店另有：\r\n音炫疯\t\t2\t\t按键有刮痕\r\n注：还有一台仿钢琴的音游（不知道名字）",
+    "machines": [
+      {
+        "title": "jubeat",
+        "title_id": 6,
+        "version": "官2",
+        "count": "2",
+        "coin_per_play": "3",
+        "desc": "左边那台音响不好，右边那台震键"
+      }
+    ]
+  },
   "352": {
     "id": 352,
     "url": "https://map.bemanicn.com/shop/352",
@@ -12920,6 +13310,14 @@
     "desc": "",
     "machines": [
       {
+        "title": "maimai",
+        "title_id": 2,
+        "version": "舞立方",
+        "count": "2",
+        "coin_per_play": "3",
+        "desc": "舞力方"
+      },
+      {
         "title": "太鼓达人",
         "title_id": 15,
         "version": "12亚",
@@ -12928,12 +13326,12 @@
         "desc": "3track 水泥鼓棒，1p吃键严重可能无法正常选曲，2p鼓况尚可"
       },
       {
-        "title": "星光",
-        "title_id": 20,
-        "version": "？",
+        "title": "鼓王",
+        "title_id": 22,
+        "version": "2008",
         "count": "2",
-        "coin_per_play": "99",
-        "desc": "币数未知"
+        "coin_per_play": "3",
+        "desc": "有一台是坏的"
       }
     ]
   },
@@ -12967,7 +13365,7 @@
         "version": "12亚",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "鼓况不好\r\n建议1p打左上角2p打右上角"
+        "desc": "鼓况不好\r\n建议1p打左上角2p打右上角\r\n有时候会吃币\r\n1p鼓槌少了一个"
       },
       {
         "title": "WACCA",
@@ -13071,14 +13469,14 @@
     },
     "commute": "",
     "coin_price": "1元",
-    "desc": "6月重新装修开业，会有舞萌dx",
+    "desc": "1元一币\r\n100元110枚游戏币\r\n300元350枚游戏币\r\n500元600枚游戏币\r\n1000元1300枚游戏币\r\n2000元3000枚游戏币\r\n会员卡10元/张，一周可以领5个币，有效期一年\r\n另有公众号（摩兜欢乐岛黄岩店）会经常有活动且签到一周10个币\r\n有兴趣的可以加Q群：1064936063，一起击剑",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
         "version": "国行",
         "count": "1",
-        "coin_per_play": "0",
+        "coin_per_play": "4",
         "desc": "待补充"
       }
     ]
@@ -13097,7 +13495,7 @@
     },
     "commute": "地铁二号线至四牌楼从A口出，或乘公交至小东门站",
     "coin_price": "1元",
-    "desc": "刚开业，大众点评上有49.9元100币的优惠",
+    "desc": "刚开业，大众点评上有49.9元100币的优惠。\r\n注意：该机厅间歇性营业，长时间处于关闭状态",
     "machines": [
       {
         "title": "maimai DX",
@@ -13123,7 +13521,7 @@
     },
     "commute": "",
     "coin_price": "0.5元",
-    "desc": "营业时间每天10：00-次日00：30",
+    "desc": "营业时间每天10：00-次日00：30\r\n（好像停业了……）",
     "machines": [
       {
         "title": "PUMP IT UP",
@@ -13173,7 +13571,7 @@
         "version": "MiLK PLUS",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "机台原来的的FiNALE主机已彻底损坏\r\n1p画面太暗，可能会影响读谱，2p小概率吃音\r\n已维修完成"
+        "desc": "机台原来的的FiNALE主机已彻底损坏\r\n1p画面太暗，可能会影响读谱，2p小概率吃音\r\n已维修完成\r\n最近出现不能开机的情况，正在维护中"
       },
       {
         "title": "DANCERUSH",
@@ -13367,7 +13765,7 @@
     },
     "commute": "地铁1号线或者5号线往云谷路C出口出站即可到达商场，机厅在3楼",
     "coin_price": "1元",
-    "desc": "1元1币，购买新会员套餐比较优惠，最低5毛1币",
+    "desc": "1元1币，购买新会员套餐比较优惠，最低5毛1币（1000r/2138b）",
     "machines": [
       {
         "title": "maimai DX",
@@ -13596,7 +13994,7 @@
       "latitude": 30.524991
     },
     "commute": "9路",
-    "coin_price": "2元",
+    "coin_price": "1元",
     "desc": "",
     "machines": [
       {
@@ -13681,7 +14079,7 @@
         "version": "JiNALE 2.15",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "已由鸭盘更换至鸡盘，鸭盘卡可直刷。4首；1P5、6两个键不灵，2P1、2键位置的触控不灵，机修很少维修。\r\n补：已知目前2p1,2号键对应内屏触控不灵，4号键（外键）不灵，强烈建议手劲不大者游玩1p"
+        "desc": "已由鸭盘更换至鸡盘，鸭盘卡可直刷。4首；1P5、6两个键不灵，2P1、2键位置的触控不灵，机修很少维修。\r\n补：已知目前2p1,2号键对应内屏触控不灵，4号键（外键）不灵，强烈不建议游玩。"
       },
       {
         "title": "PUMP IT UP",
@@ -13817,7 +14215,7 @@
     },
     "commute": "地铁1号线东街口C口出站（可以直接走底下，有个免过街通道的指示标，走进去往下走到kfc/唐沐茶兮旁边右拐上楼即可，就在永辉对面，通道开放时间10：00-22：00）。附近公交：南街站（1、20、8、22、66、101、117、121、356）（往南门方向公交站下车后走手扶梯下去即可，反向请过地道或走花巷教堂边上斑马线，尽量不要直接横穿马路）；东街口站（5、19、27、55、74、80、88、102、117、118、301、310、317、327、K1）（较远，建议走东街口地铁站通道过街（需安检））",
     "coin_price": "1.5元",
-    "desc": "店内大部分机台(除星光2和所有B系机台外)均可刷会员币卡\r\nbana卡前台有售（有一定概率缺货！） 40/张 50/一张卡+15游戏币\r\n也可在福州maimai群/BEMANI系玩家交流群购买bjmania游戏卡，mai群群号在maimai机台上方，BEMANI玩家请咨询现场玩家扫码加群\r\n（店内不售epass/AIC卡，请提前自备卡片，或者去咲窝那边买aic）\r\nP点充值方法请自行加QQ群咨询，店内不负责充值。\r\n由于负二楼装修对应位置装修4号电梯下楼会有点麻烦（要绕一圈），建议走手扶梯（也可以使用湾岸后面的5-6号电梯）\r\n22：00以后所有电梯通道关闭，请走门口手扶梯上楼\r\n部分机子会在闭店前提前关机，请合理安排游戏时间，如果出勤时发现机子没开可呼叫机修或者导玩开机\r\n另：店内maimai新旧框中间新加了衣架 出勤的各位请把脱下来的外套挂上面 谢谢！储物架在maimaidx和jubeat中间，东西每天都会清理\r\n音游区有一个还行的手机能用的三脚架和一个不大好使的，需要录手元自行取出即可\r\n机子如果有问题，请到对应的玩家群进行反馈，现场游玩有问题时可以使用按钮呼叫工作人员\r\n代币价格：\r\n100=90（不送积分） 200=220 500=650 1000=1500 3000=5200 会员卡（炫风卡）第一次办免工本费（需至少买200=220的套餐，店内已经不再提供0元欢乐卡），后续补卡费用为10元/次，每月前台签到送10币（暴风卡为50币），公众号签满7天送10币，生日当月前台凭身份证签到送50币（暴风卡为300币），充值对应套餐送对应价格积分，有效期一年，每年到期后需扣除300积分或再购买套餐即可续期（暴风卡为2000积分续期），满20000分升级暴风卡（20积分换1币）\r\n美团有8.8=15(仅能购买一次）和99.9=100（可多次购买）的套餐，其他活动可以关注本地群或者店铺公众号\r\nmaimai玩家可以申请加入玩家会，每月一次100=200和六次50=75（具体请在群内咨询）\r\n营业时间：\r\n10:00～23:00（部分节假日可能会提前或者延后闭店，可加店铺微信群咨询）",
+    "desc": "店内大部分机台(除星光2和所有B系机台外)均可刷会员币卡\r\nbana卡前台有售（有一定概率缺货！） 40/张 50/一张卡+15游戏币\r\n也可在福州maimai群/BEMANI系玩家交流群购买bjmania游戏卡，mai群群号在maimai机台上方，BEMANI玩家请咨询现场玩家扫码加群\r\n（店内不售epass/AIC卡，请提前自备卡片，或者去咲窝那边买aic）\r\nP点充值方法请自行加QQ群咨询，店内不负责充值。\r\n由于负二楼装修对应位置装修4号电梯下楼会有点麻烦（要绕一圈），建议走手扶梯（也可以使用湾岸后面的5-6号电梯）\r\n22：00以后所有电梯通道关闭，请走门口手扶梯上楼\r\n部分机子会在闭店前提前关机，请合理安排游戏时间，如果出勤时发现机子没开可呼叫机修或者导玩开机\r\n另：店内maimai新旧框中间新加了衣架 出勤的各位请把脱下来的外套挂上面 谢谢！储物架在maimaidx和jubeat中间，东西每天都会清理\r\n音游区有一个还行的手机能用的三脚架和一个不大好使的，需要录手元自行取出即可\r\n机子如果有问题，请到对应的玩家群进行反馈，现场游玩有问题时可以使用按钮呼叫工作人员\r\n*店内已经发生偷东西事件，请各位务必保管好贵重物品，不要在机台上随意乱丢\r\n代币价格：\r\n100=90（不送积分） 200=220 500=650 1000=1500 3000=5200 会员卡（炫风卡）第一次办免工本费（需至少买200=220的套餐，店内已经不再提供0元欢乐卡），后续补卡费用为10元/次，每月前台签到送10币（暴风卡为50币），公众号签满7天送10币，生日当月前台凭身份证签到送50币（暴风卡为300币），充值对应套餐送对应价格积分，有效期一年，每年到期后需扣除300积分或再购买套餐即可续期（暴风卡为2000积分续期），满20000分升级暴风卡（20积分换1币）\r\n美团有8.8=15(仅能购买一次）和99.9=100（可多次购买）的套餐，其他活动可以关注本地群或者店铺公众号\r\nmaimai玩家可以申请加入玩家会，每月一次100=200和六次50=75（具体请在群内咨询）\r\n营业时间：\r\n10:00～23:00（部分节假日可能会提前或者延后闭店，可加店铺微信群咨询）\r\n（顺带麻烦各位bemani系的音游机种能多投币就投币吧，机厅最近收益开始下滑了，虽然刷p点其实大部分会比投币便宜）",
     "machines": [
       {
         "title": "maimai DX",
@@ -13833,7 +14231,7 @@
         "version": "联网FiNALE",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "球盘 单人3曲/双人4曲 可刷aime/bana/aic/BJM卡 有耳放可插耳机\r\n人多时请使用旁边隔音板上的板子排卡\r\n（虽然是日框有摄像头但是不支持内录）\r\n（福州maimai交流群：582387137）"
+        "desc": "球盘 单人3曲/双人4曲 可刷aime/bana/aic/BJM卡 有耳放可插耳机（耳放延长线已丢失，请直接插耳放，会有一定程度的打机影响）\r\n人多时请使用旁边隔音板上的板子排卡\r\n（虽然是日框有摄像头但是不支持内录）\r\n*希望各位看到路人拆机的时候能上去提醒，如果劝阻无效请第一时间去本地群反馈并呼叫机修\r\n（福州maimai交流群：582387137）"
       },
       {
         "title": "beatmania IIDX",
@@ -14007,7 +14405,7 @@
         "version": "国行（Ver.2）",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "机器已实装（可用）\r\n已升级最新最热Ver.2，大家快来玩鸭"
+        "desc": "机器已实装（可用）\r\n已升级最新最热Ver.2，大家快来玩鸭（福州WACCA交流群：776736005）"
       },
       {
         "title": "DANZBASE",
@@ -14049,7 +14447,7 @@
         "version": "finale",
         "count": "1",
         "coin_per_play": "0",
-        "desc": "盘已炸，等待维修"
+        "desc": "球盘 可刷//banapassport"
       },
       {
         "title": "CHUNITHM",
@@ -14063,9 +14461,9 @@
         "title": "SOUND VOLTEX",
         "title_id": 4,
         "version": "5",
-        "count": "1",
+        "count": "2",
         "coin_per_play": "0",
-        "desc": "源台，由于不明原因暂时只能手改card1.txt刷卡。\r\n刷不上卡请叫店员检查，默认使用公卡游玩。"
+        "desc": "官机/手台机，手台机为源台，可刷"
       },
       {
         "title": "beatmania IIDX",
@@ -14073,7 +14471,7 @@
         "version": "28 Bistrover",
         "count": "1",
         "coin_per_play": "0",
-        "desc": "已更新至20210426，仿TDJ 120HZ，dao台dp台，可刷。可以打极段位。\r\n解禁存档和BJM其他机台互通，但不包含BMS/INF移植曲。\r\n刷卡前请确认刷卡手机设置在1p还是2p（需手动切换）"
+        "desc": "仿TDJ 120HZ，dao台dp台，可刷。可以打极段位。\r\n解禁存档和BJM其他机台互通，但不包含BMS/INF移植曲。\r\n刷卡前请确认刷卡手机设置在1p还是2p（需手动切换）"
       },
       {
         "title": "jubeat",
@@ -14334,7 +14732,7 @@
   "363": {
     "id": 363,
     "url": "https://map.bemanicn.com/shop/363",
-    "name": "厦门宣窝（装修闭店中）",
+    "name": "厦门宣窝",
     "province": "福建省",
     "city": "厦门市",
     "district": "厦门市思明区",
@@ -14345,7 +14743,7 @@
     },
     "commute": "1 . BRT：到莲坂站下车  2 . 公交： 莲坂北站或者莲前站下车，莲前站下车需要过天桥  3 . 出租车/滴滴：明发商业广场  PS：不推荐坐地铁",
     "coin_price": "1元",
-    "desc": "窝开始装修，预计6月底7月初恢复营业\r\n店内所有b系机子均为bjm网且不支持paseli\r\nIIDX/ub为公卡\r\n因机台间干扰严重 请出勤时自带耳机 店内所有机台都有耳放\r\n另店内二楼有大洋化学日麻桌x1，30/小时，需提前预约\r\n营业时间：\r\n周一至周四：14:00-22:30\r\n周五至周日：12:30-23:00",
+    "desc": "店内所有b系机子均为bjm网且不支持paseli\r\nIIDX/ub为公卡\r\n因机台间干扰严重 请出勤时自带耳机 店内所有机台都有耳放\r\n另店内二楼有大洋化学日麻桌x1，30/小时，需提前预约\r\n营业时间：\r\n周一至周四：14:00-22:30\r\n周五至周日：12:30-23:00",
     "machines": [
       {
         "title": "maimai",
@@ -14358,10 +14756,10 @@
       {
         "title": "CHUNITHM",
         "title_id": 3,
-        "version": "AMAZON",
+        "version": "PARADISE",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "转账收费，目测舟台高三版，联网但使用一个固定账号，不可刷AIME"
+        "desc": "转账收费，目测舟台高三版，联网，可刷"
       },
       {
         "title": "SOUND VOLTEX",
@@ -14377,7 +14775,7 @@
         "version": "28 BISTROVER",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "2元/8分钟 20元/天\t扫码转账收费方式"
+        "desc": "2元/局(Pf模式固定每局8分钟) 20元/天\t扫码转账收费方式"
       },
       {
         "title": "jubeat",
@@ -14809,8 +15207,8 @@
         "title_id": 15,
         "version": "12亚洲版",
         "count": "1",
-        "coin_per_play": "3",
-        "desc": "1P易吃音 1P右鼓面故障"
+        "coin_per_play": "2",
+        "desc": "1P右鼓面故障\r\n2P左鼓面有问题"
       },
       {
         "title": "MuziBox",
@@ -14873,12 +15271,12 @@
     "district": "泉州市石狮市",
     "address": "宝岛中路泰禾广场二楼L211-213",
     "location": {
-      "longitude": 118.645761,
-      "latitude": 24.736617
+      "longitude": 118.67057,
+      "latitude": 24.731004
     },
     "commute": "",
     "coin_price": "1.5元",
-    "desc": "maimai jinale旁有125二代，有小鬼会去拆机(",
+    "desc": "",
     "machines": [
       {
         "title": "maimai",
@@ -15158,7 +15556,7 @@
     },
     "commute": "公交车？地铁？建议打滴，定位万宝广场⑤号门。下车后⑤号门左方SOHO国际A1栋。",
     "coin_price": "1元",
-    "desc": "~~~欢迎光临龙岩琉璃屋~~~\r\n~~~本窝24H营业哦~~~\r\n~~~进窝时请告知入场时间哦~~~谢谢配合！\r\n~！！！当天入住窝内请看③！！！~\r\n~①、进窝时请预付8元/小时，6小时及超过6小时封顶48元直到晚上23点59分（当天上午10点至晚上23点59分）~\r\n~②、追加包夜32元（当天晚上23点59分至次日上午10点）~\r\n~③、一次性付80元/天，当天上午10点至次日上午10点为一天。~\r\n~~琉璃屋内带有洗衣机跟烘干机以及一次性洗漱用品。~~\r\n~~maimai及其他机台均已安装耳放~~\r\n~~机台间隔较近，建议自带耳机哦~~\r\n~~VR设备已到店（可玩beat saber）~~\r\n~~详情请加QQ群咨询：1074678909~~",
+    "desc": "！！！由于窝内现状入不敷出(玩家实在太少），我们已经决定在2021年9月关闭琉璃屋，谢谢你们的参与！！！\r\n~~~欢迎光临龙岩琉璃屋~~~\r\n~~~本窝24H营业哦~~~\r\n~~~进窝请预支付进窝费用哦~~~\r\n~~~谢谢您的配合~~~\r\n！！！为了“平衡”窝内的支出，价格再次变动，详情价格请看下方店铺照片，2021年7月12日起生效。至2021年9月1日止！！！\r\n~~琉璃屋内带有洗衣机跟烘干机以及一次性洗漱用品~~\r\n~~maimai及其他机台均已安装耳放~~\r\n~~机台间隔较近，建议自带耳机哦~~\r\n~~VR设备已安装（可玩beat saber）~~\r\n~~详情请加QQ群咨询：1074678909~~\r\n~~谢谢您的参与，九月我们后会无期（何时能东山再起呢？）~~",
     "machines": [
       {
         "title": "maimai",
@@ -15292,7 +15690,7 @@
         "version": "milk",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "精文机 1P触屏上方不灵容易掉蓝条"
+        "desc": "精文机 1P触屏上方不灵容易掉蓝条，外键有被拆过。"
       }
     ]
   },
@@ -15519,7 +15917,7 @@
         "version": "2021",
         "count": "1",
         "coin_per_play": "5",
-        "desc": "游玩需排卡，左舞立方右e舞，目前舞萌音量已经开到最大，主要是主持人卖力有些吵，建议出勤带耳机以防万一（现在已加装风扇及手机支架）"
+        "desc": "游玩需排卡，左舞立方右e舞，目前舞萌音量已经开到最大，主要是主持人卖力有些吵，建议出勤带耳机以防万一。门店现免费提供SONY头戴式耳机一副供玩家游玩舞萌借用，如有需要请至收银台暂押个人证件即可借用，用完请整洁归还至收银台，如有损坏照价赔偿。（现在已加装风扇及手机支架）"
       },
       {
         "title": "太鼓达人",
@@ -15665,6 +16063,32 @@
       }
     ]
   },
+  "1106": {
+    "id": 1106,
+    "url": "https://map.bemanicn.com/shop/1106",
+    "name": "小棕熊游乐园",
+    "province": "江西省",
+    "city": "萍乡市",
+    "district": "萍乡市安源区",
+    "address": "楚萍东路秋收广场润达国际3楼",
+    "location": {
+      "longitude": 113.85078,
+      "latitude": 27.643806
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "",
+    "machines": [
+      {
+        "title": "maimai",
+        "title_id": 2,
+        "version": "Finale 鸡盘",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "联网，屏幕些许划痕，刷卡器可使用 aime 及其他兼容卡"
+      }
+    ]
+  },
   "944": {
     "id": 944,
     "url": "https://map.bemanicn.com/shop/944",
@@ -15710,10 +16134,10 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "2021 CH1.11",
+        "version": "守护最好的舞萌DX2021",
         "count": "1",
         "coin_per_play": "5",
-        "desc": "最早一批DX，机况还算能玩，已经换过按键，屏幕比起其他地方的只能说一般，小概率吃"
+        "desc": "最早一批DX，机况还算能玩，已经换过按键，屏幕比起其他地方的只能说一般，大概率吃"
       },
       {
         "title": "头文字D",
@@ -15979,7 +16403,7 @@
         "version": "Ver.CH1.11-A",
         "count": "3",
         "coin_per_play": "3",
-        "desc": "机台旁没有风扇，凳子也很少，请保管好随身物品，以及谨防小孩拆机。三台机器均不能联机，未开起续关。2号机和3号机1P耳机孔有电流，3号机2P屏幕有一道竖黑线，请窒息"
+        "desc": "0.机台旁没有风扇，凳子也很少，请保管好随身物品，以及谨防小孩拆机。\r\n1.三台机器均已开续关，但不能联机。\r\n2.2号机和3号机1P耳机孔有电流，3号机2P屏幕有一道竖黑线，请窒息。\r\n3.2号机2p和3号机可能会出现因电压不稳导致的触摸屏失灵现象，可找前台补币，但不好解决（重启解决不了）。\r\n4.店铺网络不好，可能会出现卡登录禁言或保存数据失败，请直接找前台重启及补币。"
       },
       {
         "title": "WACCA",
@@ -16137,7 +16561,7 @@
       "longitude": 120.391001,
       "latitude": 36.109146
     },
-    "commute": "三号线清江路站走站内地下通道（很长）可直接到达保利广场1层（地下通道的保利广场入口在KFC旁边），呃……到保利的公车太多了(´；ω；｀)乘坐公车请自行查询，如果是在马路北侧靠近保利广场一侧的和达中心城公交站下车，请顺着车站北边稍微直走一小段路看到有KFC提示的向下的楼梯进门（实际就是进地下通道的楼梯，但看到KFC就知道入口了！），请不要继续再往车站北边走乘电梯到地下通道（可能会把自己绕晕），如果在地铁双山站或保儿馨都公交站下车请按地图指引找到商场正门",
+    "commute": "三号线清江路站走站内地下通道（很长）可直接到达保利广场1层（地下通道的保利广场入口在KFC旁边），呃……到保利的公车太多了(´；ω；｀)乘坐公车请自行查询，1.如果是在马路北侧靠近保利广场一侧的和达中心城公交站下车，请顺着车站北边稍微直走一小段路看到有KFC提示的向下的楼梯进门（实际就是进地下通道的楼梯，但看到KFC就知道入口了！）2.请不要继续再往车站北边走乘电梯到地下通道（可能会把自己绕晕）3.如果在地铁双山站或保儿馨都公交站下车请按地图指引找到商场正门",
     "coin_price": "1元",
     "desc": "工作日除了IIDX其他音游机大多是关闭的状态（机厅为了省电费），如果想玩请联系机厅工作人员开机。",
     "machines": [
@@ -16162,8 +16586,8 @@
         "title_id": 6,
         "version": "festo",
         "count": "1",
-        "coin_per_play": "2",
-        "desc": "联网，2币5首\r\n因为不可控原因会3分钟卡顿一次。"
+        "coin_per_play": "0",
+        "desc": "联网存分，1号键暂时无法使用，预计很快修复.有paseli但机厅不支持充值。如果出现读卡器失灵或LED BOARD ERROR请在机器背后下方开关重启"
       },
       {
         "title": "Reflec beat",
@@ -16221,7 +16645,7 @@
         "version": "国行版本",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "全新机器，山东唯一"
+        "desc": "全新机器，山东唯一，最近正在维修，暂不开放【悲】"
       }
     ]
   },
@@ -16305,7 +16729,7 @@
         "version": "WACCA Lily (Ver.2.02.00.CHN.C)",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "旁边的maimai声音很大，建议带耳机。"
+        "desc": "旁边的maimai声音很大，建议带耳机。1p耳机接触不良，请尝试改变耳机线插入的角度和程度再开始游玩。"
       },
       {
         "title": "PUMP IT UP",
@@ -16415,7 +16839,7 @@
         "version": "2021",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "屏幕偏暗 联网正常 位置偏里 1P4号键和五号键微震 其余一切正常"
+        "desc": "屏幕偏暗 联网正常 位置偏里 一切正常 震键已修复"
       },
       {
         "title": "鼓王",
@@ -16449,7 +16873,7 @@
     },
     "commute": "934 935 936 773",
     "coin_price": "1元",
-    "desc": "现有bj jubeat festo 自制框体sdvx eg 原装框体bio2 iidx28~详细欢迎咨询QQ:3196218314",
+    "desc": "现已测试阶段开放\r\nIIDX28 bio2原装框体\r\njubeat festo p4io机\r\n自制SDVX框体sdvx eg \r\n全机型[eamu][aic]epass刷卡支持。机台手感已调优功能正常全三和按键弹簧，ub更换晓舟脚垫。\r\n详细欢迎咨询QQ:3196218314～",
     "machines": [
       {
         "title": "SOUND VOLTEX",
@@ -16457,7 +16881,7 @@
         "version": "6代",
         "count": "1",
         "coin_per_play": "1",
-        "desc": "自制框体功能正常，可以刷实体epass。"
+        "desc": "自制SDVX框体目前运行6代SDVX EG。按键为三和按键60g弹簧。可以刷全协议epass"
       },
       {
         "title": "beatmania IIDX",
@@ -16465,7 +16889,7 @@
         "version": "IIDX 28 BISTROVER",
         "count": "1",
         "coin_per_play": "0",
-        "desc": "已接入bjmania，现正常运行。不能投币只能刷epass[支持aic等各类限定卡片]使用paseli。如没有epass可以提供临时白卡以供使用。机台情况慢慢化1p带耳放。"
+        "desc": "运行IIDX 28已接入bjmania，机框良好已调优。1/2p全三和按键20g弹簧，米子屏推子已经修复完美现正常运行。\r\n1p位有耳放，可以自带耳机。支持全协议epass。如没有epass可以提供白卡。"
       },
       {
         "title": "jubeat",
@@ -16473,7 +16897,7 @@
         "version": "festo",
         "count": "1",
         "coin_per_play": "1                                         114514",
-        "desc": "bjmania"
+        "desc": "bjmania\r\np4io机脚垫已更换晓舟脚垫手感优。可以刷全协议epass"
       }
     ]
   },
@@ -16540,18 +16964,18 @@
   "242": {
     "id": 242,
     "url": "https://map.bemanicn.com/shop/242",
-    "name": "茂业天地哈雷慧6号星球",
+    "name": "哈雷慧6号星球",
     "province": "山东省",
     "city": "淄博市",
     "district": "淄博市张店区",
-    "address": "公园街道柳泉路152号茂业天地3楼西北角",
+    "address": "银泰城3楼西区",
     "location": {
-      "longitude": 118.050485,
-      "latitude": 36.807907
+      "longitude": 118.035226,
+      "latitude": 36.848197
     },
-    "commute": "茂业天地站（181路车）；张店王府井站（位于茂业天地对面。151路车）；市中心医院站（位于茂业天地东侧。7,58,122,123,125,127,132,139,158路车，88路内外环，淄博北站接站专线）",
+    "commute": "淄博银泰城 k35/k95/k108/k116/k123/k131/k168银泰城下车",
     "coin_price": "1元",
-    "desc": "10元10枚，30元40枚，50元70枚，70元100枚，100元148枚，200元310枚，500元800枚，1000元1700枚，2000元3600枚。持身份证可办会员卡，工本费10元，每月领10枚币（但没有购币优惠），店庆与生日持会员卡都可以领币。\r\n大家一定要爱护淄博唯一一台maimai哦！",
+    "desc": "单买1元1币，50元60枚，，100元140枚，200元310枚，500元800枚，1000元1700枚，2000元3600枚。持身份证可办会员卡，工本费10元，每月领10枚币（但没有购币优惠），店庆与生日持会员卡都可以领币。\r\n大家一定要爱护淄博唯一一台maimai哦！",
     "machines": [
       {
         "title": "maimai",
@@ -17031,6 +17455,32 @@
       }
     ]
   },
+  "1120": {
+    "id": 1120,
+    "url": "https://map.bemanicn.com/shop/1120",
+    "name": "VR梦幻光影",
+    "province": "山东省",
+    "city": "泰安市",
+    "district": "泰安市岱岳区",
+    "address": "天平湖路与堰西街交叉口东南100米",
+    "location": {
+      "longitude": 117.068333,
+      "latitude": 36.163627
+    },
+    "commute": "",
+    "coin_price": "999元",
+    "desc": "我只知道有这个店罢了",
+    "machines": [
+      {
+        "title": "SOUND VOLTEX",
+        "title_id": 4,
+        "version": "5代",
+        "count": "2",
+        "coin_per_play": "2",
+        "desc": "左机好像崩溃了，右机没玩不清楚\r\n断网"
+      }
+    ]
+  },
   "616": {
     "id": 616,
     "url": "https://map.bemanicn.com/shop/616",
@@ -17153,7 +17603,33 @@
         "version": "CH1.11",
         "count": "1",
         "coin_per_play": "5",
-        "desc": "华立国行,需要微信扫码"
+        "desc": "华立国行,需要微信扫码\r\n机况良好 2p略微吃星星 影响不大"
+      }
+    ]
+  },
+  "1127": {
+    "id": 1127,
+    "url": "https://map.bemanicn.com/shop/1127",
+    "name": "韩多多梦幻城威海店",
+    "province": "山东省",
+    "city": "威海市",
+    "district": "威海市威海经济技术开发区",
+    "address": "乐天世纪城南区1层",
+    "location": {
+      "longitude": 122.151628,
+      "latitude": 37.42492
+    },
+    "commute": "乘坐城市公交1、12、33、41、K1路等到汽车站（豪业圣迪广场）公交站点下车",
+    "coin_price": "1元",
+    "desc": "",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "CH1.11-A",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": "新机 机况良好 外放声音音量最大（超大）"
       }
     ]
   },
@@ -17257,7 +17733,7 @@
     },
     "commute": "",
     "coin_price": "1元",
-    "desc": "经历千辛万苦，菏泽终于也有了一台乌蒙地插(\r\nMaimai DX 4币一局",
+    "desc": "机器购币50=49币，100=99，建议办理会员。\r\n门口鹅舞声音很大，建议使用耳机。",
     "machines": [
       {
         "title": "maimai DX",
@@ -17265,7 +17741,7 @@
         "version": "2021",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "新机到店，体验极佳("
+        "desc": "这可以说是机况最好吧("
       }
     ]
   },
@@ -17291,7 +17767,7 @@
         "version": "jinale",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "鸡盘联网 三币三首歌 按键正常 机子目前无法双排 微信群加群请加队长微信:reaiheping7777   QQ群971232334"
+        "desc": "鸡盘联网 三币三首歌 按键正常 机子良好无毛病 微信群加群请加队长微信:reaiheping7777   QQ群971232334"
       }
     ]
   },
@@ -17323,9 +17799,9 @@
         "title": "maimai",
         "title_id": 2,
         "version": "FiNALE",
-        "count": "2",
+        "count": "1",
         "coin_per_play": "3",
-        "desc": "五楼为联网茶盘，单人3曲双人4曲，1P屏幕2a、7a感应区已报废，部分按键故障，支持。一楼的为日文原版，断网无盘，不能刷卡，单人双人均为三币四首。"
+        "desc": "联网茶盘，单人3曲双人4曲，1P屏幕2a、7a感应区已报废，部分按键故障，支持。"
       },
       {
         "title": "DANCERUSH",
@@ -17373,7 +17849,7 @@
         "version": "联网",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "在店外面，没啥人玩"
+        "desc": "搬到店里面了"
       }
     ]
   },
@@ -17441,7 +17917,7 @@
         "version": "CH1.01-D",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "和鹅舞、wlf放在一起，非常吵，自备降噪耳机，机况略差，莫名吃星星，掉键，推分不建议来"
+        "desc": "经过小朋友们的不断努力，两侧机况都彻底拉了，除了便宜可能是郑州机况最差的机器"
       },
       {
         "title": "jubeat",
@@ -17555,9 +18031,17 @@
         "title": "SOUND VOLTEX",
         "title_id": 4,
         "version": "IV",
-        "count": "2",
+        "count": "1",
         "coin_per_play": "3",
         "desc": "理网四代，已经断网\r\n两边旋钮很涩，有些曲子一选就死机，不建议游玩\r\n（新增：机子已坏，无法投币，暂时无法游玩）"
+      },
+      {
+        "title": "SOUND VOLTEX",
+        "title_id": 4,
+        "version": "6 EXCEED GEAR",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "广西网，机器维修完毕，已更换船新旋钮/io+欧姆龙1c2微动，原装三和按键。前台无卡，购买请加群：894173628"
       },
       {
         "title": "jubeat",
@@ -17686,6 +18170,14 @@
         "desc": ""
       },
       {
+        "title": "maimai",
+        "title_id": 2,
+        "version": "FiNALE",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "又从大上搬回来了，日文原版，断网，不能刷卡"
+      },
+      {
         "title": "DANCERUSH",
         "title_id": 10,
         "version": "stardom",
@@ -17767,7 +18259,7 @@
         "version": "FiNALE",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "鸡盘，不论单人还是双人游玩都只有3首，机况较差，且收且珍惜"
+        "desc": "鸡盘，不论单人还是双人游玩都只有3首，机况较差（2p稍微好点），请珍惜收歌的机会"
       },
       {
         "title": "太鼓达人",
@@ -17798,26 +18290,52 @@
   "548": {
     "id": 548,
     "url": "https://map.bemanicn.com/shop/548",
-    "name": "e舞成名游戏厅",
+    "name": "新密市e舞成名游戏厅",
     "province": "河南省",
     "city": "郑州市",
     "district": "郑州市新密市",
     "address": "新密市农业路420 金霖商厦7F",
     "location": {
-      "longitude": 113.387228,
-      "latitude": 34.536171
+      "longitude": 113.592514,
+      "latitude": 34.522363
     },
     "commute": "",
     "coin_price": "1元",
-    "desc": "推荐原因为大概是河南内最便宜的已联网的maimai finale。两币四首，加上优惠一币大概0.75块。然后机框不错，店内空调常开，美中不足的地方就是挨着e舞，音响有点问题。基本去了就是霸机，是个练歌的好地方。前台有卖兼容卡的，10元一张，仅打国内魔改mai有用。",
+    "desc": "推荐原因为大概是河南内最便宜的已联网的maimai finale。两币四首，加上优惠一币大概0.75块。然后机框不错，店内空调常开，美中不足的地方就是挨着e舞，音响有点问题。基本去了就是霸机，是个练歌的好地方。",
     "machines": [
       {
         "title": "maimai",
         "title_id": 2,
-        "version": "maimai finale",
+        "version": "maimai finale(Jinale)",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "按键与屏幕基本无缺陷。音响有点问题，无伤大雅。"
+        "desc": "2P4键有点震键。音响有点问题，无伤大雅。鸡盘。支持Amusement ICaime和Banapassport。开机请自行在机台左下角开机。"
+      }
+    ]
+  },
+  "1111": {
+    "id": 1111,
+    "url": "https://map.bemanicn.com/shop/1111",
+    "name": "马里奥",
+    "province": "河南省",
+    "city": "郑州市",
+    "district": "郑州市新密市",
+    "address": "西大街168号4楼",
+    "location": {
+      "longitude": 113.373198,
+      "latitude": 34.537057
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "东西比较多，但音游只有三台，两台都是跳舞机",
+    "machines": [
+      {
+        "title": "maimai",
+        "title_id": 2,
+        "version": "精文世嘉",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "3币4首，很老，没试过刷卡，按键与屏幕完好。"
       }
     ]
   },
@@ -18105,7 +18623,7 @@
         "version": "音律炫动5代(世宇机)",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "2p偶尔卡键"
+        "desc": "左侧大概率吞币 右侧副屏黑屏 2p偶尔卡键"
       },
       {
         "title": "DANCERUSH",
@@ -18206,6 +18724,32 @@
         "count": "1",
         "coin_per_play": "2",
         "desc": ""
+      }
+    ]
+  },
+  "1135": {
+    "id": 1135,
+    "url": "https://map.bemanicn.com/shop/1135",
+    "name": "淘乐幻享许昌魏都店",
+    "province": "河南省",
+    "city": "许昌市",
+    "district": "许昌市魏都区",
+    "address": "智慧大道",
+    "location": {
+      "longitude": 113.852482,
+      "latitude": 34.027358
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "三楼",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "ver.CH1.11-B",
+        "count": "1",
+        "coin_per_play": "1",
+        "desc": "刚开业，目前一币，随时可能更改"
       }
     ]
   },
@@ -18382,6 +18926,23 @@
       }
     ]
   },
+  "1101": {
+    "id": 1101,
+    "url": "https://map.bemanicn.com/shop/1101",
+    "name": "星际梦想城电子游艺厅",
+    "province": "河南省",
+    "city": "驻马店市",
+    "district": "驻马店市驿城区",
+    "address": "乐山大道玖隆茂购物中心六楼",
+    "location": {
+      "longitude": 114.047864,
+      "latitude": 33.002243
+    },
+    "commute": "",
+    "coin_price": "0.5元",
+    "desc": "玖隆茂购物中心六楼，小程序注册会员购币：1元2币",
+    "machines": []
+  },
   "941": {
     "id": 941,
     "url": "https://map.bemanicn.com/shop/941",
@@ -18430,13 +18991,38 @@
     },
     "commute": "6号线，置地大道与乐山路交叉口",
     "coin_price": "1元",
-    "desc": "1月30日该商场开业",
-    "machines": []
+    "desc": "1月30日该商场开业，近期会有不定时消防检查，台机未必开放，具体开放以商场通知为准",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "CH1.11A",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "按键松了，屏幕上有黑痕了"
+      },
+      {
+        "title": "DANCERUSH",
+        "title_id": 10,
+        "version": "国行",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "旁边有台e舞会有点吵，小孩多可能影响"
+      },
+      {
+        "title": "WACCA",
+        "title_id": 17,
+        "version": "华卡音舞1",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "耳机口有点接触不良"
+      }
+    ]
   },
   "1091": {
     "id": 1091,
     "url": "https://map.bemanicn.com/shop/1091",
-    "name": "星际传奇武汉龙湖江宸天街店",
+    "name": "星际传奇武汉范湖江宸天街店",
     "province": "湖北省",
     "city": "武汉市",
     "district": "武汉市江汉区",
@@ -18453,9 +19039,9 @@
         "title": "maimai DX",
         "title_id": 1,
         "version": "CH1.11-A",
-        "count": "2",
+        "count": "3",
         "coin_per_play": "5",
-        "desc": "新开的机厅，两台均为全新机，机况完美"
+        "desc": "新开的机厅，两台均为全新机，机况完美。楼下儿童乐园也有一台"
       }
     ]
   },
@@ -18565,7 +19151,7 @@
         "version": "finale",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "4曲 球盘 已恢复联网 可刷aic及aime"
+        "desc": "4曲 球盘撤了 现在是离线Ver 1.99B 不可刷卡"
       },
       {
         "title": "DANCERUSH",
@@ -18896,6 +19482,14 @@
     "desc": "收费标准：十元一小时，包天八十。\r\n包时段收费：8:00--14:00 三十元\r\n12:00--21:00五十元\r\n18:00--24:00三十元\r\n不定期开放，预约请加群1001443835\r\n请不要使用腾讯地图，否则会走错（",
     "machines": [
       {
+        "title": "maimai",
+        "title_id": 2,
+        "version": "JiNALE（众筹邮费中）",
+        "count": "1",
+        "coin_per_play": "0",
+        "desc": "众筹邮费中，加群可了解具体进度详情"
+      },
+      {
         "title": "CHUNITHM",
         "title_id": 3,
         "version": "PARADiSE",
@@ -18906,7 +19500,7 @@
       {
         "title": "音击",
         "title_id": 27,
-        "version": "未知（",
+        "version": "R.E.D. PLUS",
         "count": "1",
         "coin_per_play": "0",
         "desc": "支持，舟台，已预订，具体可玩时间根据舟台到货时间确认。"
@@ -19027,7 +19621,7 @@
     },
     "commute": "",
     "coin_price": "1元",
-    "desc": "套餐优惠力度较大，单币价格基本低于0.5元。但机子摆放位置不是很好，舞战纪和e舞的声音非常大，很吵，尽量戴耳机。\r\n玩家交流群：625121881",
+    "desc": "套餐优惠力度较大，单币价格基本低于0.5元。但机子摆放位置不是很好，舞战纪的声音非常大，很吵，尽量戴耳机。\r\n玩家交流群：625121881（已不可被搜索，请到机台附近扫码加群）",
     "machines": [
       {
         "title": "maimai DX",
@@ -19059,7 +19653,7 @@
         "version": "Ver.2",
         "count": "4",
         "coin_per_play": "6",
-        "desc": "全新机，但4台中有 两台投币不灵 分别是从右往左的第一台和第三台，投币的时候需要推一下投币口让币进去"
+        "desc": "左边两台机耳机音量不可调整，其他良好"
       }
     ]
   },
@@ -19277,7 +19871,7 @@
         "version": "JiNALE",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "机台全面换新，机况完美，有耳机孔，旁边是跳舞机，很吵建议出勤带耳机"
+        "desc": "机况一般，1P的5 6键有轻微粘滞，有耳机孔，旁边是e舞，很吵建议出勤带耳机\r\n(2021.7.5 左边屏幕已经修好，但是有轻微色差，详情请看店铺照片)"
       },
       {
         "title": "SOUND VOLTEX",
@@ -19487,32 +20081,6 @@
         "version": "12亚",
         "count": "1",
         "coin_per_play": "4",
-        "desc": ""
-      }
-    ]
-  },
-  "171": {
-    "id": 171,
-    "url": "https://map.bemanicn.com/shop/171",
-    "name": "真快活十堰茅箭和信销品茂店",
-    "province": "湖北省",
-    "city": "十堰市",
-    "district": "十堰市茅箭区",
-    "address": "邮电街和信销品茂负一楼真快活动漫体验中心",
-    "location": {
-      "longitude": 110.785369,
-      "latitude": 32.645882
-    },
-    "commute": "10/13/56/58/61/68至寿康·华悦城站下，或5路等市内主要公交线至邮电街口下",
-    "coin_price": "1.5元",
-    "desc": "可开会员，开会员后可享受购币套餐\r\n湖北省真快活会员卡全省通刷（近期实现）",
-    "machines": [
-      {
-        "title": "鼓王",
-        "title_id": 22,
-        "version": "加强版",
-        "count": "2",
-        "coin_per_play": "3",
         "desc": ""
       }
     ]
@@ -19907,6 +20475,40 @@
       }
     ]
   },
+  "1105": {
+    "id": 1105,
+    "url": "https://map.bemanicn.com/shop/1105",
+    "name": "乐传动漫襄阳樊城店",
+    "province": "湖北省",
+    "city": "襄阳市",
+    "district": "襄阳市樊城区",
+    "address": "大庆西路5号乐传动漫",
+    "location": {
+      "longitude": 112.153626,
+      "latitude": 32.043562
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "华立代理 随网更新",
+        "count": "2",
+        "coin_per_play": "6",
+        "desc": ""
+      },
+      {
+        "title": "WACCA",
+        "title_id": 17,
+        "version": "Ver.2",
+        "count": "2",
+        "coin_per_play": "6",
+        "desc": ""
+      }
+    ]
+  },
   "828": {
     "id": 828,
     "url": "https://map.bemanicn.com/shop/828",
@@ -20005,17 +20607,17 @@
       "longitude": 118.733562,
       "latitude": 32.043482
     },
-    "commute": "",
+    "commute": "钟祥火车站—>中百广场站，钟祥公交2路",
     "coin_price": "1元",
-    "desc": "个人机台，价格免费",
+    "desc": "个人机台，CN¥20/小时，机况很好，店主很热心～",
     "machines": [
       {
         "title": "maimai",
         "title_id": 2,
-        "version": "finale球盘",
+        "version": "finale(球盘)",
         "count": "1",
         "coin_per_play": "0",
-        "desc": "个人机台，免费游玩。日框，联网可刷aime卡"
+        "desc": "个人机台，日框。机况良好，球盘已联网，可刷aime卡。框体摄像头未正确连接，读卡器有aic标识，aic卡片可用性未知。"
       }
     ]
   },
@@ -20074,6 +20676,32 @@
         "count": "1",
         "coin_per_play": "4",
         "desc": ""
+      }
+    ]
+  },
+  "1113": {
+    "id": 1113,
+    "url": "https://map.bemanicn.com/shop/1113",
+    "name": "卡维尼动漫游戏体验中心",
+    "province": "湖北省",
+    "city": "荆州市",
+    "district": "荆州市荆州区",
+    "address": "荆州中路61号聚珍园B1层",
+    "location": {
+      "longitude": 112.194598,
+      "latitude": 30.350771
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "",
+    "machines": [
+      {
+        "title": "星光",
+        "title_id": 20,
+        "version": "星光1",
+        "count": "1",
+        "coin_per_play": "1",
+        "desc": "机况尚可但是屏幕很旧明显发黄绿色"
       }
     ]
   },
@@ -20246,7 +20874,7 @@
         "version": "CH1.11-A",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "內屏有問題，2P1號鍵位置按鍵與內屏間有較大縫隙\r\n2021/5/4追加 1p内屏A区随机暴吃基本打不了  2p内屏全区域暴吃只能当谱面演示 别来了x\r\n2021/05/27 1p 按键松软 按下有弹簧的噪声，手感稀烂，已与前台沟通，无果。"
+        "desc": "內屏有問題，2P1號鍵位置按鍵與內屏間有較大縫隙\r\n2021/05/04追加 1p内屏A区随机暴吃基本打不了  2p内屏全区域暴吃只能当谱面演示 别来了x\r\n2021/05/27 1p 按键松软 所有p位的45键都塌了，手感稀烂，已与前台沟通，无果\r\n2021/07/04 机况还是一如既往的差（长沙最烂的机器），朱云杰这几天和此店老板现场交流过了，期待维修吧"
       },
       {
         "title": "太鼓达人",
@@ -20296,7 +20924,7 @@
         "version": "20200126？",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "1P按钮外壳松动可以旋转（物理），2P按钮上键失灵。\r\n板子状况良好"
+        "desc": "1P按钮外壳松动可以旋转（物理），2P按钮上键失灵。\r\n板子偶尔会出现无影脚，可以自己到机台后面重启开关。"
       },
       {
         "title": "GROOVE COASTER",
@@ -20335,7 +20963,7 @@
   "833": {
     "id": 833,
     "url": "https://map.bemanicn.com/shop/833",
-    "name": "101电玩(万家丽店)",
+    "name": "Super101电玩(万家丽店)",
     "province": "湖南省",
     "city": "长沙市",
     "district": "长沙市芙蓉区",
@@ -20344,7 +20972,7 @@
       "longitude": 113.032039,
       "latitude": 28.189986
     },
-    "commute": "",
+    "commute": "地铁二号线 五号线 到万家丽广场",
     "coin_price": "1元",
     "desc": "",
     "machines": [
@@ -20354,7 +20982,7 @@
         "version": "国行",
         "count": "1",
         "coin_per_play": "5",
-        "desc": "内屏较暗，吃星严重，建议去负一楼的新动力或者五楼的嘻品堂"
+        "desc": "内屏较暗，吃星严重，万家丽的DX都被充分“锻炼”过了，建议坐地铁二号线去运达广场打新机器，只需坐2站\r\nwlf和maimai这边没有摄像头，在这里请保管好您的携身物品，不然到时候查监控都查不到，丢了就丢了。\r\n店家贴心的给旁边的E舞和wlf都配备了便携空调，反倒是某最贵的机器不配，打几把就能汗如雨下"
       },
       {
         "title": "WACCA",
@@ -20380,15 +21008,15 @@
     },
     "commute": "地铁二号线/五号线 万家丽广场站",
     "coin_price": "1元",
-    "desc": "有一些小程序套餐比现场便宜 30¥=100币\r\n美团上可以买币，￥9.9=30币（只能买一次）；￥49=100币（能买10次）；￥98=220币（能买10次）",
+    "desc": "美团上可以买币，￥9.9=30币（只能买一次）；￥49=100币（能买10次）；￥98=220币（能买10次）",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.01-C",
+        "version": "CH1.11-A",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "长沙目前机况最好的DX，内屏良好（按键手感偏软）"
+        "desc": "所有p位的4号键换成了精文世嘉的旧框（淘宝）按钮，键程比旁边的旧框还短\r\n1p触摸屏左上角吃星\r\n1p耳机接口有杂音"
       },
       {
         "title": "maimai",
@@ -20396,7 +21024,7 @@
         "version": "finale鸡盘",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "鸡盘，通过玩家众筹已重新上线更新。2p右边就是dx，有时候可能听不清节奏。\r\n2021/5/4追加 记得保持手套清洁 敏感度有一点点高 脏了会容易蹭"
+        "desc": "鸡盘，玩家自行续费到8月10日。声音问题老板曾许诺过安装耳机孔\r\n1p有两个键自动判定，2p自动判断，屏幕失灵看板娘还不停的叫（社死\r\n2p有个风扇好评\r\n前台可15元购买YUCARD（已经卖光）"
       }
     ]
   },
@@ -20419,10 +21047,10 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.01-C",
+        "version": "CH1.11-A",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "內屏正常，重新加了固定现在稳定了，注意旁边e舞的声音巨大"
+        "desc": "內屏正常，重新加了固定现在稳定了，注意旁边e舞的声音巨大\r\n1p 45号键塌 2p 4号键塌"
       }
     ]
   },
@@ -20608,64 +21236,6 @@
       }
     ]
   },
-  "178": {
-    "id": 178,
-    "url": "https://map.bemanicn.com/shop/178",
-    "name": "星际传奇ID购物中心店",
-    "province": "湖南省",
-    "city": "长沙市",
-    "district": "长沙市天心区",
-    "address": "天心区坡子街216号悦方ID购物中心3楼",
-    "location": {
-      "longitude": 112.974966,
-      "latitude": 28.188607
-    },
-    "commute": "",
-    "coin_price": "1.5元",
-    "desc": "整体机况都较差，不建议来，人很少",
-    "machines": [
-      {
-        "title": "maimai",
-        "title_id": 2,
-        "version": "大陆版舞萌二更",
-        "count": "1",
-        "coin_per_play": "2",
-        "desc": "2p接触不良间歇性花屏 5号键完全失灵"
-      },
-      {
-        "title": "beatmania IIDX",
-        "title_id": 5,
-        "version": "尚莹狂热节拍IIDX2",
-        "count": "1",
-        "coin_per_play": "2",
-        "desc": "2P状况较好，1P卡键严重"
-      },
-      {
-        "title": "jubeat",
-        "title_id": 6,
-        "version": "官1",
-        "count": "1",
-        "coin_per_play": "2",
-        "desc": ""
-      },
-      {
-        "title": "太鼓达人",
-        "title_id": 15,
-        "version": "11亚",
-        "count": "1",
-        "coin_per_play": "3",
-        "desc": "吃音串音较严重"
-      },
-      {
-        "title": "MuziBox",
-        "title_id": 25,
-        "version": "大陆版",
-        "count": "2",
-        "coin_per_play": "2",
-        "desc": ""
-      }
-    ]
-  },
   "1046": {
     "id": 1046,
     "url": "https://map.bemanicn.com/shop/1046",
@@ -20748,7 +21318,7 @@
         "version": "S",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "声音很大，耳机孔接触有点不良，机台位置有点尬尬 胳膊肘很容易碰到贴在右边的赌博机"
+        "desc": "声音很大，耳机孔接触有点不良，机台位置有点尬尬 胳膊肘很容易碰到贴在右边的赌博机，没有更新二代"
       },
       {
         "title": "鼓王",
@@ -20756,6 +21326,32 @@
         "version": "3代",
         "count": "1",
         "coin_per_play": "3",
+        "desc": ""
+      }
+    ]
+  },
+  "1102": {
+    "id": 1102,
+    "url": "https://map.bemanicn.com/shop/1102",
+    "name": "城市英雄（长沙荟聚店）",
+    "province": "湖南省",
+    "city": "长沙市",
+    "district": "长沙市岳麓区",
+    "address": "洋湖路253号长沙荟聚三楼",
+    "location": {
+      "longitude": 112.937887,
+      "latitude": 28.117623
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "只能用币卡",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "国行",
+        "count": "1",
+        "coin_per_play": "4",
         "desc": ""
       }
     ]
@@ -20872,6 +21468,32 @@
       }
     ]
   },
+  "1103": {
+    "id": 1103,
+    "url": "https://map.bemanicn.com/shop/1103",
+    "name": "子洋联盟动漫体验中心（长沙运达店）",
+    "province": "湖南省",
+    "city": "长沙市",
+    "district": "长沙市雨花区",
+    "address": "长沙大道567号运达中央广场负一楼",
+    "location": {
+      "longitude": 113.042749,
+      "latitude": 28.169962
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "CH1.11-A",
+        "count": "2",
+        "coin_per_play": "5",
+        "desc": "长沙最新的华立机器，离万家丽只有二号线两站的距离"
+      }
+    ]
+  },
   "693": {
     "id": 693,
     "url": "https://map.bemanicn.com/shop/693",
@@ -20981,14 +21603,6 @@
         "desc": ""
       },
       {
-        "title": "DANZBASE",
-        "title_id": 23,
-        "version": "舞力特区",
-        "count": "1",
-        "coin_per_play": "3",
-        "desc": "已撤机"
-      },
-      {
         "title": "头文字D",
         "title_id": 26,
         "version": "国行",
@@ -21020,7 +21634,7 @@
         "version": "S",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "周围安静，机况良好，除了没人玩以外都是优点("
+        "desc": "周围安静，机况良好，除了没人玩以外都是优点(\r\n甚至有时候都不会开机，可以自行去机器背后打开开关\r\n不过机器外放声音有点大，玩的时候会被另一台机器影响。如果没带耳机并且没人的话可以关掉其中一台"
       },
       {
         "title": "头文字D",
@@ -21627,7 +22241,16 @@
     "commute": "",
     "coin_price": "1元",
     "desc": "只有一台舞立方2代，位于门口",
-    "machines": []
+    "machines": [
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "不知道",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": "不知道有几台，印象不深，但好像玩过（为什么音游街机会有头文字d啊）"
+      }
+    ]
   },
   "815": {
     "id": 815,
@@ -21740,6 +22363,49 @@
     "desc": "欢迎加入娄底音游人交流群（Q群：894201839），获取更多机台信息，和全娄底市的音游人一起交流！",
     "machines": []
   },
+  "1129": {
+    "id": 1129,
+    "url": "https://map.bemanicn.com/shop/1129",
+    "name": "快乐街区（步步高店）",
+    "province": "湖南省",
+    "city": "娄底市",
+    "district": "娄底市新化县",
+    "address": "步步高广场3楼",
+    "location": {
+      "longitude": 111.305445,
+      "latitude": 27.731375
+    },
+    "commute": "7路公交车直达",
+    "coin_price": "1元",
+    "desc": "欢迎加入娄底音游人交流群（Q群：894201839），获取更多机台信息，和全娄底市的音游人一起交流！",
+    "machines": []
+  },
+  "1133": {
+    "id": 1133,
+    "url": "https://map.bemanicn.com/shop/1133",
+    "name": "星悦茂缤纷未来游戏厅",
+    "province": "湖南省",
+    "city": "娄底市",
+    "district": "娄底市新化县",
+    "address": "新合作·星悦茂商业地下街D区#25出入口附近",
+    "location": {
+      "longitude": 111.305254,
+      "latitude": 27.729015
+    },
+    "commute": "",
+    "coin_price": "1元",
+    "desc": "欢迎加入娄底音游人交流群（Q群：894201839），获取更多机台信息，和全娄底市的音游人一起交流！",
+    "machines": [
+      {
+        "title": "太鼓达人",
+        "title_id": 15,
+        "version": "亚洲版12",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "单人模式2币1曲，双人模式4币1曲，演奏成功加1曲。\r\n机台有时会存在敲打鼓面无反应、死机、卡币现象，出现上述现象请找店员维修。"
+      }
+    ]
+  },
   "284": {
     "id": 284,
     "url": "https://map.bemanicn.com/shop/284",
@@ -21796,7 +22462,7 @@
         "version": "音律炫动5",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "国服五代，2P现在可以登陆，耳机均没有声音，2P音响刺耳 1pbt-b键有时不灵敏...2pfx-r键有时不灵敏...（2021.4.17 1p2p貌似都不能登陆了，能扫码，显示现在连接繁忙，请再试）（2021.4.21 现在1p能登录了，不过和2p联机时候有概率死机)"
+        "desc": "国服五代，1p2p均可登录，耳机均没有声音\r\n\r\n1p bt-d bt-b键不灵敏 1p旋钮比2p稍紧"
       },
       {
         "title": "GTDR GF",
@@ -21830,12 +22496,12 @@
     },
     "commute": "五号线西村站d出口步行15分钟；西湾路况不好，乘公交在西湾路口下车，不要乘公交进西湾路",
     "coin_price": "1.5元",
-    "desc": "「目前因荔湾区疫情规定暂时停业」\r\n\r\n30元20币\r\n50元40币\r\n100元100币\r\n200元220币\r\n300元350币\r\n500元680币\r\n1000元1500币\r\n2000元3200币\r\n微信公众号或小程序「晴空进击社」可查看是否有充值活动\r\n店铺比较偏，在三楼c区\r\n打的人少，可以霸机",
+    "desc": "正常营业中。\r\n营业时间10:00-22:00\r\n30元20币(1.5)\r\n50元40币(1.25)\r\n100元100币(1)\r\n200元220币(0.9)\r\n300元350币(0.85)\r\n500元680币(0.73)\r\n1000元1500币(0.66)\r\n2000元3200币(0.62)\r\n微信公众号或小程序「晴空进击社」可查看是否有充值活动，可使用小程序开卡/取币。\r\n店铺比较偏，在三楼c区\r\n打的人少，可以霸机",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "国版",
+        "version": "国版 Ver.CH1.11B",
         "count": "2",
         "coin_per_play": "5",
         "desc": "右机有一定几率错误死机，右机1p8号键吃音"
@@ -21843,10 +22509,18 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "WACCA Lily (Ver.2.02.00.CHN.C)",
+        "version": "WACCA Lily (Ver.2.02.01.CHN.C)",
         "count": "2",
         "coin_per_play": "5",
         "desc": "机台面朝店外，容易吸引不明真相的吃瓜群众（&小孩子）。\r\n联网，可正常多人对战。\r\n左机耳机孔有问题无法正常使用，需要上下左右多加调教才能实现全声道。\r\n右机外放几乎听不见，建议戴耳机；"
+      },
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "Zero",
+        "count": "4",
+        "coin_per_play": "4",
+        "desc": ""
       }
     ]
   },
@@ -21869,7 +22543,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.01-E",
+        "version": "CH1.11-A",
         "count": "1",
         "coin_per_play": "3",
         "desc": "机况不错，仅限刷卡投币"
@@ -21879,15 +22553,15 @@
         "title_id": 4,
         "version": "音律炫动5",
         "count": "2",
-        "coin_per_play": "2",
-        "desc": "左右机已开启外部出力\r\n左机为三合按键，右机为国产按键，均为100g+1c2\r\n右机耳机口有点问题，多调整一下就行了。\r\n仅限刷卡投币。\r\n(5.15注：因机台位置变动，右机暂时无法登录，机厅反馈最快于17号接上网络)"
+        "coin_per_play": "3",
+        "desc": "左右机已开启外部出力\r\n左机为三合按键，右机为国产按键，均为100g+1c2\r\n右机耳机口有点问题，多调整一下就行了。\r\n仅限刷卡投币。"
       },
       {
         "title": "DANCERUSH",
         "title_id": 10,
         "version": "舞律炫步",
         "count": "1",
-        "coin_per_play": "2",
+        "coin_per_play": "3",
         "desc": "压力板除了LED是好的之外状况很差\r\n仅可刷卡投币"
       },
       {
@@ -21895,16 +22569,16 @@
         "title_id": 16,
         "version": "音炫轨道",
         "count": "2",
-        "coin_per_play": "2",
+        "coin_per_play": "3",
         "desc": "Ver.1.8002，右机摇杆较松"
       },
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "华卡音舞",
+        "version": "华卡音舞ver2",
         "count": "2",
-        "coin_per_play": "2",
-        "desc": "左机声音略闷，右机的耳放按钮是反的且需要稍微扭一扭"
+        "coin_per_play": "4",
+        "desc": "已更新ver2"
       },
       {
         "title": "头文字D",
@@ -21937,7 +22611,7 @@
         "title_id": 1,
         "version": "国行",
         "count": "1",
-        "coin_per_play": "2",
+        "coin_per_play": "3",
         "desc": "1p三号键手感不同不影响游戏，1p耳机有电流声"
       },
       {
@@ -21964,7 +22638,7 @@
     },
     "commute": "地铁1、3号线体育西路站 公交车:体育中心站",
     "coin_price": "1.5元",
-    "desc": "2020年1月，jubeat x2已撤机，ub玩家请转移到大学城Gogo。",
+    "desc": "",
     "machines": [
       {
         "title": "maimai DX",
@@ -22051,7 +22725,7 @@
   "34": {
     "id": 34,
     "url": "https://map.bemanicn.com/shop/34",
-    "name": "梦游仙境动漫主题乐园",
+    "name": "梦游仙境动漫主题乐园岗顶百脑汇店",
     "province": "广东省",
     "city": "广州市",
     "district": "广州市天河区",
@@ -22078,15 +22752,23 @@
         "version": "MURASAKi",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "3币/局（4曲），山寨机，屏幕有延迟，滑星无反应，有点烧屏，不建议浪费钱"
+        "desc": "3币/局（3曲），山寨机，屏幕有延迟，滑星无反应，有点烧屏，不建议浪费钱"
       },
       {
         "title": "SOUND VOLTEX",
         "title_id": 4,
         "version": "4",
-        "count": "2",
+        "count": "1",
         "coin_per_play": "2",
-        "desc": "ver.20171128\r\n耳放插手机线控有几率缺一边声道，如遇到自行调整或者拔出来一点即可。\r\n左机不支持调音量。\r\n两机旋钮均过紧，很难扭。"
+        "desc": "右机 ver.20171128\r\n耳放目前通过短接的方式临时处理，只有单声道且音量不可调。\r\n旋钮略微过紧，比较难扭。\r\n(延迟过大，疯狂爆early)"
+      },
+      {
+        "title": "SOUND VOLTEX",
+        "title_id": 4,
+        "version": "6 EXCEED GEAR",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": "广西网，屏幕已升级为120hz的屏幕，解锁Valkyrie model功能。\r\n已更换船新旋钮/io+欧姆龙1c2微动，原装三和按键，体验极佳。\r\n已知问题：因没副屏，选曲界面下设置速度旋钮只能微调，游戏选曲后可正常调速。建议第一局游戏调速后，第二局在游戏设置中按小键盘[6]锁定你的常用速度。\r\n前台暂无卡片，有任何故障请@机修反馈。"
       },
       {
         "title": "GTDR GF",
@@ -22136,7 +22818,7 @@
     },
     "commute": "地铁:地铁1号线或3号线在体育西路下车，C出口出站，出站后步行经过天环广场后穿过马路即可见到﹙小贴士：建议从万豪酒店和正佳极地海洋世界扶手电梯之间的停车场入口旁的楼梯进去，进去即见11号/12号电梯，按七楼可直达游乐场的碰碰车区域；如因疫情防控封锁该入口而要从其他入口进去的话，建议从西门进去再搭乘11号/12号升降电梯上去，中央观光梯比较多人搭乘﹚，也可以乘坐1号线在体育中心站D3出口出站，直接穿过地下通道可直达正佳的负一层。 公交车:体育东路站",
     "coin_price": "1.5元",
-    "desc": "所有机台可选择投币、扫描微信小程式的会员二维码或刷会员卡(需预充值)。非会员：1.5元/币，没有最低消费。会员价：1元/币，最低消费100元才能享受单币1元。开通会员要求：收银台预充值200元，然后店员会指导去鬼屋对面的礼品台凭身份证登记开通会员卡，开通后凭会员卡直接在机台刷卡游玩。开通后如绑定微信，可通过哇哇哇的微信小程式获取会员码，直接由机台扫手机的会员二维码游玩。另外建议常出勤的朋友购买限时币比较化算，两台主要音游调整价格之后出勤成本略贵\r\n\r\n2021/06/06 更新 - 由于广州疫情影响 店铺暂时停业",
+    "desc": "所有机台可选择投币、扫描微信小程式的会员二维码或刷会员卡(需预充值)。非会员：1.5元/币，没有最低消费。会员价：1元/币，最低消费100元才能享受单币1元。开通会员要求：收银台预充值200元，然后店员会指导去鬼屋对面的礼品台凭身份证登记开通会员卡，开通后凭会员卡直接在机台刷卡游玩。开通后如绑定微信，可通过哇哇哇的微信小程式获取会员码，直接由机台扫手机的会员二维码游玩。另外建议常出勤的朋友购买会员套餐比较化算，两台主要音游机调整价格之后出勤成本略贵",
     "machines": [
       {
         "title": "maimai DX",
@@ -22158,9 +22840,9 @@
         "title": "WACCA",
         "title_id": 17,
         "version": "华卡音舞 Ver.2",
-        "count": "3",
+        "count": "4",
         "coin_per_play": "5",
-        "desc": "（5月16日更新）已更新最新版本wacca lily，支持多人模式，续关功能已开启。机况大致良好，但三台机的判定略有不同。另外中机的触控板已有轻微松动的情况，请小心爱护机器。外放方面店家没有调到较大音量且邻近maimai，建议自备耳机。已设排卡板，可通过排卡板排队，排卡规则详见排卡板上方"
+        "desc": "（7月13日更新）已更新最新版本wacca lily，支持多人模式，续关功能已开启。机况大致良好，但四台机的判定略有不同。另外二号机的触控板已有轻微松动情况，请小心爱护机器。外放方面店家没有调到较大音量且邻近maimai，建议自备耳机。已设排卡板，可通过排卡板排队，排卡规则详见排卡板上方"
       },
       {
         "title": "PUMP IT UP",
@@ -22169,6 +22851,48 @@
         "count": "1",
         "coin_per_play": "4",
         "desc": "已联网。没有风扇，且机台所处位置不够通风，站着都感觉热。"
+      }
+    ]
+  },
+  "1136": {
+    "id": 1136,
+    "url": "https://map.bemanicn.com/shop/1136",
+    "name": "漫奈斯潮玩馆",
+    "province": "广东省",
+    "city": "广州市",
+    "district": "广州市天河区",
+    "address": "华观路1932号(天河万科广场L303-L311号)",
+    "location": {
+      "longitude": 113.404452,
+      "latitude": 23.166876
+    },
+    "commute": "地铁21号线天河智慧城站附近",
+    "coin_price": "1.5元",
+    "desc": "仅路过，未实际游玩",
+    "machines": [
+      {
+        "title": "jubeat",
+        "title_id": 6,
+        "version": "乐动魔方2代",
+        "count": "2",
+        "coin_per_play": "2",
+        "desc": ""
+      },
+      {
+        "title": "太鼓达人",
+        "title_id": 15,
+        "version": "12亚",
+        "count": "1",
+        "coin_per_play": "0",
+        "desc": "未查看"
+      },
+      {
+        "title": "星光",
+        "title_id": 20,
+        "version": "1",
+        "count": "2",
+        "coin_per_play": "0",
+        "desc": "关机状态"
       }
     ]
   },
@@ -22930,7 +23654,7 @@
     },
     "commute": "地铁13号线坐到新塘站，然后坐增城21路或新塘万达2路到南方医院增城分院站下车",
     "coin_price": "1.5元",
-    "desc": "两组wlf声音极为震撼，建议戴耳机进行游玩\r\n140元=100幣，360元=300幣，500元=500幣，800元=1000幣\r\n微信朗玩小程序购买vip有折扣，到6月底前，限定10元入会\r\n\r\n停車場暫時出入免費，未知後期是否收費",
+    "desc": "两组wlf声音极为震撼，建议戴耳机进行游玩\r\n140元=100幣，360元=300幣，500元=500幣，800元=1000幣\r\n微信朗玩小程序购买vip有折扣，15元入会\r\n\r\n停車場暫時出入免費，未知後期是否收費\r\n目前手机信号较弱，店内提供wifi，详情查看店内公告或询问店员",
     "machines": [
       {
         "title": "maimai DX",
@@ -22938,7 +23662,7 @@
         "version": "国行",
         "count": "4",
         "coin_per_play": "5",
-        "desc": "4组，左起第二组屏幕不行（左机烧屏右机有竖线）"
+        "desc": "4组，最右边那台1p的2号键吃音"
       },
       {
         "title": "SOUND VOLTEX",
@@ -22946,7 +23670,7 @@
         "version": "国行",
         "count": "2",
         "coin_per_play": "5",
-        "desc": "两组双人机，靠右组的旋扭是瓶盖"
+        "desc": "两组双人机"
       },
       {
         "title": "GTDR GF",
@@ -22978,7 +23702,7 @@
         "version": "國行Ver.2",
         "count": "2",
         "coin_per_play": "5",
-        "desc": "右机耳机孔不行"
+        "desc": ""
       },
       {
         "title": "PUMP IT UP",
@@ -23094,7 +23818,7 @@
         "version": "Lily(ver 2.0)",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "位置在老店二楼e5旁边\r\n需要排卡\r\n外放声音够大，耳机声音较小，建议耳机音量调整是在其他机台音量的基础上+8~10个单位，左边机台耳机孔有问题。"
+        "desc": "位置在新店大门口，存票处右边\r\n有桌子＆椅子，需要排卡\r\n外放声音巨大，耳机声音较小，建议耳机音量调整是在其他机台音量的基础上+8~10个单位，左边机台耳机孔没有声音。"
       },
       {
         "title": "PUMP IT UP",
@@ -23194,7 +23918,7 @@
         "version": "12亚",
         "count": "1",
         "coin_per_play": "3",
-        "desc": ""
+        "desc": "鼓況極差，1p右紅完全失靈，2p吃音嚴重"
       }
     ]
   },
@@ -23304,7 +24028,7 @@
         "version": "ver2.0",
         "count": "2",
         "coin_per_play": "5",
-        "desc": "右边机子状况良好，勤了几次都没什么人，需要注意一下机子在靠里面的地方。(左边没打不知道)"
+        "desc": "右机耳机孔不太灵敏，需要多扭几下。机子移至大门口甜蜜宝贝对面了，大概率被围观。椅子经常被搬去maimai，没有的话请联系工作人员，合理摆放尽量不影响游客通行。"
       },
       {
         "title": "头文字D",
@@ -23406,6 +24130,32 @@
         "version": "zero 國行",
         "count": "1",
         "coin_per_play": "4",
+        "desc": ""
+      }
+    ]
+  },
+  "1140": {
+    "id": 1140,
+    "url": "https://map.bemanicn.com/shop/1140",
+    "name": "反斗乐园欢乐海岸店",
+    "province": "广东省",
+    "city": "深圳市",
+    "district": "深圳市南山区",
+    "address": "白石路东8号欢乐海岸F2-042商铺",
+    "location": {
+      "longitude": 113.988159,
+      "latitude": 22.524827
+    },
+    "commute": "地铁5号线临海b2出口",
+    "coin_price": "1.5元",
+    "desc": "",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "1.11-B",
+        "count": "1",
+        "coin_per_play": "5",
         "desc": ""
       }
     ]
@@ -23728,7 +24478,7 @@
         "title": "maimai",
         "title_id": 2,
         "version": "Finale",
-        "count": "1",
+        "count": "2",
         "coin_per_play": "3",
         "desc": "3币/次(4曲)，精文机，茶盘"
       },
@@ -23754,7 +24504,7 @@
         "version": "sy国服ver2",
         "count": "2",
         "coin_per_play": "5",
-        "desc": "已升级Ver2，左侧机台耳机音量只能调大，调小无反应，注意"
+        "desc": "已升级Ver2，左侧机台耳机音量只能调大，调小无反应，注意\r\n两台机子延迟+3左右"
       }
     ]
   },
@@ -23838,7 +24588,7 @@
         "version": "27 HEROIC VERSE",
         "count": "1",
         "coin_per_play": "0",
-        "desc": "老道台 与太鼓共用一台电视。\r\n没有V.E.F.X，需要使用小键盘Q键\r\n没有改dll，Premium Free最多十分钟\r\n延迟-1.6左右，默认1P，需要改P位请找店员"
+        "desc": "老道台 与太鼓共用一台电视。\r\n没有V.E.F.X，需要使用小键盘Q键\r\n没有改dll，Premium Free最多十分钟\r\n延迟-3.1左右，默认1P，需要改P位请找店员"
       },
       {
         "title": "太鼓达人",
@@ -23847,6 +24597,14 @@
         "count": "1",
         "coin_per_play": "0",
         "desc": "大力鼓"
+      },
+      {
+        "title": "Project DIVA Arcade",
+        "title_id": 24,
+        "version": "PS4 Future Tone DX",
+        "count": "1",
+        "coin_per_play": "0",
+        "desc": "PS4内置，与太鼓共用一台电视，无手台只能用DS4手柄\r\n换了账号，X HD去向不明"
       }
     ]
   },
@@ -23918,19 +24676,36 @@
       }
     ]
   },
-  "47": {
-    "id": 47,
-    "url": "https://map.bemanicn.com/shop/47",
-    "name": "星际传奇九方店（现天虹）",
+  "1088": {
+    "id": 1088,
+    "url": "https://map.bemanicn.com/shop/1088",
+    "name": "朗玩Round1(壹方天地店)",
     "province": "广东省",
     "city": "深圳市",
     "district": "深圳市龙华区",
-    "address": "人民路2020号天虹购物中心顶楼（原九方）",
+    "address": "人民路4022号",
     "location": {
-      "longitude": 114.020657,
-      "latitude": 22.627057
+      "longitude": 114.030394,
+      "latitude": 22.644429
     },
-    "commute": "地铁4号线红山站",
+    "commute": "4號線-龍華站 A出口走500米  C區",
+    "coin_price": "1.5元",
+    "desc": "9月30號開業\r\n詳情朗玩中國公眾號",
+    "machines": []
+  },
+  "1112": {
+    "id": 1112,
+    "url": "https://map.bemanicn.com/shop/1112",
+    "name": "星际传奇（龙华天虹购物中心店）",
+    "province": "广东省",
+    "city": "深圳市",
+    "district": "深圳市龙华区",
+    "address": "人民路2020号天虹购物中心F3层",
+    "location": {
+      "longitude": 114.02061,
+      "latitude": 22.627127
+    },
+    "commute": "地铁红山站A口往龙华方向走500米",
     "coin_price": "1.5元",
     "desc": "",
     "machines": [
@@ -23941,25 +24716,16 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": "左侧鼓面鼓起状态不佳，右侧鼓面蓝触发不灵"
+      },
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "zero",
+        "count": "4",
+        "coin_per_play": "2",
+        "desc": "需事先关注头文字D ZERO微信公众号才能使用"
       }
     ]
-  },
-  "1088": {
-    "id": 1088,
-    "url": "https://map.bemanicn.com/shop/1088",
-    "name": "朗玩Round1(壹方天地店)",
-    "province": "广东省",
-    "city": "深圳市",
-    "district": "深圳市龙华区",
-    "address": "人民路4022号",
-    "location": {
-      "longitude": 114.027999,
-      "latitude": 22.648939
-    },
-    "commute": "4號線-龍華站 A出口走500米",
-    "coin_price": "1.5元",
-    "desc": "9月30號開業\r\n詳情朗玩中國公眾號",
-    "machines": []
   },
   "720": {
     "id": 720,
@@ -24020,10 +24786,10 @@
       {
         "title": "beatmania IIDX",
         "title_id": 5,
-        "version": "27",
+        "version": "28",
         "count": "1",
         "coin_per_play": "1",
-        "desc": "原装机台.暂不支持刷卡\r\n无外放音乐，请自备耳机。"
+        "desc": "原装机台.支持刷卡\r\n请自带耳机"
       },
       {
         "title": "jubeat",
@@ -24138,15 +24904,15 @@
         "title_id": 1,
         "version": "2021",
         "count": "1",
-        "coin_per_play": "3",
-        "desc": "光明第一台maimai dx"
+        "coin_per_play": "5",
+        "desc": "早上经常出现断网现象，建议暂时不要堵门。\r\n新店活动结束，币价上调至5币"
       }
     ]
   },
   "143": {
     "id": 143,
     "url": "https://map.bemanicn.com/shop/143",
-    "name": "反斗乐园（珠海）",
+    "name": "反斗乐园（珠海富华里店）",
     "province": "广东省",
     "city": "珠海市",
     "district": "珠海市市辖区",
@@ -24235,32 +25001,6 @@
       }
     ]
   },
-  "145": {
-    "id": 145,
-    "url": "https://map.bemanicn.com/shop/145",
-    "name": "星际传奇 海韵城店",
-    "province": "广东省",
-    "city": "珠海市",
-    "district": "珠海市市辖区",
-    "address": "渔湾路29号（城建海韵城C1层L1-38）",
-    "location": {
-      "longitude": 113.589001,
-      "latitude": 22.282509
-    },
-    "commute": "乘车至香洲汽车总站后，换乘Z11路，在终点站下车",
-    "coin_price": "1.5元",
-    "desc": "正在装修，不要来",
-    "machines": [
-      {
-        "title": "maimai",
-        "title_id": 2,
-        "version": "FiNALE",
-        "count": "1",
-        "coin_per_play": "3",
-        "desc": "单人三曲，双人四曲。不能刷卡。2P有吃星星及震键情况，请尽量玩1P"
-      }
-    ]
-  },
   "603": {
     "id": 603,
     "url": "https://map.bemanicn.com/shop/603",
@@ -24283,7 +25023,7 @@
         "version": "finale",
         "count": "2",
         "coin_per_play": "2",
-        "desc": ""
+        "desc": "广西盘，无法联网"
       },
       {
         "title": "太鼓达人",
@@ -24324,7 +25064,7 @@
         "title_id": 1,
         "version": "国行",
         "count": "1",
-        "coin_per_play": "0",
+        "coin_per_play": "5",
         "desc": ""
       }
     ]
@@ -24417,17 +25157,17 @@
       "longitude": 113.351177,
       "latitude": 22.155279
     },
-    "commute": "搭乘503、504、510、520、525、601、602、602A、603、609路万威美地站下车",
+    "commute": "搭乘503、504、510、520、525、530、601、603、Z279路在万威美地、五洲家园站下车，k5、826-6可从德昌盛景下车（较远）",
     "coin_price": "1元",
-    "desc": "",
+    "desc": "套餐需开卡，开卡补卡续卡费5元\r\n60元70币\r\n120元150币\r\n320元450币\r\n620元1000币\r\n节日有购币活动（以公众号为准",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "国行",
+        "version": "DX 2021",
         "count": "1",
         "coin_per_play": "5",
-        "desc": "1P耳机轻微电流音，后面有一台舞立方，在节假日机厅可能有点吵"
+        "desc": "1P耳机轻微电流音，后面有一台舞立方，在节假日机厅可能有点吵（请自备耳机防止窒息），新人注意排队以及小心熊孩子"
       },
       {
         "title": "星光",
@@ -24436,6 +25176,14 @@
         "count": "1",
         "coin_per_play": "0",
         "desc": "幣數不記得了"
+      },
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "zero",
+        "count": "4",
+        "coin_per_play": "6",
+        "desc": "币数，版本都不太清楚，请玩的修改"
       }
     ]
   },
@@ -24701,7 +25449,7 @@
     },
     "commute": "地方比较偏僻，建议开车或电动",
     "coin_price": "1元",
-    "desc": "最低消费50元，100元110币，可办卡\r\n潮南有自己的玩家群，群号750869059\r\n汕头也有玩家群，欢迎游玩",
+    "desc": "最低消费50元，100元110币，可办卡\r\n汕头有玩家群，欢迎游玩",
     "machines": [
       {
         "title": "maimai DX",
@@ -25648,6 +26396,40 @@
       }
     ]
   },
+  "1114": {
+    "id": 1114,
+    "url": "https://map.bemanicn.com/shop/1114",
+    "name": "米其动漫茂名店",
+    "province": "广东省",
+    "city": "茂名市",
+    "district": "茂名市茂南区",
+    "address": "光华南路178号大院12345678号首层8-14商铺",
+    "location": {
+      "longitude": 110.924813,
+      "latitude": 21.650815
+    },
+    "commute": "202、210、302、313路公交到人民广场站下车，位于文创街内部",
+    "coin_price": "1元",
+    "desc": "10元一张会员卡，会员套餐如下：\r\n100元-120币\r\n300元-450币\r\n500元-900币\r\n1000元-2000币\r\n2000元-4500币",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "CH1.11-B",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": ""
+      },
+      {
+        "title": "WACCA",
+        "title_id": 17,
+        "version": "Ver2.0",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": "耳机孔损坏，等待修理中，修好前暂时免费游玩"
+      }
+    ]
+  },
   "729": {
     "id": 729,
     "url": "https://map.bemanicn.com/shop/729",
@@ -25738,7 +26520,7 @@
         "version": "6 EXCEED GEAR",
         "count": "2",
         "coin_per_play": "2",
-        "desc": "广西网，3曲safe，ARS。手感非常好。\r\n两台机均增设了耳放，可店内对战。前台无广西卡，购买请加群：894173628（因广西段位还没有做好，所以暂时不能刷卡，请谅解。）"
+        "desc": "广西网，3曲safe，ARS。手感非常好。\r\n两台机均增设了耳放，可店内对战。前台无广西卡，购买请加群：894173628"
       },
       {
         "title": "jubeat",
@@ -26039,7 +26821,7 @@
     },
     "commute": "701A路；惠东2路；惠东3路；678路；701路；705路；678路；",
     "coin_price": "1.5元",
-    "desc": "app导航过去即可，最近的下车站是同心装饰城公交站(就在购物中心门口)；\r\n2币开一次，没开续关——币价日常1.5一个（过节有活动）；\r\n4.30才开的店铺，机况优秀——ps：1p的屏幕比2p的暗，而且可能是儿童游乐城的原因，外放音响特别小声，建议自带耳机；",
+    "desc": "app导航过去即可，最近的下车站是同心装饰城公交站(就在购物中心门口)；\r\n3币开一次，开了续关了——币价日常1.5一个（过节有活动）；\r\n4.30才开的店铺，机况优秀——ps：1p的屏幕比2p的暗，而且可能是儿童游乐城的原因，外放音响特别小声，建议自带耳机；",
     "machines": [
       {
         "title": "maimai DX",
@@ -26227,7 +27009,7 @@
         "version": "世宇科技代理版",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "耳放质量一般，位置摆放在e舞旁边，出勤时若声音不足可联系机修拉满外放\r\nVer.2 Coming soon…短期内不用抱太大期望了"
+        "desc": "机台随机出现故障，有时可能外放无声或耳机孔无声，基本游玩体验问题不大\r\nVer.2 Coming soon…短期内不用抱太大期望了"
       }
     ]
   },
@@ -26490,16 +27272,16 @@
         "title_id": 8,
         "version": "NEX+AGE",
         "count": "1",
-        "coin_per_play": "3",
-        "desc": "2020030200版本，可刷卡有网。数字键*为0,0为00。\r\n每月25号自动切换为Omnimix。"
+        "coin_per_play": "5",
+        "desc": "刷卡或微信掃碼3幣\r\n2021021500版本（Final），可刷卡有网。数字键*为0,0为00。\r\n每月25号自动切换为Omnimix，，omni时2p不可用"
       },
       {
         "title": "GTDR DM",
         "title_id": 9,
         "version": "NEX+AGE",
         "count": "1",
-        "coin_per_play": "3",
-        "desc": "2020030200版本，可刷卡有网。数字键*为0,0为00。\r\n每月25号自动切换为Omnimix，omni时2p不可用"
+        "coin_per_play": "5",
+        "desc": "刷卡或微信3幣\r\n2021021500版本(Final)，可刷卡有网。数字键*为0,0为00。\r\n每月25号自动切换为Omnimix"
       },
       {
         "title": "太鼓达人",
@@ -26508,6 +27290,14 @@
         "count": "2",
         "coin_per_play": "3",
         "desc": "Red3币3首，14+单人2币3首，双人最多2币4首（困难和魔王难度），此为刷卡和微信投币价，投实体币都是+2币，已经被搬到店内（基本听不清歌，需要带耳机）鼓况一般（1p随机吃红跳蓝2p随机跳蓝）"
+      },
+      {
+        "title": "GROOVE COASTER",
+        "title_id": 16,
+        "version": "国行",
+        "count": "2",
+        "coin_per_play": "3",
+        "desc": "机况还行"
       },
       {
         "title": "PUMP IT UP",
@@ -26680,7 +27470,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11-A",
+        "version": "CH1.11-B",
         "count": "1",
         "coin_per_play": "6",
         "desc": ""
@@ -26762,10 +27552,10 @@
       {
         "title": "GTDR GF",
         "title_id": 8,
-        "version": "XG",
+        "version": "HIGH-VOLTAGE",
         "count": "1",
         "coin_per_play": "3",
-        "desc": ""
+        "desc": "已联网，远端自动更新，非BJMania服务无法使用Paseli。可以使用AIC。"
       },
       {
         "title": "DANCERUSH",
@@ -26957,9 +27747,9 @@
         "title": "WACCA",
         "title_id": 17,
         "version": "Ver 2",
-        "count": "2",
+        "count": "1",
         "coin_per_play": "3",
-        "desc": "有一台外放左声道无声，耳机正常\r\n和PIU面对面放置，场内嘈杂，建议带耳机游玩。"
+        "desc": "和PIU面对面放置，场内嘈杂，建议带耳机游玩。"
       },
       {
         "title": "PUMP IT UP",
@@ -27028,16 +27818,7 @@
     "commute": "搭乘212、001、021、032、060、061、B12、B17、B27、K26到张家边市场，下车后向西走50米后左转进入港城路，沿港城路直行140米",
     "coin_price": "1元",
     "desc": "38元50币 50元70币 100元160币",
-    "machines": [
-      {
-        "title": "太鼓达人",
-        "title_id": 15,
-        "version": "11",
-        "count": "1",
-        "coin_per_play": "3",
-        "desc": "鼓面意外的新 //基本没人玩 /1p2p的咔会莫名失灵体验不佳(现在机器有点旧了，时不时会断)"
-      }
-    ]
+    "machines": []
   },
   "650": {
     "id": 650,
@@ -27312,28 +28093,28 @@
     "district": "云浮市罗定市",
     "address": "罗城街道龙园路133号罗定体育商业广场首一层电玩城旁边铺位",
     "location": {
-      "longitude": 111.581644,
-      "latitude": 22.765918
+      "longitude": 111.581569,
+      "latitude": 22.766008
     },
-    "commute": "正门进去后需要乘坐扶梯到下一层",
+    "commute": "",
     "coin_price": "1.5元",
-    "desc": "【购币方式】\r\n💬前台\r\n¥60=40\r\n¥100=100\r\n¥200=300\r\n■不能购买单币\r\n📮自助售币机\r\n¥20=13\r\n¥50=35\r\n¥100=100\r\n🕙营业时间\r\n【10：00-22：00】\r\n机台位置较偏僻且玩的人少",
+    "desc": "¥60=40\r\n¥100=100\r\n¥200=300\r\n营业时间 10：00-22：00",
     "machines": [
       {
         "title": "DANCERUSH",
         "title_id": 10,
         "version": "REC:C:A:A:2020101200",
         "count": "1",
-        "coin_per_play": "3",
-        "desc": "机台有点问题。"
+        "coin_per_play": "5",
+        "desc": ""
       },
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "s",
+        "version": "S",
         "count": "2",
         "coin_per_play": "5",
-        "desc": "依旧没更新，从3币涨价到5币。无更新消息。耳机孔更拉胯了。没必要玩。"
+        "desc": "3币变5币，大概率不会更新Lily了，声音太小建议自带耳机。币没打完的打完就别去了，尝新没必要。"
       }
     ]
   },
@@ -27501,7 +28282,7 @@
         "version": "FINALE联网球盘",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "单人三首，双人四首。按键松，1P外框损坏，已修缮。2P二号键残废，经常吃音。屏幕烧屏严重，1P内屏轻微花屏。"
+        "desc": "单人三首，双人四首。按键松，1P外框损坏，已修缮。2P二号键残废，经常吃音。目前机况还行，可以玩，外键较脆，请酌情使用。1p暂时维修中，只有2p能用，单人模式"
       },
       {
         "title": "太鼓达人",
@@ -27849,6 +28630,32 @@
       }
     ]
   },
+  "1128": {
+    "id": 1128,
+    "url": "https://map.bemanicn.com/shop/1128",
+    "name": "星际动漫",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "district": "桂林市秀峰区",
+    "address": "解放东路14-2-6号附近",
+    "location": {
+      "longitude": 110.299978,
+      "latitude": 25.278979
+    },
+    "commute": "公交车乐群路口、十字街站下车然后步行到东西巷",
+    "coin_price": "1元",
+    "desc": "机种较少，音游机只有吴丽芳和e舞，建议出东西巷右转到玛丽奥出勤",
+    "machines": [
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "8",
+        "count": "4",
+        "coin_per_play": "2",
+        "desc": "1号机2号机均无法正常开机，3号机可以开机但屏幕严重发紫，4号机机况稍好，未联网不支持店内对战"
+      }
+    ]
+  },
   "380": {
     "id": 380,
     "url": "https://map.bemanicn.com/shop/380",
@@ -27863,15 +28670,15 @@
     },
     "commute": "公交十字街解放东路、乐群路口、十字街解放西路、十字街中心广场站",
     "coin_price": "1元",
-    "desc": "美团有39.9元100币的团购（已失效）\r\n6月18日：店铺线路正在检修，不正常运营，随缘随时开一扇门和maimai",
+    "desc": "美团有39.9元100币的团购（已失效）",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11A",
+        "version": "CH1.11B",
         "count": "1",
         "coin_per_play": "6",
-        "desc": "机况良好，单人三首，双人四首，因近期店铺线路维修中，屏幕供电不稳定有严重吃音问题"
+        "desc": "机况良好，单人三首，双人四首."
       },
       {
         "title": "maimai",
@@ -27911,7 +28718,7 @@
         "version": "国行发行版V2",
         "count": "2",
         "coin_per_play": "2",
-        "desc": "太鼓达人12亚右边，似乎是最近修好启动的"
+        "desc": "太鼓达人12亚右边，只有一台能亮能打"
       },
       {
         "title": "头文字D",
@@ -27979,7 +28786,7 @@
         "version": "2008",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "状态未知，请询问店内工作人员"
+        "desc": "机况未知"
       }
     ]
   },
@@ -28006,6 +28813,32 @@
         "count": "1",
         "coin_per_play": "2",
         "desc": "4track 机况很好"
+      }
+    ]
+  },
+  "1110": {
+    "id": 1110,
+    "url": "https://map.bemanicn.com/shop/1110",
+    "name": "大玩家超樂場（桂林高新萬達）",
+    "province": "广西壮族自治区",
+    "city": "桂林市",
+    "district": "桂林市七星区",
+    "address": "穿山东路43号",
+    "location": {
+      "longitude": 110.320965,
+      "latitude": 25.242562
+    },
+    "commute": "桂林公交14路，32路，85路，100路",
+    "coin_price": "1元",
+    "desc": "",
+    "machines": [
+      {
+        "title": "鼓王",
+        "title_id": 22,
+        "version": "第三代騎士與公主",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "機況未知"
       }
     ]
   },
@@ -28107,7 +28940,7 @@
     },
     "commute": "22路 3路 K9路 大学专线1路",
     "coin_price": "1元",
-    "desc": "机厅应该是标准的风云再起机厅，币是风云再起的标准币，没有写城市。\r\n会员政策：\r\n可以使用微信注册免费会员，支付10元可以办理实体会员卡。\r\n学生卡需要携带学生证、身份证办理。\r\n优惠信息：\r\n该机厅门口有时候会有派发广告，2020/08/15左右有派发包含免费领取10枚币，50-10优惠券，100-30优惠券三种优惠的广告单。\r\n口碑(不确定)/美团/大众点评有每人只可购买一次的优惠套餐和根本不值的套餐。\r\n首次关注公众号可领10币（风云再起钦州）\r\n学生卡可以购买50元/80币（0.625元一币）的套餐，每周还可免费领30币。（悲报：不满18办不了卡）\r\n没有学生卡的话公众号内另有70元/100币的套餐，每周可领10币。",
+    "desc": "机厅应该是标准的风云再起机厅，币是风云再起的标准币，没有写城市。\r\n交通方面不推荐搭乘22路前往，22路目前来说排班玄学，只有2辆车。\r\n会员政策：\r\n可以使用微信注册免费会员，支付10元可以办理实体会员卡。\r\n学生卡需要携带学生证、身份证办理。\r\n优惠信息：\r\n该机厅门口有时候会有派发广告，2020/08/15左右有派发包含免费领取10枚币，50-10优惠券，100-30优惠券三种优惠的广告单。\r\n口碑(不确定)/美团/大众点评有每人只可购买一次的优惠套餐和根本不值的套餐。\r\n首次关注公众号可领10币（风云再起钦州）\r\n学生卡可以购买50元/80币（0.625元一币）的套餐，每周还可免费领30币。（悲报：不满18办不了卡）\r\n没有学生卡的话公众号内另有70元/100币的套餐，每周可领10币。",
     "machines": [
       {
         "title": "maimai DX",
@@ -28157,7 +28990,7 @@
     },
     "commute": "共享单车",
     "coin_price": "1元",
-    "desc": "有100块150币等优惠套餐。散币20起步并加收5块钱手续费。有离线湾岸3",
+    "desc": "有200块350币等优惠套餐。散币50起步并加收5块钱手续费。有离线湾岸3。本地mai群205246771，欢迎进群击剑（不是）",
     "machines": [
       {
         "title": "maimai DX",
@@ -28165,7 +28998,7 @@
         "version": "Ver.Ch1.11-A",
         "count": "1",
         "coin_per_play": "5",
-        "desc": "6月11日新机"
+        "desc": "6月11日新机.24日出现故障，现已修复。"
       },
       {
         "title": "头文字D",
@@ -28199,7 +29032,33 @@
         "version": "Finale",
         "count": "1",
         "coin_per_play": "2",
-        "desc": "已安装球盘联网，可刷卡。单人3曲，双人4曲\r\n机况较差，1p有闪屏现象，1p2p屏幕按键均有不同程度的吃音现象，偶尔有黑屏情况，请小心游玩"
+        "desc": "已安装球盘联网，可刷卡。单人3曲，双人4曲。\r\n机况较差，网络不稳定，1p2p屏幕按键均有不同程度的吃音现象，偶尔有黑屏情况，请小心游玩。"
+      }
+    ]
+  },
+  "1116": {
+    "id": 1116,
+    "url": "https://map.bemanicn.com/shop/1116",
+    "name": "祺祺游乐城",
+    "province": "广西壮族自治区",
+    "city": "河池市",
+    "district": "河池市宜州区",
+    "address": "庆远镇富豪街帝王商贸城4楼",
+    "location": {
+      "longitude": 108.66081,
+      "latitude": 24.491858
+    },
+    "commute": "公交：8路（临时）9路 604路 12路 10路在红叶宾馆站下车从华莱士旁边的路口进，步行200m就到电梯口。从火车站出发可以坐9路公交车直达红叶宾馆站。",
+    "coin_price": "1元",
+    "desc": "店面除了WACCA，还有舞立方，e舞成名，舞战纪等国产音游机台\r\n\r\n本地音游街机出勤玩家交流群：808923323\r\n\r\n部分游戏币优惠套餐：\r\n美团9.9人民币=25币，仅限一次\r\n美团19.9人民币=30币",
+    "machines": [
+      {
+        "title": "WACCA",
+        "title_id": 17,
+        "version": "v2.0",
+        "count": "1",
+        "coin_per_play": "3",
+        "desc": "7月10日新机，机况良好\r\n如碰到机器不打开的情况可找工作人员打开"
       }
     ]
   },
@@ -28327,7 +29186,7 @@
     },
     "commute": "公交到嘉华名都站或华深家具附近",
     "coin_price": "1.5元",
-    "desc": "欢迎光临排 队 嘉 年 华！\r\n周六15:00-23:00如需游玩更多局的舞萌DX，请不要在此机厅浪费时间往已经爆满的排队板上排队（预计等候时间平均一个半小时），请前往明珠日不落进行排队游玩。\r\n机厅大致有一个专门的音游区 有沙发 有摄影架 有排队板\r\n目前整体较热 没风扇 空调随缘\r\n营业状况：\r\n正常营业中\r\n会员计划：\r\n消费200元（含）以上即可开通会员，到期续期十元。\r\n每周可以领5枚币，生日可以领50枚币。\r\n套餐:\r\n大众点评售卖1元10币的体验套餐（1号仅限1次）\r\n还有店内套餐\r\n营业时间：\r\n随心情 AM - 1:00 AM",
+    "desc": "近期排队人数已经和日不落平衡，欢迎前来游玩。\r\n机厅大致有一个专门的音游区 有摄影架 有排队板 有隔壁水吧的桌椅\r\n目前整体较热 没风扇 空调随缘\r\n会员计划：\r\n消费200元（含）以上即可开通会员，到期续期十元。\r\n每周可以领5枚币，生日可以领50枚币。\r\n套餐:\r\n大众点评售卖1元10币的体验套餐（1号仅限1次）\r\n还有店内套餐\r\n营业时间：\r\n随心情 AM - 1:00 AM",
     "machines": [
       {
         "title": "maimai DX",
@@ -28343,7 +29202,7 @@
         "version": "FiNALE",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "断网 更新至2021/05/07版本 音量小\r\n1P屏幕A8区域偶尔震键\r\n2P屏幕A2/B2/B3区域坏 2P1号键左边的壳碎角 日常关机\r\n精文机 单人3币3曲 双人6币3曲"
+        "desc": "游戏断网 联网更新 音量小\r\n1P屏幕A8区域偶尔震键\r\n2P屏幕A2/B2/B3区域坏 2P1号键左边的壳碎角 日常关机\r\n精文机 单人3币3曲 双人6币3曲"
       },
       {
         "title": "maimai",
@@ -28359,7 +29218,7 @@
         "version": "festo",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "联网刷卡\r\n显示器安装偏下，PASELI提示可用但机厅不支持充值\r\n读卡器在投币口左边的洞里，把卡伸进去读卡，刷手机可能需要微调一下读卡器角度"
+        "desc": "联网刷卡\r\nPASELI可用但不支持充值，EXPERT OPTION不扣P\r\n读卡器在投币口左边的洞里，把卡伸进去读卡，刷手机可能需要微调一下读卡器角度"
       },
       {
         "title": "jubeat",
@@ -28367,7 +29226,7 @@
         "version": "蓝皮",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "4tune 显示器安装偏下 音量较小"
+        "desc": "4tune 显示器安装偏下"
       },
       {
         "title": "太鼓达人",
@@ -28490,7 +29349,7 @@
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11",
+        "version": "CH1.11-A",
         "count": "1",
         "coin_per_play": "6",
         "desc": "1P、2P都有挂墙风扇\r\n似乎每月可以申请返币，活动详情请查看机台告示"
@@ -28498,10 +29357,10 @@
       {
         "title": "maimai",
         "title_id": 2,
-        "version": "JINALE 2.30 2021/6/19",
+        "version": "JiNALE",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "机台完好，按键虽弹性不佳但反应灵敏，不可摄影，可刷aime卡登陆，其他卡没试过"
+        "desc": "机台完好，标准日框手感；无摄像头，如需内录请前往上邦。"
       },
       {
         "title": "星光",
@@ -28527,23 +29386,15 @@
     },
     "commute": "公交：水利大厦或人民医院（推荐在水利大厦下车，不用走那么远的路）   有轨电车到新风街口下车",
     "coin_price": "1元",
-    "desc": "---该 机 厅 冷 气 足---\r\n门口有全球最先进跳舞机舞 战 纪\r\n优惠信息:\r\n该店可临时存币（用秤，打印凭条），有不同大小币袋\r\n大众点评50块100个币,30块50币\r\n（所以不要会员也无妨\r\n会员信息\r\n会员开卡需充值200元（大概400多个币）\r\n每月16、17日可以到柜台领取30币（每月仅限一次）\r\n营业时间:\r\n9:30 AM - 11:00 PM（10：00 PM后需从A区西门进入）\r\n\r\n欢迎入群：67950694",
+    "desc": "---该 机 厅 冷 气 足---\r\n门口有全球最先进跳舞机舞 战 纪\r\n优惠信息:\r\n该店可临时存币（用秤，打印凭条），有不同大小币袋\r\n大众点评68.5元105个币,109.9元183币\r\n目前大众点评币价仍旧比会员价便宜\r\n会员信息\r\n会员开卡需一次性充值200元（400币）\r\n每月16、17日可以到柜台领取30币（每月仅限一次）\r\n营业时间:\r\n9:30 AM - 10:30 PM（10：00 PM后需从A区西门进入）\r\n\r\n欢迎入群：67950694",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.01-E",
+        "version": "CH1.11-B",
         "count": "1",
         "coin_per_play": "3",
         "desc": "判定时不时有问题，玩之前请开一把天狗和d0测试一下（本地群意见）\r\n建议刷卡游玩，小心小孩偷币；请不要同时投币和刷卡，会吞币\r\n排队板已实装"
-      },
-      {
-        "title": "鼓王",
-        "title_id": 22,
-        "version": "2008",
-        "count": "1",
-        "coin_per_play": "4",
-        "desc": ""
       }
     ]
   },
@@ -28561,15 +29412,15 @@
     },
     "commute": "乘坐公交到达创业大厦或新风桥",
     "coin_price": "1元",
-    "desc": "节假日机厅不时有优惠购币活动，如果有会在前台立牌\r\n如果机台关了请联系前台开启（\r\n营业时间：\r\n9：30-23：00（22：00后需从星巴克旁边的直梯到达）\r\n会员卡\r\n需准备身份证到柜台开卡，开卡费40元，内含30个游戏币\r\n每个月可以从柜台领取30个币，生日可额外领币\r\n\r\n欢迎入群：67950694",
+    "desc": "节假日机厅不时有优惠购币活动，如果有会在前台立牌\r\n如果机台关了请联系前台开启（\r\n营业时间：\r\n9：30-23：00（22：00后需从星巴克旁边的直梯到达）\r\n会员卡\r\n需准备身份证到柜台开卡，开卡费40元，有效期一年，附赠30个游戏币\r\n每个月可以从柜台领取30个币，生日可额外领币\r\n\r\n欢迎入群：67950694",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "国行",
+        "version": "CH1.11-B",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "建议准备耳机，因为现在DX的声音比之前调小了(个人感觉)\r\n排队板已实装"
+        "desc": "建议准备耳机，因为后面有鹅舞\r\n排队板已实装"
       },
       {
         "title": "太鼓达人",
@@ -28600,8 +29451,8 @@
         "title_id": 26,
         "version": "Zero",
         "count": "2",
-        "coin_per_play": "99",
-        "desc": "币数未知\r\n机况较差"
+        "coin_per_play": "4",
+        "desc": "机况较差"
       }
     ]
   },
@@ -28624,10 +29475,10 @@
       {
         "title": "maimai",
         "title_id": 2,
-        "version": "JiNALE",
+        "version": "JiNALE Ver.2.33",
         "count": "1",
-        "coin_per_play": "1",
-        "desc": "可内录"
+        "coin_per_play": "3",
+        "desc": "投币口被封，只能扫码投币。\r\n可内录，单人一局4首曲，1P、2P位的1、8两按键过敏(2P貌似症状比1P严重)，按任意键稍大力可能会出奇迹导致1、8自己瞎按。\r\n这应该是屏幕问题，因为在选歌菜单时并无任何误触现象，虽怀疑是音箱振动导致屏幕误触，但无可靠证据。"
       }
     ]
   },
@@ -28671,7 +29522,7 @@
     },
     "commute": "乘坐轨道交通三号线至观音桥站。",
     "coin_price": "1元",
-    "desc": "maimai和e舞放在一起，特别吵，建议佩戴耳机。maimai上午11点或者10点之前可能都无联网，早勤人注意~maimai 1p的4号键卡扣已经坏了，暂时未修理，不影响游玩，收歌请注意。",
+    "desc": "maimai和e舞放在一起（现在都被放到了门店外面的好吃街边，路人巨多，环境巨吵，由于在店外没有空调，注意防暑），建议佩戴耳机。maimai上午11点或者10点之前可能都无联网，早勤人注意~maimai 1p的4号键卡扣已经坏了，暂时未修理，不影响游玩，收歌请注意。",
     "machines": [
       {
         "title": "maimai DX",
@@ -28773,7 +29624,7 @@
         "version": "Finale",
         "count": "1",
         "coin_per_play": "0",
-        "desc": "联网茶盘，可使用自己的卡存分"
+        "desc": "联网鸡盘，可使用自己的卡存分，有公卡"
       },
       {
         "title": "CHUNITHM",
@@ -28879,7 +29730,7 @@
         "version": "murasaki",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "两边屏幕触摸均有问题，无法触摸，完全无法正常游戏。"
+        "desc": "两边屏幕触摸均有问题，无法触摸，完全无法正常游戏。现已被关机。"
       },
       {
         "title": "太鼓达人",
@@ -28984,10 +29835,10 @@
       {
         "title": "SOUND VOLTEX",
         "title_id": 4,
-        "version": "5 VIVID WAVE",
+        "version": "6 EXCEED GEAR",
         "count": "2",
         "coin_per_play": "3",
-        "desc": "机器维修完毕，读卡器在小键盘下面的位置，只支持刷广西卡，不支持Epass/Aime。默认全解，原装三和+欧姆龙按键，可店内联机。目前右边黑机已关机等待维修，左边白机需要手动开机。"
+        "desc": "机器维修完毕，读卡器在小键盘下面的位置，原装三和+欧姆龙按键，可店内联机。只支持刷广西卡，不支持Epass/Aime。前台无卡，购买请加群：894173628"
       },
       {
         "title": "太鼓达人",
@@ -29119,6 +29970,23 @@
       }
     ]
   },
+  "1132": {
+    "id": 1132,
+    "url": "https://map.bemanicn.com/shop/1132",
+    "name": "星际传奇渝北光环购物公园店",
+    "province": "重庆市",
+    "city": "市辖区",
+    "district": "市辖区渝北区",
+    "address": "重庆市渝北区鸳鸯街道光环购物公园L3楼26-27星际传奇",
+    "location": {
+      "longitude": 106.544982,
+      "latitude": 29.639304
+    },
+    "commute": "轻轨5号线重光站1出口出去上3楼",
+    "coin_price": "1.5元",
+    "desc": "光环舞萌dx交流群群号：938626222",
+    "machines": []
+  },
   "410": {
     "id": 410,
     "url": "https://map.bemanicn.com/shop/410",
@@ -29192,32 +30060,6 @@
         "count": "1",
         "coin_per_play": "3",
         "desc": "框体是太鼓14的框体"
-      }
-    ]
-  },
-  "465": {
-    "id": 465,
-    "url": "https://map.bemanicn.com/shop/465",
-    "name": "大玩家(南川万达)",
-    "province": "重庆市",
-    "city": "市辖区",
-    "district": "市辖区南川区",
-    "address": "渝南大道16号",
-    "location": {
-      "longitude": 107.091357,
-      "latitude": 29.159744
-    },
-    "commute": "",
-    "coin_price": "1元",
-    "desc": "",
-    "machines": [
-      {
-        "title": "GROOVE COASTER",
-        "title_id": 16,
-        "version": "音炫轨道",
-        "count": "2",
-        "coin_per_play": "0",
-        "desc": "免费"
       }
     ]
   },
@@ -29493,7 +30335,7 @@
     },
     "commute": "地铁6号线星河站；公交交大路西站/地铁星河站/交桂路站。",
     "coin_price": "1元",
-    "desc": "新安装自助饮料机。\r\n线上购买有优惠套餐，且可自助存币取币。",
+    "desc": "设有自助饮料机。购买时请注意说明，并严格按照步骤，必要时联系staff协助。\r\n线上购买有优惠套餐，且可自助存币取币。",
     "machines": [
       {
         "title": "maimai DX",
@@ -29548,7 +30390,7 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "S",
+        "version": "Ver2",
         "count": "2",
         "coin_per_play": "3",
         "desc": "原场测机，现已系统升级为正式国行版。右侧机(2号机)已修复耳机孔接触不良的问题，但键盘灯再次故障无法点亮(不影响碰触判定)；左机(1号机)耳机孔暂未修复。"
@@ -29839,7 +30681,7 @@
     },
     "commute": "地铁2/6号线犀浦站；公交天府路中段站/犀浦快铁站；有轨电车交大犀浦校区站。",
     "coin_price": "1元",
-    "desc": "可自助存取币。\r\n凭部分店铺小票可在柜台免费兑换10币(每日限一次)。详情请在微信小程序“酷漫地带石犀里”查看。",
+    "desc": "可自助存取币。存币有概率卡币。\r\n凭部分店铺小票可在柜台免费兑换10币(每日限一次)。详情请在微信小程序“酷漫总动员”查看。",
     "machines": [
       {
         "title": "maimai DX",
@@ -29855,7 +30697,7 @@
         "version": "14",
         "count": "1",
         "coin_per_play": "3",
-        "desc": "左边鼓的效果稍好，右边的鼓面效果差，已不能正常打出成绩，更新于2021年5月1日。"
+        "desc": "左边鼓况已做出调整，可以正常游玩，非常少数情况下左边打咔会识别成咚，选歌建议敲击鼓下方。右边咚咔串音，不能打出正常成绩。修改日期2021年7月5日"
       }
     ]
   },
@@ -30391,9 +31233,9 @@
       "longitude": 106.728572,
       "latitude": 31.857272
     },
-    "commute": "3路/5路/13路",
+    "commute": "3路/5路/13路/32路",
     "coin_price": "1元",
-    "desc": "",
+    "desc": "在荣邦国际的负1层，从旁边斜坡也可以进入\r\n有微信公众号：巴中市酷啦啦娱乐有限公司  经常有活动币能便宜不少\r\n（本地玩音游的大家可以加下交流群~693185415）",
     "machines": [
       {
         "title": "太鼓达人",
@@ -30623,6 +31465,40 @@
       }
     ]
   },
+  "1144": {
+    "id": 1144,
+    "url": "https://map.bemanicn.com/shop/1144",
+    "name": "城市英雄(遵义丁字口店)",
+    "province": "贵州省",
+    "city": "遵义市",
+    "district": "遵义市红花岗区",
+    "address": "丁字口中山路中段",
+    "location": {
+      "longitude": 106.926835,
+      "latitude": 27.682763
+    },
+    "commute": "公交103路;104路;11路;14路;15路;16路;19B路;19路;21路循环线;22路;26路;29路;303路;33路循环线;37路;7路;8路;9路;快巴1路 坐到中山路下车",
+    "coin_price": "1元",
+    "desc": "",
+    "machines": [
+      {
+        "title": "太鼓达人",
+        "title_id": 15,
+        "version": "亚洲版",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "机况良好，离舞立方较远"
+      },
+      {
+        "title": "鼓王",
+        "title_id": 22,
+        "version": "三代",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": "机况良好，旁边有舞立方和E舞成名，可能会造成干扰"
+      }
+    ]
+  },
   "897": {
     "id": 897,
     "url": "https://map.bemanicn.com/shop/897",
@@ -30765,17 +31641,17 @@
       "longitude": 104.919188,
       "latitude": 25.101871
     },
-    "commute": "",
+    "commute": "3，4，6路公交到桔山广场",
     "coin_price": "1元",
-    "desc": "jubeat官2一台，机况良好(按键进了一些灰)，没有相关游戏卡出售",
+    "desc": "jubeat官2一台，机况良好(按键进了一些灰)，没有相关游戏卡出售，请自备官二卡。（读卡器似乎有问题）",
     "machines": [
       {
         "title": "jubeat",
         "title_id": 6,
-        "version": "官2",
+        "version": "官2（全国对战版，但已经不能联网）",
         "count": "1",
         "coin_per_play": "3",
-        "desc": ""
+        "desc": "请自备官二卡"
       }
     ]
   },
@@ -31207,7 +32083,7 @@
     },
     "commute": "地铁4/1号线五路口站至4号线站厅E口出站，公交可乘坐5/14/K14/25/40/K40/41/46/49/ 201/258/286/309/500/602/607至五路口站下车",
     "coin_price": "1元",
-    "desc": "全西安目前为止币最便宜的大玩家，就是非常吵，周内没多少人记得看好东西\r\n万达广场2号门进会比较方便，进门后左手直梯上4层可直接看到大玩家\r\n（五路口桑拿房不是吹的）",
+    "desc": "全西安目前为止币最便宜的大玩家，就是非常吵，叫它五路口吧，周内没多少人记得看好东西，社会人比较多，还有三个臭名昭著的小孩，记得及时退卡，小心那三个小孩捡走给你花光\r\n万达广场2号门进会比较方便，进门后左手直梯上4层可直接看到大玩家\r\n常有路人拆机，注意出警\r\n店家给maimai旁刚进一台风扇\r\n7月底比赛，门店群自行报名",
     "machines": [
       {
         "title": "maimai DX",
@@ -31215,22 +32091,74 @@
         "version": "CH1.11-A",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "机况还行，机修不清灰，部分耳机戴着会有电流噪声"
+        "desc": "机况还行，机修不清灰，部分耳机戴着会有电流噪声\r\n正后方有台舞立方，建议自带耳机出勤"
+      }
+    ]
+  },
+  "1107": {
+    "id": 1107,
+    "url": "https://map.bemanicn.com/shop/1107",
+    "name": "哆啦星球（环球港）",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "西安市新城区",
+    "address": "西安幸福林带环球港E区",
+    "location": {
+      "longitude": 109.015646,
+      "latitude": 34.267987
+    },
+    "commute": "地铁1号线万寿路站",
+    "coin_price": "1元",
+    "desc": "微信购币套餐：¥49.9=80，¥99.9=200，¥159.9=360",
+    "machines": [
+      {
+        "title": "maimai",
+        "title_id": 2,
+        "version": "Finale 1.99B",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": "离线全解，3曲"
       },
       {
-        "title": "jubeat",
-        "title_id": 6,
-        "version": "未知",
-        "count": "2",
-        "coin_per_play": "2",
-        "desc": "机台机况差到进粪坑，按键砸都砸不动，机修再不修就快退役了"
+        "title": "DANCERUSH",
+        "title_id": 10,
+        "version": "国行",
+        "count": "1",
+        "coin_per_play": "4",
+        "desc": ""
+      }
+    ]
+  },
+  "1108": {
+    "id": 1108,
+    "url": "https://map.bemanicn.com/shop/1108",
+    "name": "环游嘉年华西安环球港店",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "西安市新城区",
+    "address": "幸福林带环球港C区-D3026",
+    "location": {
+      "longitude": 109.015216,
+      "latitude": 34.263672
+    },
+    "commute": "地铁1号线万寿路站出C口向南600米",
+    "coin_price": "1.5元",
+    "desc": "新开店铺，目前还在试营业期间\r\n说是华立和闪电合作，其实就是环球嘉年华的西北总部，由于币价太贵无人问津，可随时霸机，路人多，所以近期机况不明了",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "CH1.11-A",
+        "count": "1",
+        "coin_per_play": "6",
+        "desc": ""
       }
     ]
   },
   "728": {
     "id": 728,
     "url": "https://map.bemanicn.com/shop/728",
-    "name": "闪电部落",
+    "name": "闪电部落（益田假日）",
     "province": "陕西省",
     "city": "西安市",
     "district": "西安市新城区",
@@ -31333,17 +32261,17 @@
       "longitude": 108.950827,
       "latitude": 34.258402
     },
-    "commute": "西安大多数的公交车均可直达钟楼，地铁2号线",
+    "commute": "钟楼各公交站(钟楼南，钟楼东，钟楼西，钟楼北)，地铁2号线C口出，无论公交地铁全部需经过钟楼地下环道5号楼出",
     "coin_price": "1元",
     "desc": "这机厅还是叫他风云吧（风云的一次失败尝试，现在是后娘养的尴尬境地）",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "CH1.11",
+        "version": "CH1.11-A",
         "count": "1",
         "coin_per_play": "6",
-        "desc": "原6楼机台"
+        "desc": "原6楼机台\r\n投币非常难，总会有几个币投不进去，建议快速塞进去"
       },
       {
         "title": "maimai",
@@ -31364,10 +32292,10 @@
       {
         "title": "WACCA",
         "title_id": 17,
-        "version": "Ver 2",
+        "version": "Ver.2",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "游艺宝（微信）扫码登录\r\n1p耳机接口接触不良，有概率无声"
+        "desc": "游艺宝（微信）扫码登录\r\n两台机子耳机接口均接触不良，需经过多次调整"
       },
       {
         "title": "PUMP IT UP",
@@ -31417,7 +32345,7 @@
         "version": "FiNALE",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "鸡盘已联网，可刷卡"
+        "desc": "鸡盘已联网，可刷卡，近期部分按键正在维修"
       },
       {
         "title": "SOUND VOLTEX",
@@ -31425,7 +32353,7 @@
         "version": "音律炫动5",
         "count": "2",
         "coin_per_play": "4",
-        "desc": "登录网络信号不好，进不去多刷几次就行"
+        "desc": "登录网络信号不好，进不去多刷几次就行。2p右旋钮直接掉了，1p打某些歌会直接卡死，非常拉胯了。"
       },
       {
         "title": "beatmania IIDX",
@@ -31442,6 +32370,14 @@
         "count": "1",
         "coin_per_play": "4",
         "desc": "出勤请自带纸巾，一般可以清理后自行重启即可，不需要找机修，不过少数情况下重启后依旧会有无影脚"
+      },
+      {
+        "title": "WACCA",
+        "title_id": 17,
+        "version": "华卡音舞Ver.2",
+        "count": "2",
+        "coin_per_play": "5",
+        "desc": ""
       },
       {
         "title": "PUMP IT UP",
@@ -31517,14 +32453,14 @@
       "longitude": 108.972767,
       "latitude": 34.315413
     },
-    "commute": "",
+    "commute": "地铁4号线余家寨站C口出",
     "coin_price": "1元",
     "desc": "",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "国行",
+        "version": "CH1.11-A",
         "count": "1",
         "coin_per_play": "3",
         "desc": ""
@@ -31543,9 +32479,9 @@
       "longitude": 108.946644,
       "latitude": 34.321068
     },
-    "commute": "",
+    "commute": "地铁2号线市图书馆A口出直行至艾斯广场",
     "coin_price": "1元",
-    "desc": "",
+    "desc": "就叫市图罢(恼)\r\n店铺在进入艾斯广场后右转扶梯旁，厕所门口，桑拿房，还有烟味buff加成，机况奇差",
     "machines": [
       {
         "title": "maimai DX",
@@ -31553,6 +32489,40 @@
         "version": "国行",
         "count": "1",
         "coin_per_play": "4",
+        "desc": "没什么好说的，机况差"
+      }
+    ]
+  },
+  "1130": {
+    "id": 1130,
+    "url": "https://map.bemanicn.com/shop/1130",
+    "name": "极客森超乐场西安店",
+    "province": "陕西省",
+    "city": "西安市",
+    "district": "西安市雁塔区",
+    "address": "雁展路1111号万象天地三层",
+    "location": {
+      "longitude": 108.951797,
+      "latitude": 34.198411
+    },
+    "commute": "地铁2号线会展中心C口出，步行500米",
+    "coin_price": "1.5元",
+    "desc": "17号开始试营业",
+    "machines": [
+      {
+        "title": "maimai DX",
+        "title_id": 1,
+        "version": "CH1.11-B",
+        "count": "2",
+        "coin_per_play": "4",
+        "desc": "新机台，禁止嗯造"
+      },
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "未知",
+        "count": "3",
+        "coin_per_play": "5",
         "desc": ""
       }
     ]
@@ -31644,8 +32614,8 @@
         "title_id": 17,
         "version": "华卡音舞",
         "count": "2",
-        "coin_per_play": "5",
-        "desc": "两台机器耳机均有电流底噪，不影响游玩。左机无法投币，右机间歇黑屏，频率忽高忽低。机台周围的噪音已经突破了人类承受能力的极限，强烈建议自带耳机。"
+        "coin_per_play": "4",
+        "desc": "问题基本修复，游玩正常。机台周围的噪音已经突破了人类承受能力的极限，强烈建议自带耳机。"
       }
     ]
   },
@@ -31741,7 +32711,7 @@
     },
     "commute": "[地铁]1号线东方红广场站D口;[公交]东方红广场南口站",
     "coin_price": "1.3元",
-    "desc": "会员卡工本费十元,可与天津店通用;会员卡购币套餐币值0.78元至0.45元不等。",
+    "desc": "会员卡工本费十元,可与天津店通用;会员卡购币套餐币值0.78元至0.45元不等。7月1日起店铺内部维修暂停营业。",
     "machines": [
       {
         "title": "WACCA",
@@ -31810,6 +32780,14 @@
         "count": "1",
         "coin_per_play": "4",
         "desc": "新机子机况良好，左边方鹅舞建议戴耳机，扫码摄像头若抽风请放大二维码怼上去。位置靠机厅门很近，有路人小孩观看注意。无衣架无风扇"
+      },
+      {
+        "title": "太鼓达人",
+        "title_id": 15,
+        "version": "12亚",
+        "count": "1",
+        "coin_per_play": "2",
+        "desc": ""
       }
     ]
   },
@@ -32079,15 +33057,15 @@
     },
     "commute": "地铁1号线体育中心站D出口出站向南步行500米；BRT1号线体育中心站出站左侧向南步行500米；43路、54路、56路、76路、535路、701路、3406路于汇嘉时代站下车即到",
     "coin_price": "1元",
-    "desc": "微信小程序存币，与德港嘉年华游戏币通用。截止6月23日，新进舞萌dx2021一台，版本号1.11。",
+    "desc": "微信小程序存币，与德港嘉年华游戏币通用。截止7月02日，新进舞萌dx2021一台，版本号1.11A。机厅里暂时通风不太好，也不让带水进去，周知",
     "machines": [
       {
         "title": "maimai DX",
         "title_id": 1,
-        "version": "Ver.CH1.11",
+        "version": "Ver.CH1.11A",
         "count": "1",
         "coin_per_play": "4",
-        "desc": "按键屏幕良好，按键比德港的舒服。刚进的新机，机修出差了暂时未联网"
+        "desc": "按键屏幕良好，按键比德港的舒服。刚进的新机，已更新为最新CH1.11A(2021.07.02更新机况）"
       }
     ]
   },
@@ -34914,10 +35892,10 @@
       {
         "title": "SOUND VOLTEX",
         "title_id": 4,
-        "version": "VIVID WAVE",
+        "version": "EXCEED GEAR",
         "count": "4",
         "coin_per_play": "6",
-        "desc": "無打印機，含2台Valkyrie model"
+        "desc": "無打印機，含2台Valkyrie model（其中一台螢幕損壞等待維修）"
       },
       {
         "title": "beatmania IIDX",
@@ -34990,6 +35968,14 @@
         "count": "2",
         "coin_per_play": "6",
         "desc": "額外投入18MOP即可開通30日VIP(刷三次儲值卡)"
+      },
+      {
+        "title": "头文字D",
+        "title_id": 26,
+        "version": "THE ARCADE",
+        "count": "1",
+        "coin_per_play": "0",
+        "desc": "【即将上线】"
       }
     ]
   },
@@ -35015,7 +36001,7 @@
         "version": "international ver.",
         "count": "4",
         "coin_per_play": "6",
-        "desc": "6coin單人三曲12coin雙人四曲，從亞洲搬了兩台下來。其中一台為youtube直播無限制機。"
+        "desc": "6coin單人三曲12coin雙人四曲，從亞洲搬了兩台下來。其中一台為youtube直播無限制機（需主動提出才可直播。）"
       },
       {
         "title": "CHUNITHM",

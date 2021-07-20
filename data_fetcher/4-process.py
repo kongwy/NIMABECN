@@ -1,9 +1,23 @@
+"""Process and generate shop data from fetched
+
+Usage:
+  4-process.py [-g FILE] [-r FILE] [-d FILE] [-o FILE]
+
+Options:
+  -h --help             show this message
+  -v --version          show version
+  -g --games FILE       specify _games.json location [default: ./_games.json]
+  -r --regions FILE     specify regions.json location [default: ./output/regions.json]
+  -d --detail FILE      specify detail.json location [default: ./temp/detail.json]
+  -o --output FILE      specify output file [default: ./output/shops.json]
+"""
+from docopt import docopt
 import json
 
 
-def process_machines(machines):
+def process_machines(machines, games_path):
     processed = []
-    with open('games.json', 'r') as gf:
+    with open(games_path, 'r') as gf:
         games = json.load(gf)
         game_map = {}
         for game in games:
@@ -22,7 +36,7 @@ def process_machines(machines):
         return processed
 
 
-def process(detail_path):
+def process(games_path, regions_path, detail_path, output_path):
     processed = []
     with open(detail_path, 'r', encoding='utf8') as df:
         shops = json.load(df)
@@ -44,7 +58,7 @@ def process(detail_path):
                 shop_district = ''
 
             # convert region to code
-            with open('regions.json', 'r') as r:
+            with open(regions_path, 'r') as r:
                 regions = json.load(r)
                 province_code = get_region_id(shop['province'], regions)['_id']
                 city_code = get_region_id(shop['city'], regions)['_id']
@@ -52,7 +66,7 @@ def process(detail_path):
                 if district_code is not None:
                     district_code = district_code['_id']
 
-            shop_machine = process_machines(shop['machines'])
+            shop_machine = process_machines(shop['machines'], games_path)
 
             processed.append({
                 '_id': shop['id'],
@@ -76,7 +90,7 @@ def process(detail_path):
                     'amap': '',
                 }
             })
-        with open('shops.json', 'w', encoding='utf8') as wf:
+        with open(output_path, 'w', encoding='utf8') as wf:
             json.dump(processed, wf, ensure_ascii=False, indent=2)
 
 
@@ -89,4 +103,9 @@ def get_region_id(name: str, regions: list, parent=None):
 
 
 if __name__ == '__main__':
-    process('raw/details.json')
+    arguments = docopt(__doc__, version='1.1')
+    game_source = arguments['--games']
+    region_source = arguments['--regions']
+    detail_source = arguments['--detail']
+    output = arguments['--output']
+    process(game_source, region_source, detail_source, output)

@@ -127,13 +127,21 @@
     "location": "市辖区海淀区",
     "address": "远大路1号金源新燕莎MALL东区5层"
   },
+  "1137": {
+    "id": 1137,
+    "url": "https://map.bemanicn.com/shop/1137",
+    "name": "阿凡达儿童乐园",
+    "province": "北京市",
+    "location": "市辖区海淀区",
+    "address": "四道口路2号京果商厦B座"
+  },
   "890": {
     "id": 890,
     "url": "https://map.bemanicn.com/shop/890",
     "name": "莱利嘉年华",
     "province": "北京市",
     "location": "市辖区海淀区",
-    "address": "远大路金源购物中心-1层B12"
+    "address": "远大路金源购物中心-B1层"
   },
   "443": {
     "id": 443,
@@ -143,14 +151,6 @@
     "location": "市辖区海淀区",
     "address": "五棵松复兴路69号五棵松华熙LIVE"
   },
-  "449": {
-    "id": 449,
-    "url": "https://map.bemanicn.com/shop/449",
-    "name": "land mark",
-    "province": "北京市",
-    "location": "市辖区海淀区",
-    "address": "海淀区华联3F东侧"
-  },
   "743": {
     "id": 743,
     "url": "https://map.bemanicn.com/shop/743",
@@ -158,6 +158,14 @@
     "province": "北京市",
     "location": "市辖区海淀区",
     "address": "农大南路一号院1号楼华联商厦上地店"
+  },
+  "1079": {
+    "id": 1079,
+    "url": "https://map.bemanicn.com/shop/1079",
+    "name": "风云再起北京北投爱琴海店",
+    "province": "北京市",
+    "location": "市辖区通州区",
+    "address": "新华东街289号院1号楼北京北投爱琴海购物公园M层"
   },
   "646": {
     "id": 646,
@@ -295,6 +303,14 @@
     "location": "市辖区南开区",
     "address": "南门外大街2-6号南开大悦城北区2楼1号"
   },
+  "1117": {
+    "id": 1117,
+    "url": "https://map.bemanicn.com/shop/1117",
+    "name": "大玩家（东丽万达店）",
+    "province": "天津市",
+    "location": "市辖区东丽区",
+    "address": "先锋路南侧东丽万达广场"
+  },
   "1024": {
     "id": 1024,
     "url": "https://map.bemanicn.com/shop/1024",
@@ -338,7 +354,7 @@
   "787": {
     "id": 787,
     "url": "https://map.bemanicn.com/shop/787",
-    "name": "金满家儿童乐园",
+    "name": "金满家电玩城",
     "province": "天津市",
     "location": "市辖区宝坻区",
     "address": "宝平街道天赋源商业广场a座"
@@ -415,6 +431,14 @@
     "location": "唐山市路南区",
     "address": "新华西道2-4号银泰城B馆F1楼"
   },
+  "1126": {
+    "id": 1126,
+    "url": "https://map.bemanicn.com/shop/1126",
+    "name": "再现狂潮电玩城",
+    "province": "河北省",
+    "location": "秦皇岛市海港区",
+    "address": "杜庄镇中石油加油站南侧首钢赛车谷卡丁世界三楼"
+  },
   "467": {
     "id": 467,
     "url": "https://map.bemanicn.com/shop/467",
@@ -470,6 +494,14 @@
     "province": "河北省",
     "location": "邯郸市丛台区",
     "address": "人民路456号美乐城五楼"
+  },
+  "1124": {
+    "id": 1124,
+    "url": "https://map.bemanicn.com/shop/1124",
+    "name": "米乐多邯郸丛台店",
+    "province": "河北省",
+    "location": "邯郸市丛台区",
+    "address": "苏曹乡天虹广场a座3楼米乐多家庭中心"
   },
   "199": {
     "id": 199,
@@ -679,14 +711,6 @@
     "location": "晋中市市辖区",
     "address": "晋中市龙湖大街天美杉杉奥特莱斯二楼"
   },
-  "122": {
-    "id": 122,
-    "url": "https://map.bemanicn.com/shop/122",
-    "name": "开来淘气堡",
-    "province": "山西省",
-    "location": "忻州市忻府区",
-    "address": "和平街七一路口开来欣悦商务中心8F"
-  },
   "957": {
     "id": 957,
     "url": "https://map.bemanicn.com/shop/957",
@@ -815,6 +839,14 @@
     "location": "鄂尔多斯市东胜区",
     "address": "准格尔路鄂尔多斯市购物中心星河COCO City"
   },
+  "1093": {
+    "id": 1093,
+    "url": "https://map.bemanicn.com/shop/1093",
+    "name": "大玩家超乐场（海拉尔店）",
+    "province": "内蒙古自治区",
+    "location": "呼伦贝尔市海拉尔区",
+    "address": "桥头街11号 伊仕丹购物广场5L"
+  },
   "334": {
     "id": 334,
     "url": "https://map.bemanicn.com/shop/334",
@@ -930,7 +962,7 @@
   "87": {
     "id": 87,
     "url": "https://map.bemanicn.com/shop/87",
-    "name": "卡其部落电玩城",
+    "name": "卡奇部落电玩城（嘉斯猫电玩城）",
     "province": "辽宁省",
     "location": "沈阳市大东区",
     "address": "大悦城D馆 B1楼 汉巴味德对面"
@@ -966,14 +998,6 @@
     "province": "辽宁省",
     "location": "沈阳市铁西区",
     "address": "建设东路158号铁西万象汇3F"
-  },
-  "90": {
-    "id": 90,
-    "url": "https://map.bemanicn.com/shop/90",
-    "name": "V动地带电玩城（沈辽西路店）",
-    "province": "辽宁省",
-    "location": "沈阳市铁西区",
-    "address": "兴隆大天地地下1层"
   },
   "608": {
     "id": 608,
@@ -1090,10 +1114,10 @@
   "1051": {
     "id": 1051,
     "url": "https://map.bemanicn.com/shop/1051",
-    "name": "东方英雄（万熹城市公园店）",
+    "name": "东方英雄（万熹城市广场店）",
     "province": "辽宁省",
     "location": "鞍山市铁东区",
-    "address": "站前街与铁东二道街交叉口东南"
+    "address": "站前街与铁东二道街交叉口东南万熹城市广场7F"
   },
   "110": {
     "id": 110,
@@ -1375,6 +1399,14 @@
     "location": "吉林市昌邑区",
     "address": "吉林财富购物广场5楼"
   },
+  "1084": {
+    "id": 1084,
+    "url": "https://map.bemanicn.com/shop/1084",
+    "name": "城市英雄(东方商厦店)",
+    "province": "吉林省",
+    "location": "吉林市船营区",
+    "address": "河南路251号"
+  },
   "900": {
     "id": 900,
     "url": "https://map.bemanicn.com/shop/900",
@@ -1383,10 +1415,18 @@
     "location": "吉林市船营区",
     "address": "吉林省吉林市船营区越山路378号 中东新生活3层电玩帝国"
   },
+  "1085": {
+    "id": 1085,
+    "url": "https://map.bemanicn.com/shop/1085",
+    "name": "世宇乐园(世纪广场店)",
+    "province": "吉林省",
+    "location": "吉林市丰满区",
+    "address": "吉林大街世纪广场购物公园B1层D002号场地"
+  },
   "73": {
     "id": 73,
     "url": "https://map.bemanicn.com/shop/73",
-    "name": "世宇乐园（吉林）",
+    "name": "世宇乐园（吉林欧亚综合体）",
     "province": "吉林省",
     "location": "吉林市丰满区",
     "address": "吉林大街1-2号 欧亚商都综合体3层"
@@ -1690,7 +1730,7 @@
   "9": {
     "id": 9,
     "url": "https://map.bemanicn.com/shop/9",
-    "name": "汤姆熊上海大悦城店",
+    "name": "汤姆熊欢乐世界(大悦城店)",
     "province": "上海市",
     "location": "市辖区静安区",
     "address": "西藏北路166号上海大悦城南座L6层S601&S605"
@@ -1719,6 +1759,14 @@
     "location": "市辖区普陀区",
     "address": "真光路1288号百联中环购物广场F3"
   },
+  "1104": {
+    "id": 1104,
+    "url": "https://map.bemanicn.com/shop/1104",
+    "name": "汤姆熊上海环球港店",
+    "province": "上海市",
+    "location": "市辖区普陀区",
+    "address": "中山北路3300号上海环球港L3层"
+  },
   "19": {
     "id": 19,
     "url": "https://map.bemanicn.com/shop/19",
@@ -1730,7 +1778,7 @@
   "21": {
     "id": 21,
     "url": "https://map.bemanicn.com/shop/21",
-    "name": "汤姆熊百联又一城8F店",
+    "name": "汤姆熊欢乐世界(百联又一城购物中心店)",
     "province": "上海市",
     "location": "市辖区杨浦区",
     "address": "淞沪路8号百联又一城购物中心8楼"
@@ -1967,6 +2015,14 @@
     "location": "市辖区松江区",
     "address": "广富林路658号万达广场(松江店)2楼"
   },
+  "1122": {
+    "id": 1122,
+    "url": "https://map.bemanicn.com/shop/1122",
+    "name": "上海欢乐谷",
+    "province": "上海市",
+    "location": "市辖区松江区",
+    "address": "佘山林湖路888号上海欢乐谷欢乐海洋"
+  },
   "659": {
     "id": 659,
     "url": "https://map.bemanicn.com/shop/659",
@@ -2047,6 +2103,14 @@
     "location": "南京市鼓楼区",
     "address": "湖北路68号天狮百盛1层"
   },
+  "1119": {
+    "id": 1119,
+    "url": "https://map.bemanicn.com/shop/1119",
+    "name": "反斗乐园（星际传奇）",
+    "province": "江苏省",
+    "location": "南京市浦口区",
+    "address": "浦珠北路1号"
+  },
   "641": {
     "id": 641,
     "url": "https://map.bemanicn.com/shop/641",
@@ -2070,6 +2134,14 @@
     "province": "江苏省",
     "location": "无锡市锡山区",
     "address": "东亭街道锡沪路与柏庄路交叉口西南锡东八佰伴3楼星悦潮玩"
+  },
+  "1115": {
+    "id": 1115,
+    "url": "https://map.bemanicn.com/shop/1115",
+    "name": "惠山万达大玩家",
+    "province": "江苏省",
+    "location": "无锡市惠山区",
+    "address": "吴韵路321号"
   },
   "825": {
     "id": 825,
@@ -2150,6 +2222,14 @@
     "province": "江苏省",
     "location": "常州市天宁区",
     "address": "东方西路和名山路交叉口天宁吾悦广场三楼Z13"
+  },
+  "1086": {
+    "id": 1086,
+    "url": "https://map.bemanicn.com/shop/1086",
+    "name": "常州堡岛音游社",
+    "province": "江苏省",
+    "location": "常州市钟楼区",
+    "address": "嘉业国贸大厦b座b670室"
   },
   "956": {
     "id": 956,
@@ -2271,6 +2351,14 @@
     "location": "南通市崇川区",
     "address": "青年中路星城路交汇处大有境购物中心3楼"
   },
+  "1125": {
+    "id": 1125,
+    "url": "https://map.bemanicn.com/shop/1125",
+    "name": "嗨倍堂超级乐园",
+    "province": "江苏省",
+    "location": "南通市海门市",
+    "address": "长江南路105号正西方向130米"
+  },
   "746": {
     "id": 746,
     "url": "https://map.bemanicn.com/shop/746",
@@ -2358,6 +2446,14 @@
     "province": "江苏省",
     "location": "镇江市京口区",
     "address": "解放路111号苏宁广场3楼风云再起"
+  },
+  "1099": {
+    "id": 1099,
+    "url": "https://map.bemanicn.com/shop/1099",
+    "name": "星际传奇(泰州万象城店)",
+    "province": "江苏省",
+    "location": "泰州市海陵区",
+    "address": "永定路华润国际社区3期万象城3楼"
   },
   "453": {
     "id": 453,
@@ -2463,6 +2559,14 @@
     "location": "杭州市余杭区",
     "address": "未来科技城二楼大玩家"
   },
+  "1100": {
+    "id": 1100,
+    "url": "https://map.bemanicn.com/shop/1100",
+    "name": "万达大玩家（富阳）",
+    "province": "浙江省",
+    "location": "杭州市富阳区",
+    "address": "金桥北路990号杭州富阳万达广场2楼"
+  },
   "770": {
     "id": 770,
     "url": "https://map.bemanicn.com/shop/770",
@@ -2510,14 +2614,6 @@
     "province": "浙江省",
     "location": "宁波市鄞州区",
     "address": "钱湖北路267号宁波万象汇商业广场第L4层L417-L418号"
-  },
-  "816": {
-    "id": 816,
-    "url": "https://map.bemanicn.com/shop/816",
-    "name": "城市英雄慈溪吾悦广场店",
-    "province": "浙江省",
-    "location": "宁波市慈溪市",
-    "address": "新城大道南路1449号新城吾悦广场3楼3001/3050"
   },
   "533": {
     "id": 533,
@@ -2631,6 +2727,14 @@
     "location": "嘉兴市南湖区",
     "address": "城南路与由拳路交叉口正南方向150米1532号华府广场2F-012、2F-013号"
   },
+  "1131": {
+    "id": 1131,
+    "url": "https://map.bemanicn.com/shop/1131",
+    "name": "秀斗城邦（绍兴越城区店）",
+    "province": "浙江省",
+    "location": "绍兴市越城区",
+    "address": "解放南路777号银泰城（金帝店）"
+  },
   "349": {
     "id": 349,
     "url": "https://map.bemanicn.com/shop/349",
@@ -2639,14 +2743,6 @@
     "location": "绍兴市柯桥区",
     "address": "钱陶公路799号万达广场F3层"
   },
-  "351": {
-    "id": 351,
-    "url": "https://map.bemanicn.com/shop/351",
-    "name": "万达广场大玩家（绍兴）",
-    "province": "浙江省",
-    "location": "绍兴市柯桥区",
-    "address": "称山北路399号万达广场F3层"
-  },
   "350": {
     "id": 350,
     "url": "https://map.bemanicn.com/shop/350",
@@ -2654,6 +2750,14 @@
     "province": "浙江省",
     "location": "绍兴市上虞区",
     "address": "百官街道市民大道621号时代潮城5楼"
+  },
+  "351": {
+    "id": 351,
+    "url": "https://map.bemanicn.com/shop/351",
+    "name": "万达广场大玩家（绍兴上虞店）",
+    "province": "浙江省",
+    "location": "绍兴市上虞区",
+    "address": "称山北路399号万达广场F3层3F-A"
   },
   "352": {
     "id": 352,
@@ -2709,7 +2813,7 @@
     "name": "super101潮范娱乐中心",
     "province": "安徽省",
     "location": "合肥市庐阳区",
-    "address": "逍遥津街道淮河路步行街118号城改时代1层"
+    "address": "逍遥津街道寿春路118号淮河路步行街"
   },
   "411": {
     "id": 411,
@@ -2863,6 +2967,14 @@
     "location": "宿州市埇桥区",
     "address": "汴河中路苏宁广场3楼"
   },
+  "1095": {
+    "id": 1095,
+    "url": "https://map.bemanicn.com/shop/1095",
+    "name": "大玩家超乐场（六安万达店）",
+    "province": "安徽省",
+    "location": "六安市金安区",
+    "address": "八公山北路与皋城路交叉口"
+  },
   "293": {
     "id": 293,
     "url": "https://map.bemanicn.com/shop/293",
@@ -2871,10 +2983,10 @@
     "location": "福州市鼓楼区",
     "address": "东百中心c馆负一楼"
   },
-  "353": {
-    "id": 353,
-    "url": "https://map.bemanicn.com/shop/353",
-    "name": "福州金融街万达大玩家",
+  "1080": {
+    "id": 1080,
+    "url": "https://map.bemanicn.com/shop/1080",
+    "name": "福州金融街万达广场大玩家",
     "province": "福建省",
     "location": "福州市台江区",
     "address": "鳌峰路31号万达广场2层2F-A"
@@ -2970,7 +3082,7 @@
   "363": {
     "id": 363,
     "url": "https://map.bemanicn.com/shop/363",
-    "name": "厦门宣窝（装修闭店中）",
+    "name": "厦门宣窝",
     "province": "福建省",
     "location": "厦门市思明区",
     "address": "明发商业广场西区地下嘉禾路76-142(G160)"
@@ -3022,6 +3134,14 @@
     "province": "福建省",
     "location": "三明市三元区",
     "address": "新市北路与东乾二路交汇处"
+  },
+  "1082": {
+    "id": 1082,
+    "url": "https://map.bemanicn.com/shop/1082",
+    "name": "泉州城东大玩家",
+    "province": "福建省",
+    "location": "泉州市丰泽区",
+    "address": "安吉南路与通源街交叉口东南100米万达广场2F"
   },
   "369": {
     "id": 369,
@@ -3215,6 +3335,14 @@
     "location": "萍乡市市辖区",
     "address": "文化路步行街中段"
   },
+  "1106": {
+    "id": 1106,
+    "url": "https://map.bemanicn.com/shop/1106",
+    "name": "小棕熊游乐园",
+    "province": "江西省",
+    "location": "萍乡市安源区",
+    "address": "楚萍东路秋收广场润达国际3楼"
+  },
   "944": {
     "id": 944,
     "url": "https://map.bemanicn.com/shop/944",
@@ -3333,7 +3461,7 @@
     "name": "爱尚玩 Love play",
     "province": "山东省",
     "location": "青岛市市北区",
-    "address": "哈尔滨路88号保利广场五层"
+    "address": "哈尔滨路88号保利广场5层5001（暹罗街新加坡融合美食旁）"
   },
   "460": {
     "id": 460,
@@ -3410,10 +3538,10 @@
   "242": {
     "id": 242,
     "url": "https://map.bemanicn.com/shop/242",
-    "name": "茂业天地哈雷慧6号星球",
+    "name": "哈雷慧6号星球",
     "province": "山东省",
     "location": "淄博市张店区",
-    "address": "公园街道柳泉路152号茂业天地3楼西北角"
+    "address": "银泰城3楼西区"
   },
   "538": {
     "id": 538,
@@ -3527,6 +3655,14 @@
     "location": "泰安市泰山区",
     "address": "东岳大街和天烛峰路口东北角"
   },
+  "1120": {
+    "id": 1120,
+    "url": "https://map.bemanicn.com/shop/1120",
+    "name": "VR梦幻光影",
+    "province": "山东省",
+    "location": "泰安市岱岳区",
+    "address": "天平湖路与堰西街交叉口东南100米"
+  },
   "616": {
     "id": 616,
     "url": "https://map.bemanicn.com/shop/616",
@@ -3550,6 +3686,14 @@
     "province": "山东省",
     "location": "威海市环翠区",
     "address": "新威路17-4号乐天百货F3"
+  },
+  "1127": {
+    "id": 1127,
+    "url": "https://map.bemanicn.com/shop/1127",
+    "name": "韩多多梦幻城威海店",
+    "province": "山东省",
+    "location": "威海市威海经济技术开发区",
+    "address": "乐天世纪城南区1层"
   },
   "526": {
     "id": 526,
@@ -3575,6 +3719,14 @@
     "location": "德州市德城区",
     "address": "东风东路澳德乐四楼(1899街区北侧)"
   },
+  "1090": {
+    "id": 1090,
+    "url": "https://map.bemanicn.com/shop/1090",
+    "name": "迪卡丘嘉年华(佳和店)",
+    "province": "山东省",
+    "location": "菏泽市牡丹区",
+    "address": "中华路与牡丹路交汇处西南角佳和广场二楼"
+  },
   "874": {
     "id": 874,
     "url": "https://map.bemanicn.com/shop/874",
@@ -3582,14 +3734,6 @@
     "province": "山东省",
     "location": "菏泽市牡丹区",
     "address": "牡丹街道人民北路以东长城路以北鲁商·凤凰城"
-  },
-  "982": {
-    "id": 982,
-    "url": "https://map.bemanicn.com/shop/982",
-    "name": "环亚大完家",
-    "province": "山东省",
-    "location": "菏泽市单县",
-    "address": "单县向阳西路与湖西路交汇处环亚商城4楼"
   },
   "112": {
     "id": 112,
@@ -3642,10 +3786,10 @@
   "1019": {
     "id": 1019,
     "url": "https://map.bemanicn.com/shop/1019",
-    "name": "玩美世界e动城 郑州新田360太康路店",
+    "name": "玩美世界e动城郑州太康路店",
     "province": "河南省",
-    "location": "郑州市管城回族区",
-    "address": "西太康路大卫城旁边66号附1号"
+    "location": "郑州市二七区",
+    "address": "西太康路新田360广场(太康路店)四楼"
   },
   "280": {
     "id": 280,
@@ -3663,14 +3807,6 @@
     "location": "郑州市金水区",
     "address": "金水东路绿地新都会A座4楼"
   },
-  "970": {
-    "id": 970,
-    "url": "https://map.bemanicn.com/shop/970",
-    "name": "玩美世界e动城郑州店",
-    "province": "河南省",
-    "location": "郑州市金水区",
-    "address": "金水东路80号新田360广场A馆4楼"
-  },
   "473": {
     "id": 473,
     "url": "https://map.bemanicn.com/shop/473",
@@ -3682,10 +3818,18 @@
   "548": {
     "id": 548,
     "url": "https://map.bemanicn.com/shop/548",
-    "name": "e舞成名游戏厅",
+    "name": "新密市e舞成名游戏厅",
     "province": "河南省",
     "location": "郑州市新密市",
     "address": "新密市农业路420 金霖商厦7F"
+  },
+  "1111": {
+    "id": 1111,
+    "url": "https://map.bemanicn.com/shop/1111",
+    "name": "马里奥",
+    "province": "河南省",
+    "location": "郑州市新密市",
+    "address": "西大街168号4楼"
   },
   "119": {
     "id": 119,
@@ -3767,6 +3911,14 @@
     "location": "许昌市市辖区",
     "address": "七一路中段胖东来时代广场5层"
   },
+  "1135": {
+    "id": 1135,
+    "url": "https://map.bemanicn.com/shop/1135",
+    "name": "淘乐幻享许昌魏都店",
+    "province": "河南省",
+    "location": "许昌市魏都区",
+    "address": "智慧大道"
+  },
   "1068": {
     "id": 1068,
     "url": "https://map.bemanicn.com/shop/1068",
@@ -3815,6 +3967,22 @@
     "location": "周口市川汇区",
     "address": "七一路中段71号"
   },
+  "1081": {
+    "id": 1081,
+    "url": "https://map.bemanicn.com/shop/1081",
+    "name": "莉天动漫城",
+    "province": "河南省",
+    "location": "周口市郸城县",
+    "address": "广场南路奥斯卡影城公园店一楼动漫城"
+  },
+  "1101": {
+    "id": 1101,
+    "url": "https://map.bemanicn.com/shop/1101",
+    "name": "星际梦想城电子游艺厅",
+    "province": "河南省",
+    "location": "驻马店市驿城区",
+    "address": "乐山大道玖隆茂购物中心六楼"
+  },
   "941": {
     "id": 941,
     "url": "https://map.bemanicn.com/shop/941",
@@ -3830,6 +3998,14 @@
     "province": "河南省",
     "location": "驻马店市河南驻马店经济开发区",
     "address": "乐山路1096号爱克CBD玖隆茂购物中心三楼爱玩星球"
+  },
+  "1091": {
+    "id": 1091,
+    "url": "https://map.bemanicn.com/shop/1091",
+    "name": "星际传奇武汉范湖江宸天街店",
+    "province": "湖北省",
+    "location": "武汉市江汉区",
+    "address": "青年路518号武汉江宸天街4楼"
   },
   "158": {
     "id": 158,
@@ -4023,14 +4199,6 @@
     "location": "十堰市茅箭区",
     "address": "朝阳中路29号寿康华悦城3楼"
   },
-  "171": {
-    "id": 171,
-    "url": "https://map.bemanicn.com/shop/171",
-    "name": "真快活十堰茅箭和信销品茂店",
-    "province": "湖北省",
-    "location": "十堰市茅箭区",
-    "address": "邮电街和信销品茂负一楼真快活动漫体验中心"
-  },
   "749": {
     "id": 749,
     "url": "https://map.bemanicn.com/shop/749",
@@ -4119,6 +4287,14 @@
     "location": "襄阳市樊城区",
     "address": "长虹路与人民路交汇处泛悦4层F4-018e号商铺"
   },
+  "1105": {
+    "id": 1105,
+    "url": "https://map.bemanicn.com/shop/1105",
+    "name": "乐传动漫襄阳樊城店",
+    "province": "湖北省",
+    "location": "襄阳市樊城区",
+    "address": "大庆西路5号乐传动漫"
+  },
   "828": {
     "id": 828,
     "url": "https://map.bemanicn.com/shop/828",
@@ -4126,14 +4302,6 @@
     "province": "湖北省",
     "location": "鄂州市鄂城区",
     "address": "滨湖北路8-2(新亚太国际广场)6楼"
-  },
-  "508": {
-    "id": 508,
-    "url": "https://map.bemanicn.com/shop/508",
-    "name": "鄂州市九方动漫",
-    "province": "湖北省",
-    "location": "鄂州市鄂城区",
-    "address": "鄂州市南浦路56号"
   },
   "579": {
     "id": 579,
@@ -4151,6 +4319,14 @@
     "location": "荆门市掇刀区",
     "address": "虎牙关大道5号"
   },
+  "1092": {
+    "id": 1092,
+    "url": "https://map.bemanicn.com/shop/1092",
+    "name": "密室汇",
+    "province": "湖北省",
+    "location": "荆门市钟祥市",
+    "address": "湖北省荆门市钟祥市王府大道中百商场六楼密室汇"
+  },
   "727": {
     "id": 727,
     "url": "https://map.bemanicn.com/shop/727",
@@ -4158,6 +4334,14 @@
     "province": "湖北省",
     "location": "荆州市沙市区",
     "address": "北京中路人信汇负一楼"
+  },
+  "1113": {
+    "id": 1113,
+    "url": "https://map.bemanicn.com/shop/1113",
+    "name": "卡维尼动漫游戏体验中心",
+    "province": "湖北省",
+    "location": "荆州市荆州区",
+    "address": "荆州中路61号聚珍园B1层"
   },
   "1012": {
     "id": 1012,
@@ -4199,6 +4383,14 @@
     "location": "省直辖县级行政区划仙桃市",
     "address": "仙桃大道武商仙桃购物中心7楼"
   },
+  "1096": {
+    "id": 1096,
+    "url": "https://map.bemanicn.com/shop/1096",
+    "name": "奇奇乐园",
+    "province": "湖北省",
+    "location": "省直辖县级行政区划天门市",
+    "address": "钟惺大道65号大润发3楼奇奇乐园"
+  },
   "276": {
     "id": 276,
     "url": "https://map.bemanicn.com/shop/276",
@@ -4218,7 +4410,7 @@
   "833": {
     "id": 833,
     "url": "https://map.bemanicn.com/shop/833",
-    "name": "101电玩(万家丽店)",
+    "name": "Super101电玩(万家丽店)",
     "province": "湖南省",
     "location": "长沙市芙蓉区",
     "address": "万家丽路99号万家丽国际购物广场8楼"
@@ -4263,14 +4455,6 @@
     "location": "长沙市天心区",
     "address": "天心区黄兴南路步行街商业街E区4楼4001号"
   },
-  "178": {
-    "id": 178,
-    "url": "https://map.bemanicn.com/shop/178",
-    "name": "星际传奇ID购物中心店",
-    "province": "湖南省",
-    "location": "长沙市天心区",
-    "address": "天心区坡子街216号悦方ID购物中心3楼"
-  },
   "1046": {
     "id": 1046,
     "url": "https://map.bemanicn.com/shop/1046",
@@ -4294,6 +4478,14 @@
     "province": "湖南省",
     "location": "长沙市岳麓区",
     "address": "岳麓大道57号奥克斯广场3楼"
+  },
+  "1102": {
+    "id": 1102,
+    "url": "https://map.bemanicn.com/shop/1102",
+    "name": "城市英雄（长沙荟聚店）",
+    "province": "湖南省",
+    "location": "长沙市岳麓区",
+    "address": "洋湖路253号长沙荟聚三楼"
   },
   "593": {
     "id": 593,
@@ -4327,6 +4519,14 @@
     "location": "长沙市开福区",
     "address": "黄兴中路87号万代大酒店一楼"
   },
+  "1103": {
+    "id": 1103,
+    "url": "https://map.bemanicn.com/shop/1103",
+    "name": "子洋联盟动漫体验中心（长沙运达店）",
+    "province": "湖南省",
+    "location": "长沙市雨花区",
+    "address": "长沙大道567号运达中央广场负一楼"
+  },
   "693": {
     "id": 693,
     "url": "https://map.bemanicn.com/shop/693",
@@ -4334,6 +4534,14 @@
     "province": "湖南省",
     "location": "长沙市雨花区",
     "address": "砂子塘街道新建东路421号"
+  },
+  "1076": {
+    "id": 1076,
+    "url": "https://map.bemanicn.com/shop/1076",
+    "name": "子洋联盟动漫体验中心（砂之船店）",
+    "province": "湖南省",
+    "location": "长沙市望城区",
+    "address": "月亮岛路与金星北路交汇处砂之船奥莱三楼影院旁边"
   },
   "313": {
     "id": 313,
@@ -4437,7 +4645,7 @@
     "name": "积木熊衡阳南岳店",
     "province": "湖南省",
     "location": "衡阳市南岳区",
-    "address": "广济路2号岳秀花园3栋-01"
+    "address": "广济路2号天子山火文化园 下面"
   },
   "895": {
     "id": 895,
@@ -4535,6 +4743,22 @@
     "location": "娄底市新化县",
     "address": "娄底市新化县东方城市广场1085-1093号"
   },
+  "1129": {
+    "id": 1129,
+    "url": "https://map.bemanicn.com/shop/1129",
+    "name": "快乐街区（步步高店）",
+    "province": "湖南省",
+    "location": "娄底市新化县",
+    "address": "步步高广场3楼"
+  },
+  "1133": {
+    "id": 1133,
+    "url": "https://map.bemanicn.com/shop/1133",
+    "name": "星悦茂缤纷未来游戏厅",
+    "province": "湖南省",
+    "location": "娄底市新化县",
+    "address": "新合作·星悦茂商业地下街D区#25出入口附近"
+  },
   "284": {
     "id": 284,
     "url": "https://map.bemanicn.com/shop/284",
@@ -4586,7 +4810,7 @@
   "34": {
     "id": 34,
     "url": "https://map.bemanicn.com/shop/34",
-    "name": "梦游仙境动漫主题乐园",
+    "name": "梦游仙境动漫主题乐园岗顶百脑汇店",
     "province": "广东省",
     "location": "广州市天河区",
     "address": "天河路598号岗顶百脑汇4楼"
@@ -4598,6 +4822,14 @@
     "province": "广东省",
     "location": "广州市天河区",
     "address": "天河路228号正佳广场7楼"
+  },
+  "1136": {
+    "id": 1136,
+    "url": "https://map.bemanicn.com/shop/1136",
+    "name": "漫奈斯潮玩馆",
+    "province": "广东省",
+    "location": "广州市天河区",
+    "address": "华观路1932号(天河万科广场L303-L311号)"
   },
   "42": {
     "id": 42,
@@ -4613,7 +4845,7 @@
     "name": "大玩家广州白云万达店",
     "province": "广东省",
     "location": "广州市白云区",
-    "address": "云城东路501号万达广场F1层"
+    "address": "云城东路501号万达广场F3层"
   },
   "983": {
     "id": 983,
@@ -4662,14 +4894,6 @@
     "province": "广东省",
     "location": "广州市番禺区",
     "address": "亚运大道1号AEON MALL(番禺店)F3层3001铺环游嘉年华"
-  },
-  "36": {
-    "id": 36,
-    "url": "https://map.bemanicn.com/shop/36",
-    "name": "欢乐世界GOGO新天地大学城店",
-    "province": "广东省",
-    "location": "广州市番禺区",
-    "address": "大学城中二横路1号GOGO新天地一期3楼368铺"
   },
   "37": {
     "id": 37,
@@ -4855,6 +5079,14 @@
     "location": "深圳市南山区",
     "address": "西丽留仙大道塘朗地铁站D出口宝能城三楼"
   },
+  "1140": {
+    "id": 1140,
+    "url": "https://map.bemanicn.com/shop/1140",
+    "name": "反斗乐园欢乐海岸店",
+    "province": "广东省",
+    "location": "深圳市南山区",
+    "address": "白石路东8号欢乐海岸F2-042商铺"
+  },
   "912": {
     "id": 912,
     "url": "https://map.bemanicn.com/shop/912",
@@ -4967,13 +5199,21 @@
     "location": "深圳市盐田区",
     "address": "大鹏新区南澳街道新东路28号桔钓沙莱华度假酒店主楼负一楼（奇妙世界）"
   },
-  "47": {
-    "id": 47,
-    "url": "https://map.bemanicn.com/shop/47",
-    "name": "星际传奇九方店（现天虹）",
+  "1088": {
+    "id": 1088,
+    "url": "https://map.bemanicn.com/shop/1088",
+    "name": "朗玩Round1(壹方天地店)",
     "province": "广东省",
     "location": "深圳市龙华区",
-    "address": "人民路2020号天虹购物中心顶楼（原九方）"
+    "address": "人民路4022号"
+  },
+  "1112": {
+    "id": 1112,
+    "url": "https://map.bemanicn.com/shop/1112",
+    "name": "星际传奇（龙华天虹购物中心店）",
+    "province": "广东省",
+    "location": "深圳市龙华区",
+    "address": "人民路2020号天虹购物中心F3层"
   },
   "720": {
     "id": 720,
@@ -5002,7 +5242,7 @@
   "143": {
     "id": 143,
     "url": "https://map.bemanicn.com/shop/143",
-    "name": "反斗乐园（珠海）",
+    "name": "反斗乐园（珠海富华里店）",
     "province": "广东省",
     "location": "珠海市市辖区",
     "address": "珠海市白石路富华里12栋2楼"
@@ -5014,14 +5254,6 @@
     "province": "广东省",
     "location": "珠海市市辖区",
     "address": "珠海市明珠南路1101号诚丰广场3楼"
-  },
-  "145": {
-    "id": 145,
-    "url": "https://map.bemanicn.com/shop/145",
-    "name": "星际传奇 海韵城店",
-    "province": "广东省",
-    "location": "珠海市市辖区",
-    "address": "渔湾路29号（城建海韵城C1层L1-38）"
   },
   "603": {
     "id": 603,
@@ -5038,14 +5270,6 @@
     "province": "广东省",
     "location": "珠海市香洲区",
     "address": "南湾北路45号"
-  },
-  "1022": {
-    "id": 1022,
-    "url": "https://map.bemanicn.com/shop/1022",
-    "name": "星际传奇（珠海优特汇店）",
-    "province": "广东省",
-    "location": "珠海市香洲区",
-    "address": "银桦路98号正西方向180米 三楼"
   },
   "146": {
     "id": 146,
@@ -5366,6 +5590,14 @@
     "province": "广东省",
     "location": "茂名市茂南区",
     "address": "为民南路2-8号明湖超市四楼"
+  },
+  "1114": {
+    "id": 1114,
+    "url": "https://map.bemanicn.com/shop/1114",
+    "name": "米其动漫茂名店",
+    "province": "广东省",
+    "location": "茂名市茂南区",
+    "address": "光华南路178号大院12345678号首层8-14商铺"
   },
   "729": {
     "id": 729,
@@ -5690,7 +5922,7 @@
   "413": {
     "id": 413,
     "url": "https://map.bemanicn.com/shop/413",
-    "name": "晴空超乐场",
+    "name": "晴空超乐场潮州南风里店",
     "province": "广东省",
     "location": "潮州市湘桥区",
     "address": "潮州市湘桥区财富中心南风里B区三层"
@@ -5823,6 +6055,14 @@
     "location": "柳州市柳南区",
     "address": "飞鹅二路1号谷埠街国际商城E区三楼"
   },
+  "1128": {
+    "id": 1128,
+    "url": "https://map.bemanicn.com/shop/1128",
+    "name": "星际动漫",
+    "province": "广西壮族自治区",
+    "location": "桂林市秀峰区",
+    "address": "解放东路14-2-6号附近"
+  },
   "380": {
     "id": 380,
     "url": "https://map.bemanicn.com/shop/380",
@@ -5855,6 +6095,14 @@
     "location": "桂林市叠彩区",
     "address": "北辰路1号桂林恒大广场北区25号3层3-01号（非常接近桂林北站）"
   },
+  "1110": {
+    "id": 1110,
+    "url": "https://map.bemanicn.com/shop/1110",
+    "name": "大玩家超樂場（桂林高新萬達）",
+    "province": "广西壮族自治区",
+    "location": "桂林市七星区",
+    "address": "穿山东路43号"
+  },
   "391": {
     "id": 391,
     "url": "https://map.bemanicn.com/shop/391",
@@ -5879,14 +6127,6 @@
     "location": "钦州市钦南区",
     "address": "金海湾东大街1号新城吾悦广场第四层Z12区"
   },
-  "1065": {
-    "id": 1065,
-    "url": "https://map.bemanicn.com/shop/1065",
-    "name": "乐趣时代贵港港北店",
-    "province": "广西壮族自治区",
-    "location": "贵港市港北区",
-    "address": "广西省贵港市港北区贵城街道客世界三楼乐趣时代"
-  },
   "1067": {
     "id": 1067,
     "url": "https://map.bemanicn.com/shop/1067",
@@ -5902,6 +6142,14 @@
     "province": "广西壮族自治区",
     "location": "玉林市玉州区",
     "address": "玉州路130号名流商城2层"
+  },
+  "1116": {
+    "id": 1116,
+    "url": "https://map.bemanicn.com/shop/1116",
+    "name": "祺祺游乐城",
+    "province": "广西壮族自治区",
+    "location": "河池市宜州区",
+    "address": "庆远镇富豪街帝王商贸城4楼"
   },
   "397": {
     "id": 397,
@@ -6079,6 +6327,14 @@
     "location": "市辖区南岸区",
     "address": "江南大道28号星光时代广场F5层"
   },
+  "1132": {
+    "id": 1132,
+    "url": "https://map.bemanicn.com/shop/1132",
+    "name": "星际传奇渝北光环购物公园店",
+    "province": "重庆市",
+    "location": "市辖区渝北区",
+    "address": "重庆市渝北区鸳鸯街道光环购物公园L3楼26-27星际传奇"
+  },
   "410": {
     "id": 410,
     "url": "https://map.bemanicn.com/shop/410",
@@ -6094,14 +6350,6 @@
     "province": "重庆市",
     "location": "市辖区合川区",
     "address": "合阳大道绿港财富广场LG"
-  },
-  "465": {
-    "id": 465,
-    "url": "https://map.bemanicn.com/shop/465",
-    "name": "大玩家(南川万达)",
-    "province": "重庆市",
-    "location": "市辖区南川区",
-    "address": "渝南大道16号"
   },
   "980": {
     "id": 980,
@@ -6391,6 +6639,22 @@
     "location": "贵阳市观山湖区",
     "address": "观山西路和碧海南路交汇处3楼"
   },
+  "1083": {
+    "id": 1083,
+    "url": "https://map.bemanicn.com/shop/1083",
+    "name": "欢乐嘉时光",
+    "province": "贵州省",
+    "location": "六盘水市钟山区",
+    "address": "钟山大道大润发3楼"
+  },
+  "1144": {
+    "id": 1144,
+    "url": "https://map.bemanicn.com/shop/1144",
+    "name": "城市英雄(遵义丁字口店)",
+    "province": "贵州省",
+    "location": "遵义市红花岗区",
+    "address": "丁字口中山路中段"
+  },
   "897": {
     "id": 897,
     "url": "https://map.bemanicn.com/shop/897",
@@ -6487,6 +6751,14 @@
     "location": "昆明市西山区",
     "address": "海宏路公园1903商业广场负1层（BF）"
   },
+  "1089": {
+    "id": 1089,
+    "url": "https://map.bemanicn.com/shop/1089",
+    "name": "地心王国",
+    "province": "云南省",
+    "location": "丽江市古城区",
+    "address": "民主路地下商场"
+  },
   "261": {
     "id": 261,
     "url": "https://map.bemanicn.com/shop/261",
@@ -6519,18 +6791,34 @@
     "location": "大理白族自治州大理市",
     "address": "泰安路93号泰业国际广场3楼"
   },
-  "817": {
-    "id": 817,
-    "url": "https://map.bemanicn.com/shop/817",
-    "name": "大玩家西安民乐园万达店",
+  "1098": {
+    "id": 1098,
+    "url": "https://map.bemanicn.com/shop/1098",
+    "name": "大玩家超乐场民乐园万达店",
     "province": "陕西省",
     "location": "西安市新城区",
-    "address": "解放路111号万达广场4层"
+    "address": "解放路111号万达广场民乐园店北区4层"
+  },
+  "1107": {
+    "id": 1107,
+    "url": "https://map.bemanicn.com/shop/1107",
+    "name": "哆啦星球（环球港）",
+    "province": "陕西省",
+    "location": "西安市新城区",
+    "address": "西安幸福林带环球港E区"
+  },
+  "1108": {
+    "id": 1108,
+    "url": "https://map.bemanicn.com/shop/1108",
+    "name": "环游嘉年华西安环球港店",
+    "province": "陕西省",
+    "location": "西安市新城区",
+    "address": "幸福林带环球港C区-D3026"
   },
   "728": {
     "id": 728,
     "url": "https://map.bemanicn.com/shop/728",
-    "name": "闪电部落",
+    "name": "闪电部落（益田假日）",
     "province": "陕西省",
     "location": "西安市新城区",
     "address": "长乐西路166号益田假日世界购物中心三楼"
@@ -6550,14 +6838,6 @@
     "province": "陕西省",
     "location": "西安市碑林区",
     "address": "东大街骡马市1号民生百货骡马市市兴正元广场D座1楼"
-  },
-  "209": {
-    "id": 209,
-    "url": "https://map.bemanicn.com/shop/209",
-    "name": "哆啦星球大话南门店",
-    "province": "陕西省",
-    "location": "西安市碑林区",
-    "address": "长安路南稍门什字东北角向南80米(长安路东侧)"
   },
   "210": {
     "id": 210,
@@ -6607,6 +6887,14 @@
     "location": "西安市未央区",
     "address": "未央路136-1号艾斯广场一楼扶梯右侧"
   },
+  "1130": {
+    "id": 1130,
+    "url": "https://map.bemanicn.com/shop/1130",
+    "name": "极客森超乐场西安店",
+    "province": "陕西省",
+    "location": "西安市雁塔区",
+    "address": "雁展路1111号万象天地三层"
+  },
   "208": {
     "id": 208,
     "url": "https://map.bemanicn.com/shop/208",
@@ -6647,6 +6935,14 @@
     "location": "兰州市城关区",
     "address": "北环东路888号杉杉奥特莱斯306奥德乐家庭游乐中心"
   },
+  "1075": {
+    "id": 1075,
+    "url": "https://map.bemanicn.com/shop/1075",
+    "name": "PPG潮玩汇兰州店",
+    "province": "甘肃省",
+    "location": "兰州市城关区",
+    "address": "广场南路东方红广场地下一层"
+  },
   "213": {
     "id": 213,
     "url": "https://map.bemanicn.com/shop/213",
@@ -6654,6 +6950,14 @@
     "province": "甘肃省",
     "location": "兰州市城关区",
     "address": "天水北路68号万达广场2楼"
+  },
+  "1094": {
+    "id": 1094,
+    "url": "https://map.bemanicn.com/shop/1094",
+    "name": "大玩家中惠万达店",
+    "province": "青海省",
+    "location": "西宁市城东区",
+    "address": "德令哈路与南山东路交汇处"
   },
   "710": {
     "id": 710,
@@ -6701,7 +7005,15 @@
     "name": "金凤万达大玩家（银川）",
     "province": "宁夏回族自治区",
     "location": "银川市金凤区",
-    "address": "正源北街22号万达广场二楼"
+    "address": "正源北街22号万达广场二楼，万达影院下方"
+  },
+  "1087": {
+    "id": 1087,
+    "url": "https://map.bemanicn.com/shop/1087",
+    "name": "环游嘉年华超乐场(汇嘉时代店)",
+    "province": "新疆维吾尔自治区",
+    "location": "乌鲁木齐市新市区",
+    "address": "北京中路147号汇嘉时代3F"
   },
   "735": {
     "id": 735,
@@ -6878,6 +7190,14 @@
     "province": "香港特别行政区",
     "location": "香港岛东区",
     "address": "西灣河筲箕灣道57-87號太安樓地下, Sai Wan Ho"
+  },
+  "1077": {
+    "id": 1077,
+    "url": "https://map.bemanicn.com/shop/1077",
+    "name": "觀塘廣場GAMEZONE",
+    "province": "香港特别行政区",
+    "location": "九龙半岛观塘区",
+    "address": "開源道68號觀塘廣場1樓117-121"
   },
   "230": {
     "id": 230,

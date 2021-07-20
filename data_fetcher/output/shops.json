@@ -170,7 +170,7 @@
     "_id": 4,
     "name": "金银岛（朝阳大悦城店）",
     "per_coin_price": 2.0,
-    "description": "仅支持会员卡充值和刷卡游玩（没有实体币）（+：也可以直接微信付款码但是没有任何优惠）\r\n10元起。推荐200元130币或300元210币。\r\n目前新增了临时卡自助售卡机。",
+    "description": "仅支持会员卡充值和刷卡游玩（没有实体币）（临时卡收10元押金）（+：也可以直接微信付款码但是没有任何优惠）\r\n10元起。推荐200元116币或300元180币。\r\n目前新增了临时卡自助售卡机。",
     "location": {
       "province": 110000,
       "city": 110000,
@@ -187,22 +187,22 @@
         "game": 4001,
         "version": "12亚",
         "count": 2,
-        "coin_per_play": 3,
+        "coin_per_play": 2,
         "description": "右侧机台声音小，左侧和中间声音大但屏幕偏色，鼓况一般"
       },
       {
         "game": 4001,
         "version": "11亚",
         "count": 1,
-        "coin_per_play": 3,
-        "description": ""
+        "coin_per_play": 2,
+        "description": "损坏中"
       },
       {
         "game": 3001,
         "version": "音炫轨道",
         "count": 2,
         "coin_per_play": 4,
-        "description": "由于e舞噪音的影响，游玩右侧机台必须戴耳机"
+        "description": "由于e舞噪音的影响，游玩右侧机台必须戴耳机，左侧机台右手柄有故障。（没有椅子）"
       },
       {
         "game": 6003,
@@ -250,10 +250,10 @@
     "has": [
       {
         "game": 1002,
-        "version": "CH1.01-B",
+        "version": "CH1.11-A",
         "count": 1,
         "coin_per_play": 3,
-        "description": "9月1日机台恢复投币不再免费"
+        "description": ""
       }
     ],
     "external": {
@@ -614,7 +614,7 @@
     "_id": 3,
     "name": "乐酷电玩俱乐部（金源燕莎店）",
     "per_coin_price": 2.0,
-    "description": "营业时间：10:00～22:00，但21:30左右断网，22:00准时断电。商城熄灯后不容易找到出口，请合理安排时间。\r\n柜台购买2元1币，另售各类套餐3.8折至8.3折不等。\r\n支付宝可能暂不支持；微信仅支持余额/借记卡类，不支持信用卡。",
+    "description": "【注意】近期开门状态不稳定，前往以前建议咨询店家或当地玩家当前是否开门。【注意】\r\n营业时间：10:00～22:00，但21:30左右断网，22:00准时断电。商城熄灯后不容易找到出口，请合理安排时间。\r\n柜台购买2元1币，另售各类套餐3.8折至8.3折不等。\r\n支付宝可能暂不支持；微信仅支持余额/借记卡类，不支持信用卡。",
     "location": {
       "province": 110000,
       "city": 110000,
@@ -639,7 +639,7 @@
         "version": "国区五代机",
         "count": 2,
         "coin_per_play": 3,
-        "description": "【新到，尚未运营】全新 手柄微硬 周围很吵不带耳机听不见，可以使用耳机（  记录可以使用微信，但是总是超时"
+        "description": "全新 手柄微硬 周围很吵不带耳机听不见，可以使用耳机（  记录可以使用微信，但是总是超时"
       },
       {
         "game": 2011,
@@ -723,7 +723,7 @@
     "_id": 443,
     "name": "Hi-Fun嗨翻竞技体育乐园",
     "per_coin_price": 2.0,
-    "description": "店铺为大型综合娱乐店，街机在B1层。\r\n全店大部分机台不能投实体币，只能刷卡。可在前台申请临时卡，当日有效，离店退卡，详询店员。\r\n\r\n微信群内（不是前台）有售BJMania游戏卡、官方AIC游戏卡、手套等。\r\nP点充值方法、开新卡、数据转移等问题请入QQ群咨询，店内不负责充值。\r\n\r\n店内饮料价格较贵，且园区内只有屈臣氏，建议自带瓶装饮料；园区内外有各类现制饮品店。\r\n园区东侧（华熙写字楼附近）有罗森、星巴克。\r\n\r\n代币价格：\r\n店内有各类购币套餐（均价0.89～1.82元）；口碑、点评等有团购套餐（请注意不要购买门票）。\r\n会员卡/储值卡每张每年66元，可存币、购币优惠、会员活动等。\r\n\r\n营业时间：\r\n【【【2021/4/25(日) ～ 26(一)线路检修不开门！！！】】】\r\n10:00～22:00\r\n一般准点闭店，请合理安排游玩时间。\r\n\r\n玩家指引：\r\n若只游玩「收录机种」中标注P点价格的游戏，可只自行携带对应游戏卡，或在微信群中联系购买卡片。\r\n如果卡片在其他支持Bjmania网络中充值游玩过，可直接使用该卡继续消费游玩。\r\n\r\n如果想游玩其他游戏，可根据「收录机种」中说明所述，自行携带对应游戏卡（部分机台只支持官方卡片，不支持兼容卡！），或在微信群中联系购买官方卡。\r\n并在B1层前台购买/兑换游戏币，并存入卡中（临时卡、会员卡均可），详见上述说明。",
+    "description": "店铺为大型综合娱乐店，街机在B1层。\r\n全店大部分机台不能投实体币，只能刷卡。可在前台申请临时卡，当日有效，离店退卡，详询店员。\r\n\r\n微信群内（不是前台）有售BJMania游戏卡、官方AIC游戏卡、手套等。\r\nP点充值方法、开新卡、数据转移等问题请入QQ群咨询，店内不负责充值。\r\n\r\n店内饮料价格较贵，且园区内只有屈臣氏，建议自带瓶装饮料；园区内外有各类现制饮品店。\r\n园区东侧（华熙写字楼附近）有罗森、星巴克。\r\n\r\n代币价格：\r\n店内有各类购币套餐（均价0.89～1.82元）；口碑、点评等有团购套餐（请注意不要购买门票）。\r\n会员卡/储值卡每张每年66元，可存币、购币优惠、会员活动等。\r\n\r\n营业时间：\r\n10:00～22:00\r\n一般准点闭店，请合理安排游玩时间。\r\n\r\n玩家指引：\r\n若只游玩「收录机种」中标注P点价格的游戏，可只自行携带对应游戏卡，或在微信群中联系购买卡片。\r\n如果卡片在其他支持Bjmania网络中充值游玩过，可直接使用该卡继续消费游玩。\r\n\r\n如果想游玩其他游戏，可根据「收录机种」中说明所述，自行携带对应游戏卡（部分机台只支持官方卡片，不支持兼容卡！），或在微信群中联系购买官方卡。\r\n并在B1层前台购买/兑换游戏币，并存入卡中（临时卡、会员卡均可），详见上述说明。",
     "location": {
       "province": 110000,
       "city": 110000,
@@ -748,7 +748,7 @@
         "version": "FiNALE（茶/球）",
         "count": 1,
         "coin_per_play": 2,
-        "description": "可刷Aime/BanaPass，暂不能刷AmuIC/Suica系。茶网、球网不定期轮换。"
+        "description": "【维修关机中】可刷Aime/BanaPass，暂不能刷AmuIC/Suica系。茶网、球网不定期轮换。"
       },
       {
         "game": 2001,
@@ -797,7 +797,7 @@
         "version": "HIGH-VOLTAGE",
         "count": 1,
         "coin_per_play": 3,
-        "description": "待补充。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。"
+        "description": "白框，有耳放（调音台），外放声音大。(Bjmania Service)可刷新老Epass/AmuIC/Suica系。"
       },
       {
         "game": 2008,
@@ -832,7 +832,7 @@
         "version": "4MAX",
         "count": 1,
         "coin_per_play": 2,
-        "description": "3曲。暂无网，暂不能刷卡。偶尔出现崩溃现象。"
+        "description": "【维修关机中】3曲。暂无网，暂不能刷卡。偶尔出现崩溃现象。"
       },
       {
         "game": 9002,
@@ -908,10 +908,47 @@
     }
   },
   {
+    "_id": 1079,
+    "name": "风云再起北京北投爱琴海店",
+    "per_coin_price": 1.0,
+    "description": "试运营，无空调风扇。出勤前请确认当日气温，店内温度不一定比店外气温低。想要便宜的币暂时要去西单买完了带到爱琴海玩，店内只有自动售币机，还有1000平米左右没装修。\r\n（打MAIMAI打累了可以去旁边的ROG体验店嫖电脑打会儿LOL(bushi)）",
+    "location": {
+      "province": 110000,
+      "city": 110000,
+      "district": 110112,
+      "address": "新华东街289号院1号楼北京北投爱琴海购物公园M层",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 116.658174,
+      "latitude": 39.908584
+    },
+    "has": [
+      {
+        "game": 1002,
+        "version": "CH1.11-A",
+        "count": 2,
+        "coin_per_play": 5,
+        "description": "可4P，可续关。根据当日玩家叙述最左侧机体可能因电压不稳导致漏星，但是有待观察。"
+      },
+      {
+        "game": 5001,
+        "version": "已于2021-6-21更新到华卡ver2",
+        "count": 2,
+        "coin_per_play": 0,
+        "description": "新店开业华卡音舞 Free Play，华卡音舞和左侧MAIMAI靠近玻璃门，下午太阳直射两台华卡和左边MAIMAI的壳，暂时无空调风扇。"
+      }
+    ],
+    "external": {
+      "bcn": 1079,
+      "amap": ""
+    }
+  },
+  {
     "_id": 646,
     "name": "大玩家超乐场（北京通州万达店）",
-    "per_coin_price": 1.0,
-    "description": "单价等信息待确认\r\n前台可购买maimaiDX套餐 30元15次\r\n新人1局单人3局双人4局",
+    "per_coin_price": 1.99,
+    "description": "美团20元15币\r\n前台可购买maimaiDX套餐 30元15次\r\n6月16日起暂时停业，具体开业时间未知（经理说他累了，歇会儿）",
     "location": {
       "province": 110000,
       "city": 110000,
@@ -920,8 +957,8 @@
       "transport": "通州北苑 地铁八通线A口出站 / 666&806&通6路至通州西门路口东&北站/通州北苑路口东站，317路至通州西门路口南站，809路至复兴里站"
     },
     "coordinate": {
-      "longitude": 116.642413,
-      "latitude": 39.906228
+      "longitude": 116.642355,
+      "latitude": 39.905834
     },
     "has": [
       {
@@ -1504,17 +1541,17 @@
     "_id": 736,
     "name": "麦趣熊泉汇店",
     "per_coin_price": 1.0,
-    "description": "一楼有萨莉亚可食\r\n\r\n店铺有微信平台和美团\r\n美团：0.01*10枚（仅限一次）9.9*15枚（仅限一次）19.9*30枚（仅限一次）50*65枚(不限)\r\n微信：30*30枚 60*80枚 100*150枚 158*288枚 300*500枚 500*888枚",
+    "description": "一楼有萨莉亚可食\r\n大润发出西门的小吃街有正新 7块一个汉堡yyds!\r\n\r\n\r\n店铺有微信平台和美团\r\n美团：0.01*10枚（仅限一次）9.9*15枚（仅限一次）19.9*30枚（仅限一次）50*65枚(不限)\r\n微信：30*30枚 60*80枚 100*150枚 158*288枚 300*500枚 500*888枚",
     "location": {
       "province": 120000,
       "city": 120000,
       "district": 120103,
       "address": "大沽南路1118号(珠江道口)泉汇购物中心一楼",
-      "transport": "灰堆南公交站：95、97、220、321、655、656、686、808、846、855、859、216定点、846区间"
+      "transport": "灰堆南公交站：95、97、220、321、655、656、686、808、846、855、859、216定点、846区间 财经大学地铁站下车后走个700m左右就到了（建议骑共享单车）"
     },
     "coordinate": {
-      "longitude": 117.281219,
-      "latitude": 39.068624
+      "longitude": 117.282209,
+      "latitude": 39.068378
     },
     "has": [
       {
@@ -1522,28 +1559,28 @@
         "version": "CH1.11(2021)",
         "count": 1,
         "coin_per_play": 5,
-        "description": ""
+        "description": "旁边的鹅舞声音很大\r\n强烈建议戴耳机 要降噪推荐Bose的QC20（非恰饭）"
       },
       {
         "game": 1001,
         "version": "maimai FINALE",
         "count": 1,
         "coin_per_play": 4,
-        "description": "鸡盘，4币4首，已接入网络。\r\n旁边的跳舞机声音很大。\r\n（目前已联网，可正常刷卡，2021年8月5日鸡盘过期，如果到时候没了，记得去跟机修说一声）"
+        "description": "鸡盘，4币4首，已接入网络。\r\n旁边的鹅舞声音很大\r\n（目前已联网，可正常刷卡，2021年8月5日鸡盘过期，如果到时候没了，记得去跟机修说一声）"
       },
       {
         "game": 2003,
-        "version": "未知",
+        "version": "世宇套机",
         "count": 1,
-        "coin_per_play": 0,
-        "description": "位于经典怀旧区，版本我没进去我不知道，36块钱门票钱。里面有许多经典街机，同时Jubeat位于其中。（和太鼓达人在一个地儿，就在太鼓达人的对面）"
+        "coin_per_play": 3,
+        "description": "三币一次 但是经常坏不能玩啊"
       },
       {
         "game": 4001,
-        "version": "不详",
+        "version": "亚洲版",
         "count": 1,
-        "coin_per_play": 0,
-        "description": "机台在店铺的“经典怀旧区” 36块不限时"
+        "coin_per_play": 3,
+        "description": "好像是三币吧...."
       }
     ],
     "external": {
@@ -1793,7 +1830,7 @@
     "_id": 287,
     "name": "城市英雄天津津南吾悦广场店",
     "per_coin_price": 1.0,
-    "description": "华卡会有故障问题，可以联系维修（但是没有彻底修好过）",
+    "description": "华卡会有故障问题，可以联系维修（最近好像修好了）",
     "location": {
       "province": 120000,
       "city": 120000,
@@ -1828,7 +1865,7 @@
   },
   {
     "_id": 787,
-    "name": "金满家儿童乐园",
+    "name": "金满家电玩城",
     "per_coin_price": 1.0,
     "description": "充100反40 300反200 500反500（两台屏幕均吃音...估计是旁边跳舞机的原因，过阵子会搬地方请悉知，以及请善待屏幕，2p屏幕恐遭击打导致屏下有损伤）",
     "location": {
@@ -2535,7 +2572,14 @@
         "version": "Finale",
         "count": 1,
         "coin_per_play": 3,
-        "description": "1p屏幕坏，店铺暂无网，无法刷卡。\r\n球网，可刷和banapass系"
+        "description": "球网，可刷和banapass系"
+      },
+      {
+        "game": 2002,
+        "version": "大鱼吃小鱼27",
+        "count": 1,
+        "coin_per_play": 2,
+        "description": "源台魔改机，BJM网，预计周内添加读卡器。"
       }
     ],
     "external": {
@@ -2713,7 +2757,7 @@
         "version": "FiNALE 1.99B",
         "count": 1,
         "coin_per_play": 2,
-        "description": "位于三楼，右屏内屏有问题，整体判定都偏慢。断网全解，无法刷卡，有宴有段位"
+        "description": "位于三楼，右屏内屏有问题，整体判定都偏慢。断网全解，无法刷卡，有宴有段位。左屏中部偏上有一坨黑色的东西，基本不影响游玩"
       },
       {
         "game": 2003,
@@ -2741,7 +2785,7 @@
         "version": "音炫轨道",
         "count": 1,
         "coin_per_play": 1,
-        "description": "位于五楼，1币2局"
+        "description": "位于五楼，1币2局，右键无灯。因为巨大音量经常不开机，让前台插上就OK，但因为巨大音量和中文配音需小心社死"
       },
       {
         "game": 9001,
@@ -2807,7 +2851,7 @@
         "version": "12亚",
         "count": 1,
         "coin_per_play": 3,
-        "description": "改16:9小尺寸LCD款，3曲设定，鼓况较差请窒息，公棒擀面杖"
+        "description": "世宇机，改16:9小尺寸LCD款，3曲设定，鼓况较差请窒息，公棒擀面杖"
       }
     ],
     "external": {
@@ -2897,7 +2941,7 @@
         "version": "JiNALE",
         "count": 1,
         "coin_per_play": 3,
-        "description": "鸡盘已联网，请爱护衡水唯一一台maimai，QQ交流群：1003755629"
+        "description": "鸡盘已联网，私人机器放置在机厅，请爱护衡水唯一一台maimai，QQ交流群：1003755629"
       }
     ],
     "external": {
@@ -3386,43 +3430,6 @@
     }
   },
   {
-    "_id": 122,
-    "name": "开来淘气堡",
-    "per_coin_price": 1.0,
-    "description": "",
-    "location": {
-      "province": 140000,
-      "city": 140900,
-      "district": 140902,
-      "address": "和平街七一路口开来欣悦商务中心8F",
-      "transport": "101/201/301/305路东行方向、202/203路南行方向开莱欣悦购物广场站下车，101/201/301路西行方向忻州师院站下车，202/203/305路北行方向图书大厦站下车"
-    },
-    "coordinate": {
-      "longitude": 112.731909,
-      "latitude": 38.42886
-    },
-    "has": [
-      {
-        "game": 2005,
-        "version": "12亚",
-        "count": 1,
-        "coin_per_play": 4,
-        "description": ""
-      },
-      {
-        "game": 6003,
-        "version": "2013",
-        "count": 1,
-        "coin_per_play": 4,
-        "description": "机况良好"
-      }
-    ],
-    "external": {
-      "bcn": 122,
-      "amap": ""
-    }
-  },
-  {
     "_id": 957,
     "name": "时代大玩家",
     "per_coin_price": 1.0,
@@ -3553,8 +3560,8 @@
         "game": 2010,
         "version": "XG",
         "count": 1,
-        "coin_per_play": 3,
-        "description": "机框灵敏度一般，声音小，无耳机接口（边上是WLF）！"
+        "coin_per_play": 4,
+        "description": "机框灵敏度一般，声音小，无耳机接口(目前跟机厅沟通中，接耳机线）。右边E5，左边DZ，后面 DB（舞战记），哪个都比它声音大！"
       },
       {
         "game": 4001,
@@ -3619,7 +3626,7 @@
         "version": "XG",
         "count": 1,
         "coin_per_play": 3,
-        "description": ""
+        "description": "机台已经没有了！"
       },
       {
         "game": 4001,
@@ -3953,6 +3960,36 @@
     }
   },
   {
+    "_id": 1093,
+    "name": "大玩家超乐场（海拉尔店）",
+    "per_coin_price": 1.0,
+    "description": "一台太鼓达人11亚 1p严重吃音不建议游玩 2p良好",
+    "location": {
+      "province": 150000,
+      "city": 150700,
+      "district": 150702,
+      "address": "桥头街11号 伊仕丹购物广场5L",
+      "transport": "9路 17路 104路"
+    },
+    "coordinate": {
+      "longitude": 119.747378,
+      "latitude": 49.213071
+    },
+    "has": [
+      {
+        "game": 4001,
+        "version": "11亚洲版",
+        "count": 1,
+        "coin_per_play": 2,
+        "description": "2p可以玩"
+      }
+    ],
+    "external": {
+      "bcn": 1093,
+      "amap": ""
+    }
+  },
+  {
     "_id": 334,
     "name": "大玩家超乐场（满洲里万达店）",
     "per_coin_price": 1.0,
@@ -4122,7 +4159,7 @@
         "version": "亚洲版",
         "count": 1,
         "coin_per_play": 2,
-        "description": "触控不戳，机框不彳亍，机器开不开着全看随缘"
+        "description": "机况一般，开不开着全随缘，没人管"
       }
     ],
     "external": {
@@ -4216,7 +4253,7 @@
     "_id": 673,
     "name": "大玩家超乐场（太原街万达店）",
     "per_coin_price": 1.0,
-    "description": "百度贴吧:舞萌吧 欢迎大伙进来发布有关街机音游的事物，不定期举办活动哦(´-ω-`)\r\nPS:舞萌DX有专门的币子，用那个币子相当于是2元/次",
+    "description": "机修态度不佳\r\n修机器频率不高但修的完美\r\n机厅有空调但是还是会热",
     "location": {
       "province": 210000,
       "city": 210100,
@@ -4234,14 +4271,14 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 5,
-        "description": "可以在前台买30元15次的舞萌专用币卡"
+        "description": "前台有卖30元15次的套餐\r\n不建议用币子打"
       },
       {
         "game": 4001,
         "version": "12亚",
         "count": 1,
         "coin_per_play": 3,
-        "description": "屏幕污黑，框体十分破旧"
+        "description": "屏幕污黑，框体十分破旧，鼓皮全漏了"
       },
       {
         "game": 3001,
@@ -4252,10 +4289,10 @@
       },
       {
         "game": 9001,
-        "version": "_",
+        "version": "1",
         "count": 2,
         "coin_per_play": 2,
-        "description": ""
+        "description": "不开机"
       },
       {
         "game": 9003,
@@ -4378,7 +4415,7 @@
     "_id": 606,
     "name": "欢乐城市电玩公园",
     "per_coin_price": 1.0,
-    "description": "无机修\r\n前台有卖鸡盘卡 30元/张",
+    "description": "无机修\r\n机器都被关到一个区域里\r\n要80块钱才能玩几个小时\r\n不用币子了\r\n前台有卖鸡盘卡 30元/张",
     "location": {
       "province": 210000,
       "city": 210100,
@@ -4517,7 +4554,7 @@
     "_id": 602,
     "name": "风云再起游乐汇（中街大悦城店）",
     "per_coin_price": 0.5,
-    "description": "机厅太热 务必穿短袖出勤",
+    "description": "机厅太热，务必穿短袖出勤。\r\n四台音游机对着轰，嫌吵的建议带耳塞或者耳机出勤。",
     "location": {
       "province": 210000,
       "city": 210100,
@@ -4676,43 +4713,6 @@
     }
   },
   {
-    "_id": 90,
-    "name": "V动地带电玩城（沈辽西路店）",
-    "per_coin_price": 1.0,
-    "description": "现在兴隆大天地几乎处于停业状态（全商场基本都没有多少工作人员）2020年8月4日夜间，店铺处于关门状态",
-    "location": {
-      "province": 210000,
-      "city": 210100,
-      "district": 210106,
-      "address": "兴隆大天地地下1层",
-      "transport": "公交仙女湖公园北站"
-    },
-    "coordinate": {
-      "longitude": 123.331255,
-      "latitude": 41.777334
-    },
-    "has": [
-      {
-        "game": 1001,
-        "version": "大陆二更",
-        "count": 1,
-        "coin_per_play": 2,
-        "description": ""
-      },
-      {
-        "game": 4001,
-        "version": "12亚",
-        "count": 2,
-        "coin_per_play": 2,
-        "description": ""
-      }
-    ],
-    "external": {
-      "bcn": 90,
-      "amap": ""
-    }
-  },
-  {
     "_id": 608,
     "name": "风云再起游乐汇（沈北华强广场店）",
     "per_coin_price": 0.5,
@@ -4845,7 +4845,7 @@
         "version": "Ver.CH1.11-A",
         "count": 2,
         "coin_per_play": 5,
-        "description": "新机，机况很好。左侧机台插耳机会有轻微电流声，且 2P 没有外放。玩的时候请务必注意熊孩子。\r\n续关功能已开启。"
+        "description": "新机，机况很好。左侧机台插耳机会有轻微电流声，且 2P 没有外放，1P外放声音比正常大。两台机均有可能震键，建议轻点打或者打内屏。玩的时候请务必注意熊孩子。\r\n续关功能已开启。"
       },
       {
         "game": 5001,
@@ -4871,7 +4871,7 @@
     "_id": 92,
     "name": "银河系（恒隆广场店）",
     "per_coin_price": 2.0,
-    "description": "早上10点-晚上10点\r\n2元1币 50元50个 100元110个 周三充值活动100元150币(需要会员卡 首次充值不能使用优惠)\r\n店铺已从原地址迁移至四楼413a号商铺，具体位置为星巴克与电影院中间，6.12仍未开业，门口公告线路调整，各位通勤请注意。如果开业了有人看到这里记得删掉。",
+    "description": "早上10点-晚上10点\r\n2元1币 50元50个 100元110个 周三充值活动100元150币(需要会员卡 首次充值不能使用优惠)\r\n店铺已从原地址迁移至四楼413a号商铺，具体位置为星巴克与电影院中间，6.20仍未开业，门口公告线路调整，各位通勤请注意。如果开业了有人看到这里记得删掉。",
     "location": {
       "province": 210000,
       "city": 210200,
@@ -5311,7 +5311,7 @@
     "_id": 1051,
     "name": "东方英雄（万熹城市公园店）",
     "per_coin_price": 1.0,
-    "description": "由于商场还未开业 目前所有机器均处于离线状态",
+    "description": "大部分机种均已联网 maimai全新 烦请爱护",
     "location": {
       "province": 210000,
       "city": 210300,
@@ -5335,14 +5335,14 @@
         "game": 2001,
         "version": "五代",
         "count": 1,
-        "coin_per_play": 3,
-        "description": "机台断网ing 1P的BT–C刻度与其他摁键不同 很容易疲劳、影响手感"
+        "coin_per_play": 4,
+        "description": "1P的BT–C手感与其他摁键不同 长时间吧唧容易右手疲劳（"
       },
       {
         "game": 2007,
         "version": "STAEDOM",
         "count": 1,
-        "coin_per_play": 3,
+        "coin_per_play": 4,
         "description": ""
       },
       {
@@ -5351,6 +5351,13 @@
         "count": 1,
         "coin_per_play": 3,
         "description": "鼓皮较旧且容易吃音 并不建议在此出勤太鼓 日后群友可能会出资维护"
+      },
+      {
+        "game": 5001,
+        "version": "Ver. 2",
+        "count": 1,
+        "coin_per_play": 4,
+        "description": ""
       }
     ],
     "external": {
@@ -5821,7 +5828,7 @@
   {
     "_id": 873,
     "name": "环游时代电玩盘锦兴隆店",
-    "per_coin_price": 1.0,
+    "per_coin_price": 1.5,
     "description": "",
     "location": {
       "province": 210000,
@@ -5840,7 +5847,7 @@
         "version": "Ver.CH1.11-A",
         "count": 1,
         "coin_per_play": 4,
-        "description": "据称偶有吃星问题。附近没有其他音游和比较吵闹的街机 环境也很良好"
+        "description": "据称偶有吃星问题，1P比2P更为严重。附近没有其他音游和比较吵闹的街机，环境也很良好。"
       }
     ],
     "external": {
@@ -5866,18 +5873,11 @@
     },
     "has": [
       {
-        "game": 2007,
-        "version": "国行",
-        "count": 1,
-        "coin_per_play": 0,
-        "description": "该机暂时没有启用。"
-      },
-      {
         "game": 5001,
         "version": "国行 (1.50.01.CHN.C?)",
         "count": 2,
         "coin_per_play": 4,
-        "description": "新机。已移动至舞立方旁，噪音可能较大。"
+        "description": "新机，网络不稳定。位于舞立方旁，噪音极大，请自备耳机。"
       }
     ],
     "external": {
@@ -6583,6 +6583,36 @@
     }
   },
   {
+    "_id": 1084,
+    "name": "城市英雄（东方商厦店）",
+    "per_coin_price": 1.0,
+    "description": "在五楼靠里",
+    "location": {
+      "province": 220000,
+      "city": 220200,
+      "district": 220204,
+      "address": "河南路251号",
+      "transport": "808路"
+    },
+    "coordinate": {
+      "longitude": 126.552582,
+      "latitude": 43.843293
+    },
+    "has": [
+      {
+        "game": 2003,
+        "version": "未知",
+        "count": 1,
+        "coin_per_play": 3,
+        "description": "目前不开机，可以尝试前台询问能否正常开机"
+      }
+    ],
+    "external": {
+      "bcn": 1084,
+      "amap": ""
+    }
+  },
+  {
     "_id": 900,
     "name": "电玩帝国",
     "per_coin_price": 1.0,
@@ -6608,7 +6638,7 @@
       },
       {
         "game": 9003,
-        "version": "第三代",
+        "version": "骑士与公主",
         "count": 1,
         "coin_per_play": 3,
         "description": "平时可亮"
@@ -6616,6 +6646,36 @@
     ],
     "external": {
       "bcn": 900,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1085,
+    "name": "世宇乐园（世纪广场店）",
+    "per_coin_price": 1.0,
+    "description": "看起来有点昏暗，请尽量克服",
+    "location": {
+      "province": 220000,
+      "city": 220200,
+      "district": 220211,
+      "address": "吉林大街世纪广场购物公园B1层D002号场地",
+      "transport": "140和40路均可"
+    },
+    "coordinate": {
+      "longitude": 126.562962,
+      "latitude": 43.832043
+    },
+    "has": [
+      {
+        "game": 9003,
+        "version": "骑士与公主",
+        "count": 1,
+        "coin_per_play": 4,
+        "description": "机台良好，鼓棒正常"
+      }
+    ],
+    "external": {
+      "bcn": 1085,
       "amap": ""
     }
   },
@@ -6641,7 +6701,7 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 5,
-        "description": "仅投币，有当地或个人定期比赛\r\n1P和2P上屏有点进灰，但机况良好，进灰不影响游玩"
+        "description": "仅投币，有当地或个人定期比赛\r\n1P和2P上屏有点进灰，但机况良好，进灰不影响游玩，1p现在右上角有破洞，游玩时请注意防止割伤"
       },
       {
         "game": 4001,
@@ -7884,7 +7944,7 @@
         "version": "广西Festo+",
         "count": 2,
         "coin_per_play": 3,
-        "description": "仅投币，不可刷卡"
+        "description": "仅投币。"
       },
       {
         "game": 2003,
@@ -7926,7 +7986,7 @@
         "version": "2016改",
         "count": 1,
         "coin_per_play": 3,
-        "description": "无网络，不可刷币卡"
+        "description": "无网络，暂时仅刷币卡，右侧跳舞机音量有可能盖过本机导致听不太清"
       },
       {
         "game": 2005,
@@ -8072,10 +8132,10 @@
       },
       {
         "game": 3001,
-        "version": "4MAX Ver4.63",
+        "version": "4MAX Ver. 4.65",
         "count": 1,
         "coin_per_play": 0,
-        "description": "离线全解，已安装Groove Stage。"
+        "description": "未来将接入网络，暂时为离线全解，\r\n已安装Groove Stage。"
       },
       {
         "game": 6001,
@@ -8108,7 +8168,7 @@
     "_id": 27,
     "name": "汤姆熊徐汇日月光店",
     "per_coin_price": 1.0,
-    "description": "特别提醒：拆机人很多",
+    "description": "特别提醒：拆机人很多，放学时段学生很多很多",
     "location": {
       "province": 310000,
       "city": 310000,
@@ -8123,7 +8183,7 @@
     "has": [
       {
         "game": 1002,
-        "version": "CH1.01-E",
+        "version": "CH1.11-A",
         "count": 1,
         "coin_per_play": 4,
         "description": "新机到场优惠，何时恢复原价有待确认"
@@ -8133,7 +8193,7 @@
         "version": "finale",
         "count": 1,
         "coin_per_play": 3,
-        "description": "离线全解机，注意屏幕亮度过亮。"
+        "description": "离线全解机，注意屏幕亮度过亮。\r\n1p2p屏幕上方触屏较差，容易断触，对内屏人不太友好。"
       }
     ],
     "external": {
@@ -8391,11 +8451,11 @@
         "description": "液晶筐（红框IO/基板）"
       },
       {
-        "game": 2005,
-        "version": "Volzza2",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": "离线全解"
+        "game": 4001,
+        "version": "新筐体 モモイロ / 虹",
+        "count": 2,
+        "coin_per_play": 5,
+        "description": "加歌版（第二次加歌）"
       },
       {
         "game": 4001,
@@ -8403,13 +8463,6 @@
         "count": 2,
         "coin_per_play": 4,
         "description": ""
-      },
-      {
-        "game": 4001,
-        "version": "新筐体 モモイロ / 虹",
-        "count": 2,
-        "coin_per_play": 5,
-        "description": "加歌版（第二次加歌）"
       },
       {
         "game": 3001,
@@ -8447,15 +8500,15 @@
   },
   {
     "_id": 9,
-    "name": "汤姆熊上海大悦城店",
+    "name": "汤姆熊欢乐世界（大悦城店）",
     "per_coin_price": 1.0,
-    "description": "",
+    "description": "可以让店员适当调整旁边E舞的声音",
     "location": {
       "province": 310000,
       "city": 310000,
       "district": 310106,
       "address": "西藏北路166号上海大悦城南座L6层S601&S605",
-      "transport": "地铁8号12号线曲阜路站5号口"
+      "transport": "地铁：8号线、12号线曲阜路站5号口"
     },
     "coordinate": {
       "longitude": 121.472439,
@@ -8464,10 +8517,10 @@
     "has": [
       {
         "game": 1002,
-        "version": "CH1.01-E",
+        "version": "CH1.11-A",
         "count": 1,
         "coin_per_play": 6,
-        "description": "隔壁e舞噪音，建议携带耳机游玩，已和店员沟通略微提高音量。已进行版本更新"
+        "description": "2P的4号键震键。\r\n旁边是e舞，建议佩戴耳机，已提高外放音量。"
       },
       {
         "game": 1001,
@@ -8511,7 +8564,7 @@
         "version": "CH1.11-A",
         "count": 2,
         "coin_per_play": 6,
-        "description": "靠近篮球机的那台机况优秀，可续关\r\n靠近门口的那台机况较差，有明显的延迟和误触问题，且存在耳机孔电流声和漏电问题+左边就是Wacca，不可续关"
+        "description": "右侧那台的1p触屏存在一定概率完全失灵，遇到这种情况直接联系机修，其他时候均机况良好"
       },
       {
         "game": 4001,
@@ -8639,9 +8692,16 @@
       {
         "game": 1002,
         "version": "CH1.11-A",
-        "count": 3,
+        "count": 2,
         "coin_per_play": 6,
         "description": "两台机台按键比较光滑紧实，打上去很舒服"
+      },
+      {
+        "game": 4001,
+        "version": "12亚",
+        "count": 2,
+        "coin_per_play": 3,
+        "description": ""
       },
       {
         "game": 5001,
@@ -8678,7 +8738,7 @@
         "version": "finale",
         "count": 1,
         "coin_per_play": 3,
-        "description": "左右音响接反，机况良好，风扇很爽，旁e舞不吵"
+        "description": "左右音响接反，机况还行，2P偶尔吃星星，路人比较多，风扇很爽，旁e舞不吵"
       },
       {
         "game": 4001,
@@ -8702,7 +8762,7 @@
   },
   {
     "_id": 21,
-    "name": "汤姆熊百联又一城8F店",
+    "name": "汤姆熊欢乐世界（百联又一城购物中心店）",
     "per_coin_price": 1.0,
     "description": "店铺占了整个8F的一半，很大，但是大多是推币机，可以带孩子去打mai，孩子很喜欢（",
     "location": {
@@ -8710,7 +8770,7 @@
       "city": 310000,
       "district": 310110,
       "address": "淞沪路8号百联又一城购物中心8楼",
-      "transport": "地铁3号线淞发路步行10分钟10号线新江湾城步行十分钟 公交：55路，854,路，139路，133路，942路，817路，90路，812路"
+      "transport": "地铁：10号线五角场站5号口、江湾体育场站3号口 公交：五角场(淞沪路)站、五角场(翔殷路)站"
     },
     "coordinate": {
       "longitude": 121.516174,
@@ -8722,14 +8782,14 @@
         "version": "CH1.01-E",
         "count": 1,
         "coin_per_play": 6,
-        "description": "6币一局。不能续关。店内优惠力度非常小。可能会有很多小朋友来玩。可能会有霸机拆机等现象。旁边是e舞。建议带耳机🎧\r\n二维码扫描摄像头对焦不太准，屏幕小的手机(例如:iPhone 12 mini)需要放大二维码贴着扫描区域才能扫描到。"
+        "description": "1P少许花屏；2P耳机无声音，5号键震键。\r\n不能续关，汤姆熊优惠力度非常小。\r\n屏幕小的手机(如:iPhone 12 mini)需要放大二维码贴着扫描区域才能扫描到。\r\n经常有小朋友霸机、拆机。旁边是e舞，建议佩戴耳机🎧"
       },
       {
         "game": 1001,
         "version": "finale",
         "count": 1,
         "coin_per_play": 3,
-        "description": "左边的机子3号键有点磨损，4号键用力过度会卡在里面，右边的机子没有声音！而且游玩时间过长（3-4h）会显卡过热，卡死崩溃，要关机冷却两个小时才能玩（找工作人员可以退币），机况还可以"
+        "description": "1P的3号键有点磨损，4号键用力过度会卡在里面。\r\n2P没有声音！\r\n游玩时间过长(3-4h)会显卡过热，卡死崩溃，要关机冷却两个小时才能玩(找工作人员可以退币)"
       }
     ],
     "external": {
@@ -8882,7 +8942,7 @@
     "_id": 26,
     "name": "奇奇乐园仲盛世界城店",
     "per_coin_price": 1.0,
-    "description": "大众：9.9元=33币/59.9元=70币/129.9元=168币\r\n办卡需交10元，作为币充入卡中，可在前台存币，会员有购币优惠。\r\n会员每币价格实惠 2500币1000元 店内有排卡板",
+    "description": "大众：9.9元=33币/59.9元=70币/129.9元=168币\r\n办卡需交10元，作为币充入卡中，可在前台存币，会员有购币优惠。\r\n会员每币价格实惠 \r\n100元180币 200元460币 300元800币\r\n店内有排卡板",
     "location": {
       "province": 310000,
       "city": 310000,
@@ -8970,13 +9030,6 @@
     },
     "has": [
       {
-        "game": 1001,
-        "version": "Finale",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": "断网，不能刷卡"
-      },
-      {
         "game": 4001,
         "version": "14",
         "count": 1,
@@ -9060,7 +9113,7 @@
     "has": [
       {
         "game": 1002,
-        "version": "CH1.01-E",
+        "version": "CH1.11-A",
         "count": 2,
         "coin_per_play": 6,
         "description": "目前两台机器全部被搬到4楼风云再起大厅，按键均有一定程度的松动，有一定程度吃slide和touch的情况，2p尤其严重；机厅环境有点吵闹，出勤请带好耳机。现已支持续关。"
@@ -9074,10 +9127,10 @@
       },
       {
         "game": 5001,
-        "version": "华卡音舞",
+        "version": "Ver. 2",
         "count": 2,
         "coin_per_play": 6,
-        "description": "左边那台机子登录有小概率登不上，右边那台耳机孔接触不良"
+        "description": "2021/6/20，已更新v2，机器后面就是e舞，出勤带耳机否则啥也听不到"
       }
     ],
     "external": {
@@ -9214,7 +9267,7 @@
     "_id": 30,
     "name": "大玩家江桥万达店",
     "per_coin_price": 1.0,
-    "description": "店铺正在进行升级改造，预计开业时间6月初。",
+    "description": "店铺正在进行升级改造，预计开业时间6月底。",
     "location": {
       "province": 310000,
       "city": 310000,
@@ -9401,7 +9454,7 @@
         "version": "CH1.11-A",
         "count": 4,
         "coin_per_play": 6,
-        "description": "机况良好，\r\n进门右手边第一台机器2P耳机插孔接触不良并且屏幕有些滑,右手边机器耳机孔都有电流声，最右侧1P按键较硬,\r\n进门右手边第二台机器存在不定期死机问题，\r\n进门左手边第一台机器需要凑近了刷二维码，网络问题已解决\r\n有风扇"
+        "description": "机况恶化中...\r\n靠近前台的两台:\r\n右起第一台机器2P耳机插孔接触不良并且屏幕有些滑,耳机孔有电流声，1P按键较硬,\r\n右起第二台机器死机问题已解决，屏幕有灰，2P耳机孔没有声音，1P电流声重\r\n进门左手边(靠近娃娃机):\r\n右起第一台机器需要凑近了刷二维码，网络问题已解决\r\n右起第二台机器一切正常\r\n有风扇和衣架"
       },
       {
         "game": 2001,
@@ -9600,21 +9653,21 @@
         "version": "v1.11-A",
         "count": 1,
         "coin_per_play": 6,
-        "description": "缝合怪机器，1P4,5键和旁边Finale的1,7键互换，2P按键正常，8键轴有裂缝请善待。\r\n机器外壳，屏幕都比较脏，两个内屏都有积灰。\r\n有椅子，没有衣架，风扇等，和走廊另一侧抓娃娃机距离较小，小心碰到行人。"
+        "description": "路人拆机似乎不少。\r\n缝合怪机器，1P4,5键和旁边Finale 2P的1,7键互换，2P按键正常，8键轴有裂缝\r\n机器外壳，屏幕都比较脏，两个内屏都有积灰。\r\n有椅子和风扇，没有衣架等，和走廊另一侧抓娃娃机距离较小，小心碰到行人。"
       },
       {
         "game": 1001,
         "version": "v1.99-B",
         "count": 1,
         "coin_per_play": 3,
-        "description": "日框断网精文机，歌曲少。\r\n键比较松，音响声音很大。"
+        "description": "日框断网机，歌曲少。\r\n键比较松，2P有按键与隔壁DX杂交(见图)\r\n2P双屏已拆除(06.25)，机台不可用，不知道什么时候会修好。"
       },
       {
         "game": 5001,
         "version": "联网更新",
         "count": 2,
         "coin_per_play": 6,
-        "description": "左机耳机孔正常。右机未测试，隔壁跳舞机比较吵建议准备听力保护。"
+        "description": "左机耳机孔似乎接触不良。右机未测试\r\n隔壁跳舞机比较吵建议准备听力保护。\r\n目前外放的声音好像非常小，有其他游戏进行中基本上听不见音乐，必须自备耳机。"
       },
       {
         "game": 9002,
@@ -9910,7 +9963,7 @@
         "version": "dx2021",
         "count": 1,
         "coin_per_play": 3,
-        "description": "联网，3币一次，无续关"
+        "description": "联网，3币一次;现在大玩家店内禁止使用实体游戏币，余币要在柜台前存起来，一律使用购买充值会员卡插卡进行游戏，所有的街机投币口用强力胶或者螺丝钉全封住了；新版本已经正常运行，删歌照常。"
       },
       {
         "game": 4001,
@@ -9961,7 +10014,7 @@
         "version": "finale 1.99B",
         "count": 2,
         "coin_per_play": 3,
-        "description": "左为没有读卡器的鸭盘，已经简体中文破解\r\n右为联网Jinale\r\n两台均为3币/4首"
+        "description": "左为没有读卡器的鸭盘，左位二号键区域触屏严重失灵，右位六号键轻微失灵。\r\n右边的机台已经简体中文破解可联网Jinale，左位扬声器失灵没有声音但机况良好，右位三号键间歇性故障，勉强能用。\r\n两台均为3币/4首，全南京最划算。"
       },
       {
         "game": 9002,
@@ -9995,7 +10048,7 @@
     "has": [
       {
         "game": 1002,
-        "version": "CH1.11",
+        "version": "CH1.11-A",
         "count": 2,
         "coin_per_play": 5,
         "description": "2021年1月改价格  左机很绿"
@@ -10095,20 +10148,6 @@
       "latitude": 32.036232
     },
     "has": [
-      {
-        "game": 1003,
-        "version": "Crystal",
-        "count": 1,
-        "coin_per_play": 0,
-        "description": "只能刷官方aime卡"
-      },
-      {
-        "game": 1003,
-        "version": "Crystal",
-        "count": 1,
-        "coin_per_play": 0,
-        "description": "dao台"
-      },
       {
         "game": 2001,
         "version": "vivid",
@@ -10226,7 +10265,7 @@
     "_id": 814,
     "name": "大玩家南京建邺万达店",
     "per_coin_price": 1.0,
-    "description": "闭店装修中，预计暑假前恢复营业",
+    "description": "6.1已开业",
     "location": {
       "province": 320000,
       "city": 320100,
@@ -10244,7 +10283,7 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 3,
-        "description": "比较新，极大概率游玩中途被路人投币(生气"
+        "description": "装修后被搬到了门口，触屏完全无法正常使用(可能是电压的原因)，与机修沟通无果，请当这个机厅不存在。"
       }
     ],
     "external": {
@@ -10311,7 +10350,7 @@
         "version": "Ver.CH1.11",
         "count": 2,
         "coin_per_play": 5,
-        "description": "机况一般，1P 4号键很软，且有震键情况。2P 3号键在一些情况下会小幅度脱离，在外侧略微向内用力推回即可。机台所处位置非常非常非常热，且通风较差，天气较热的时候不建议出勤。"
+        "description": "机况一般，1P 4号键很软，且有震键情况。2P 3号键在一些情况下会小幅度脱离，在外侧略微向内用力推回即可。有风扇了，不热了。"
       },
       {
         "game": 1001,
@@ -10593,7 +10632,7 @@
       },
       {
         "game": 5001,
-        "version": "国行",
+        "version": "Ver.2 Lily",
         "count": 2,
         "coin_per_play": 4,
         "description": "机厅较吵，出勤务必带好耳机"
@@ -10637,7 +10676,7 @@
       },
       {
         "game": 5001,
-        "version": "国行",
+        "version": "Ver.2 Lily",
         "count": 2,
         "coin_per_play": 4,
         "description": "左边机台声音较大，耳机孔插不严会漏电，右边机台声音较小，耳机孔正常，出勤可备耳机"
@@ -10756,13 +10795,13 @@
     "_id": 498,
     "name": "缤纷乐园",
     "per_coin_price": 1.0,
-    "description": "币不单售，必须办卡，不支持美团等线上购币方式。",
+    "description": "50币起售，不支持美团等线上购币方式。\r\n机厅经理态度有问题（已经有一位玩家被经理气退坑了）。\r\n前台态度有问题，可能会忽悠人买套餐或者办卡",
     "location": {
       "province": 320000,
       "city": 320300,
       "district": 320302,
       "address": "中山北路与少华街交叉口东南50米",
-      "transport": "较近的公交车站：金地商都、中央百大、百货大楼。地铁：在彭城广场站下车。"
+      "transport": "较近的公交车站：金地商都、中央百大、百货大楼。地铁：在彭城广场站下车，13号出口出去。"
     },
     "coordinate": {
       "longitude": 117.186016,
@@ -10771,17 +10810,17 @@
     "has": [
       {
         "game": 1001,
-        "version": "FiNALE（有自制谱）",
+        "version": "FiNALE（球盘有自制谱）",
         "count": 1,
         "coin_per_play": 3,
-        "description": "徐州本地maimai玩家Q群：564154659\r\n机台位置部分位于监控盲区，且机厅经理态度有问题（已经有一位玩家被经理气退坑了），请玩家务必保管好个人财产。避免出现有人误拿账号卡去偷游戏币失败直接丢弃的情况。"
+        "description": "徐州本地maimai玩家Q群：564154659\r\n球盘，已联网可刷和aime卡，机台前面有两排长凳可休息，机台右侧有置物架可放东西，有排队卡架，机台位置部分位于监控盲区，请玩家务必保管好个人财产，避免出现有人误拿账号卡去偷游戏币失败直接丢弃的情况。"
       },
       {
         "game": 2003,
         "version": "festo",
         "count": 1,
         "coin_per_play": 2,
-        "description": "联网刷卡，PASELI提示可用但机厅不支持充值。"
+        "description": "1P随缘黑屏没人修，联网刷卡，PASELI提示可用但机厅不支持充值。"
       },
       {
         "game": 4001,
@@ -10789,6 +10828,13 @@
         "count": 1,
         "coin_per_play": 2,
         "description": "鼓况随缘，鼓棒为塑料棒，建议自备。"
+      },
+      {
+        "game": 6003,
+        "version": "PRIME 2",
+        "count": 1,
+        "coin_per_play": 4,
+        "description": ""
       },
       {
         "game": 6002,
@@ -10867,6 +10913,85 @@
     ],
     "external": {
       "bcn": 324,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1086,
+    "name": "常州堡岛音游社",
+    "per_coin_price": 18.0,
+    "description": "是新开张的音游窝，欢迎大家来玩～\r\n\r\n*基础价目表：\r\n18元/h\r\n48元/3h\r\n78元/包天\r\n78元/包夜",
+    "location": {
+      "province": 320000,
+      "city": 320400,
+      "district": 320404,
+      "address": "嘉业国贸大厦b座b670室",
+      "transport": "常州地铁2号线到南大街，导航至嘉业国贸大厦（南门），从标有“旋转餐厅”门进大楼电梯上六楼，根据标识找到b670室堡岛音游社"
+    },
+    "coordinate": {
+      "longitude": 119.953415,
+      "latitude": 31.779044
+    },
+    "has": [
+      {
+        "game": 1003,
+        "version": "paradise LOST",
+        "count": 3,
+        "coin_per_play": 18,
+        "description": "本地服务器 可店内联机"
+      },
+      {
+        "game": 2001,
+        "version": "5",
+        "count": 3,
+        "coin_per_play": 18,
+        "description": ""
+      },
+      {
+        "game": 2001,
+        "version": "6",
+        "count": 1,
+        "coin_per_play": 18,
+        "description": ""
+      },
+      {
+        "game": 2002,
+        "version": "27",
+        "count": 2,
+        "coin_per_play": 18,
+        "description": ""
+      },
+      {
+        "game": 2003,
+        "version": "Festo",
+        "count": 1,
+        "coin_per_play": 18,
+        "description": "刚换脚垫"
+      },
+      {
+        "game": 2011,
+        "version": "NEX+AGE",
+        "count": 1,
+        "coin_per_play": 18,
+        "description": ""
+      },
+      {
+        "game": 2010,
+        "version": "NEX+AGE",
+        "count": 1,
+        "coin_per_play": 18,
+        "description": ""
+      },
+      {
+        "game": 2004,
+        "version": "25 Peace",
+        "count": 1,
+        "coin_per_play": 18,
+        "description": ""
+      }
+    ],
+    "external": {
+      "bcn": 1086,
       "amap": ""
     }
   },
@@ -11152,10 +11277,10 @@
       },
       {
         "game": 5001,
-        "version": "世宇机",
+        "version": "Ver.2 Lily",
         "count": 2,
         "coin_per_play": 6,
-        "description": "新到机器 位于舞立方后 建议携带耳机出勤 恢复6币"
+        "description": "现已搬到了大门口 建议携带耳机出勤 恢复6币"
       }
     ],
     "external": {
@@ -11797,6 +11922,36 @@
     }
   },
   {
+    "_id": 1099,
+    "name": "星际传奇（泰州万象城店）",
+    "per_coin_price": 1.5,
+    "description": "",
+    "location": {
+      "province": 320000,
+      "city": 321200,
+      "district": 321202,
+      "address": "永定路华润国际社区3期万象城3楼",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 119.92355,
+      "latitude": 32.442168
+    },
+    "has": [
+      {
+        "game": 1002,
+        "version": "国行 CH1.11A",
+        "count": 1,
+        "coin_per_play": 2,
+        "description": "机况良好。\r\n位置摆放情况：小天才位置，位于大门口，无凳子无衣架无风扇，机子左边有一台VR机(运行时震耳欲聋，1p带着耳机都听不见声音)，左后方还有一台鹅舞。"
+      }
+    ],
+    "external": {
+      "bcn": 1099,
+      "amap": ""
+    }
+  },
+  {
     "_id": 453,
     "name": "城市英雄中央商场店",
     "per_coin_price": 1.0,
@@ -11980,7 +12135,7 @@
         "version": "世宇代理",
         "count": 4,
         "coin_per_play": 6,
-        "description": "两台已经更新VER.2   两台VER.1    均为6币一局"
+        "description": "四台均已更新VER.2"
       },
       {
         "game": 6003,
@@ -12362,7 +12517,7 @@
     "_id": 341,
     "name": "宁波工程学院东校区[宁工音游社]",
     "per_coin_price": 20.0,
-    "description": "【标0币的机台暂不可用】\r\n校外访问请加社团群预约\r\n详细社团介绍信息参考b站专栏\r\nQQ群：167837761\r\nBilibili/微博：宁波工程学院PIU音游社\r\n\r\n活动时间：12:30 - 22:00\r\n接待时间：12:30 - 20:00",
+    "description": "【近期暂不开放】\r\n【标0币的机台暂不可用】\r\n校外访问请加社团群私聊管理员预约\r\n详细社团介绍信息参考b站专栏\r\nQQ群：167837761\r\nBilibili/微博：您宫PIU音游社/宁波工程学院PIU音游社\r\n\r\n活动时间：12:30 - 22:00\r\n接待时间：12:30 - 20:00",
     "location": {
       "province": 330000,
       "city": 330200,
@@ -12428,8 +12583,8 @@
         "game": 2006,
         "version": "ノスタルジア Op.3",
         "count": 1,
-        "coin_per_play": 0,
-        "description": "【即将上线】\r\n支持\r\nBJMANIA NETWORK\r\n可玩Beatstream"
+        "coin_per_play": 20,
+        "description": "支持\r\nBJMANIA NETWORK"
       },
       {
         "game": 2008,
@@ -12580,36 +12735,6 @@
     ],
     "external": {
       "bcn": 509,
-      "amap": ""
-    }
-  },
-  {
-    "_id": 816,
-    "name": "城市英雄慈溪吾悦广场店",
-    "per_coin_price": 1.0,
-    "description": "新人免费注册会员，可以免费领20枚，最优惠套餐300=500枚",
-    "location": {
-      "province": 330000,
-      "city": 330200,
-      "district": 330282,
-      "address": "新城大道南路1449号新城吾悦广场3楼3001/3050",
-      "transport": ""
-    },
-    "coordinate": {
-      "longitude": 121.259823,
-      "latitude": 30.144616
-    },
-    "has": [
-      {
-        "game": 1002,
-        "version": "国行",
-        "count": 1,
-        "coin_per_play": 5,
-        "description": "新到机台"
-      }
-    ],
-    "external": {
-      "bcn": 816,
       "amap": ""
     }
   },
@@ -12940,18 +13065,11 @@
     },
     "has": [
       {
-        "game": 2007,
-        "version": "挺老的版本",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": "地板LED灯坏了两排，其余一切正常。"
-      },
-      {
         "game": 4001,
         "version": "未知",
         "count": 1,
         "coin_per_play": 2,
-        "description": "显示屏损坏，有时开有时关，而且搬来搬去，可能要撤了"
+        "description": "维修中，暂停运营"
       }
     ],
     "external": {
@@ -13105,10 +13223,10 @@
     "has": [
       {
         "game": 1002,
-        "version": "国行Ver 1.11",
+        "version": "国行Ver 1.11A",
         "count": 1,
         "coin_per_play": 4,
-        "description": "普通用户4币1局，会员3币，已更DX2021，2P外键状况比1P略好，出勤单刷建议2P"
+        "description": "普通用户4币1局，会员3币"
       }
     ],
     "external": {
@@ -13415,12 +13533,12 @@
       "province": 340000,
       "city": 340100,
       "district": 340103,
-      "address": "逍遥津街道淮河路步行街118号城改时代1层",
+      "address": "逍遥津街道寿春路118号淮河路步行街",
       "transport": "地铁二号线至四牌楼从A口出，或乘公交至小东门站"
     },
     "coordinate": {
-      "longitude": 117.292761,
-      "latitude": 31.859698
+      "longitude": 117.294242,
+      "latitude": 31.864762
     },
     "has": [
       {
@@ -13516,7 +13634,7 @@
         "version": "Ver.2",
         "count": 2,
         "coin_per_play": 4,
-        "description": "机台在一楼门口左侧，舞萌DX对面。周围环境较为嘈杂，建议使用耳机。\r\n两个机台的耳机孔无丢音轨情况，可能会有杂音。"
+        "description": "机台在一楼门口左侧，舞萌DX对面。周围环境较为嘈杂，建议使用耳机。\r\n两个机台的耳机孔可能会有丢音轨情况，可能会有杂音。"
       },
       {
         "game": 6003,
@@ -13987,10 +14105,10 @@
     "has": [
       {
         "game": 1002,
-        "version": "CH1.01-E",
+        "version": "CH1.11-A",
         "count": 1,
         "coin_per_play": 4,
-        "description": ""
+        "description": "机况不错。几个音游机都放在一块，建议准备耳机。\r\nPS：非工作日请做好被小孩们打扰的准备，如发现有熊孩子大力敲打请主动礼貌阻止。"
       },
       {
         "game": 6003,
@@ -14041,7 +14159,7 @@
         "version": "JiNALE 2.15",
         "count": 1,
         "coin_per_play": 3,
-        "description": "已由鸭盘更换至鸡盘，鸭盘卡可直刷。4首；1P5、6两个键不灵，2P1、2键位置的触控不灵，机修很少维修。"
+        "description": "已由鸭盘更换至鸡盘，鸭盘卡可直刷。4首；1P5、6两个键不灵，2P1、2键位置的触控不灵，机修很少维修。\r\n补：已知目前2p1,2号键对应内屏触控不灵，4号键（外键）不灵，强烈建议手劲不大者游玩1p"
       },
       {
         "game": 6003,
@@ -14145,10 +14263,40 @@
     }
   },
   {
+    "_id": 1095,
+    "name": "大玩家超乐场（六安万达店）",
+    "per_coin_price": 1.0,
+    "description": "游戏币50元起售",
+    "location": {
+      "province": 340000,
+      "city": 341500,
+      "district": 341502,
+      "address": "八公山北路与皋城路交叉口",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 116.510364,
+      "latitude": 31.764367
+    },
+    "has": [
+      {
+        "game": 6003,
+        "version": "2015 prime v1.00",
+        "count": 1,
+        "coin_per_play": 3,
+        "description": "机况良好，有时会被关闭，请找机修小哥帮忙打开"
+      }
+    ],
+    "external": {
+      "bcn": 1095,
+      "amap": ""
+    }
+  },
+  {
     "_id": 293,
     "name": "福州东百中心乐炫风",
     "per_coin_price": 1.5,
-    "description": "店内大部分机台(除星光2和所有B系机台外)均可刷会员币卡\r\nbana卡前台有售（有一定概率缺货！） 40/张 50/一张卡+15游戏币\r\n也可在福州maimai群/BEMANI系玩家交流群购买bjmania游戏卡，mai群群号在maimai机台上方，BEMANI玩家请咨询现场玩家或者看看jubeat旁边的三脚架扫码加群。（三脚架上面贴二维码的那张纸别撕！！！！！）\r\n（店内不售epass/AIC卡，请提前自备卡片，或者去咲窝那边买aic）\r\nP点充值方法请自行加QQ群咨询，店内不负责充值。\r\n店内电梯仅4号电梯可以使用且不停靠1-3楼，如果有需要上去坐公交请直接走门口手扶梯（也可以使用湾岸后面的5-6号电梯）\r\n22：00以后所有电梯通道关闭，请走门口手扶梯上楼\r\n部分机子会在闭店前提前关机，请合理安排游戏时间，如果出勤时发现机子没开可呼叫机修或者导玩开机\r\n另：店内maimai新旧框中间新加了衣架 出勤的各位请把脱下来的外套挂上面 谢谢！储物架在maimaidx和jubeat中间，东西每天都会清理\r\n音游区有三脚架，需要手机/运动相机录手元可以取出使用（有个三脚架若需要使用其他设备请拆快装板后自行安装就行）\r\n机子如果有问题，请到对应的玩家群进行反馈，现场游玩有问题时可以使用按钮呼叫工作人员\r\n代币价格：\r\n100=90（不送积分） 200=220 500=650 1000=1500 3000=5200 会员卡（炫风卡）第一次办免工本费（需至少买200=220的套餐，店内已经不再提供0元欢乐卡），后续补卡费用为10元/次，每月前台签到送10币（暴风卡为50币），公众号签满7天送10币，生日当天前台凭身份证签到送50币（暴风卡为300币），充值对应套餐送对应价格积分，有效期一年，每年到期后需扣除300积分或再购买套餐即可续期（暴风卡为2000积分续期），满20000分升级暴风卡（20积分换1币）\r\n美团有8.8=15(仅能购买一次）和99.9=100（可多次购买）的套餐，其他活动可以关注本地群或者店铺公众号\r\nmaimai玩家可以申请加入玩家会，每月一次100=200和六次50=75（具体请在群内咨询）\r\n营业时间：\r\n10:00～23:00（部分节假日可能会提前或者延后闭店，可加店铺微信群咨询）",
+    "description": "店内大部分机台(除星光2和所有B系机台外)均可刷会员币卡\r\nbana卡前台有售（有一定概率缺货！） 40/张 50/一张卡+15游戏币\r\n也可在福州maimai群/BEMANI系玩家交流群购买bjmania游戏卡，mai群群号在maimai机台上方，BEMANI玩家请咨询现场玩家扫码加群\r\n（店内不售epass/AIC卡，请提前自备卡片，或者去咲窝那边买aic）\r\nP点充值方法请自行加QQ群咨询，店内不负责充值。\r\n由于负二楼装修对应位置装修4号电梯下楼会有点麻烦（要绕一圈），建议走手扶梯（也可以使用湾岸后面的5-6号电梯）\r\n22：00以后所有电梯通道关闭，请走门口手扶梯上楼\r\n部分机子会在闭店前提前关机，请合理安排游戏时间，如果出勤时发现机子没开可呼叫机修或者导玩开机\r\n另：店内maimai新旧框中间新加了衣架 出勤的各位请把脱下来的外套挂上面 谢谢！储物架在maimaidx和jubeat中间，东西每天都会清理\r\n音游区有一个还行的手机能用的三脚架和一个不大好使的，需要录手元自行取出即可\r\n机子如果有问题，请到对应的玩家群进行反馈，现场游玩有问题时可以使用按钮呼叫工作人员\r\n代币价格：\r\n100=90（不送积分） 200=220 500=650 1000=1500 3000=5200 会员卡（炫风卡）第一次办免工本费（需至少买200=220的套餐，店内已经不再提供0元欢乐卡），后续补卡费用为10元/次，每月前台签到送10币（暴风卡为50币），公众号签满7天送10币，生日当月前台凭身份证签到送50币（暴风卡为300币），充值对应套餐送对应价格积分，有效期一年，每年到期后需扣除300积分或再购买套餐即可续期（暴风卡为2000积分续期），满20000分升级暴风卡（20积分换1币）\r\n美团有8.8=15(仅能购买一次）和99.9=100（可多次购买）的套餐，其他活动可以关注本地群或者店铺公众号\r\nmaimai玩家可以申请加入玩家会，每月一次100=200和六次50=75（具体请在群内咨询）\r\n营业时间：\r\n10:00～23:00（部分节假日可能会提前或者延后闭店，可加店铺微信群咨询）",
     "location": {
       "province": 350000,
       "city": 350100,
@@ -14166,21 +14314,21 @@
         "version": "CH1.11",
         "count": 2,
         "coin_per_play": 5,
-        "description": "续关功能、店内招募已打开。排卡时将卡放在机子下面即可。\r\n注意：如果出现死机等问题，使用iidx边上按钮呼叫导玩/机修处理即可。\r\n开机时务必先开1号机再开2号机（1号机是靠旧框的那台）排队有问题时请咨询现场玩家。"
+        "description": "续关功能、店内招募已打开。排卡时将卡放在机子下面即可。\r\n注意：如果出现死机等问题，使用iidx边上按钮呼叫导玩/机修处理即可。\r\n开机时务必先开1号机再开2号机（1号机是靠旧框的那台）排队有问题时请咨询现场玩家，人多时必须排卡！！！！否则后果自负！！！\r\n（福州maimai交流群：582387137）"
       },
       {
         "game": 1001,
         "version": "联网FiNALE",
         "count": 1,
-        "coin_per_play": 4,
-        "description": "球盘 单人3曲/双人4曲 可刷aime/bana/aic/BJM卡 有耳放可插耳机，工作日三币\r\n人多时请使用旁边隔音板上的板子排卡\r\n（虽然是日框有摄像头但是不支持内录）"
+        "coin_per_play": 3,
+        "description": "球盘 单人3曲/双人4曲 可刷aime/bana/aic/BJM卡 有耳放可插耳机\r\n人多时请使用旁边隔音板上的板子排卡\r\n（虽然是日框有摄像头但是不支持内录）\r\n（福州maimai交流群：582387137）"
       },
       {
         "game": 2002,
         "version": "28 BISTROVER",
         "count": 1,
-        "coin_per_play": 4,
-        "description": "(BJMANIA SERVICE)可刷新旧epass/四社卡/suica系/BJM卡 不可以刷币卡，请提前充p点/取币\r\n如果投币出现吃币卡币请使用旁边按钮呼叫，会有人处理\r\n刷不上卡请先刷另外一侧！！不行重启！！\r\n耳放在1p位下面，可接耳机，音响调耳放第四个旋钮即可，不要调太大否则可能会爆音，尽量接耳机玩"
+        "coin_per_play": 5,
+        "description": "(BJMANIA SERVICE)可刷新旧epass/四社卡/suica系/BJM卡 不可以刷币卡，请提前充p点/取币\r\n如果投币出现吃币卡币请使用旁边按钮呼叫，会有人处理\r\n刷不上卡请先刷另外一侧！！不行重启！！\r\n耳放在1p位下面，可接耳机，音响调耳放第四个旋钮即可（根据机厅要求请最多拧到九点钟方向 否则后果自负），尽量接耳机玩\r\n（补充：IIDX接的交换机疑似有点问题，小概率抽风，开机卡get update failed的话直接呼叫机修处理即可）"
       },
       {
         "game": 2003,
@@ -14193,8 +14341,8 @@
         "game": 2005,
         "version": "悠久のリフレシア",
         "count": 1,
-        "coin_per_play": 0,
-        "description": "(BJMANIA SERVICE)已到店 目前由于不明原因搬进了仓库 预计开机时间待定"
+        "coin_per_play": 3,
+        "description": "(BJMANIA SERVICE)可刷\r\n显示247p不用惊讶 扣p正常\r\n第二档扣p为33p\r\n40p档保底四首\r\n不可以刷币卡 请提前取币"
       },
       {
         "game": 4001,
@@ -14208,21 +14356,21 @@
         "version": "音炫轨道",
         "count": 2,
         "coin_per_play": 3,
-        "description": "未联网 一把2曲"
+        "description": "已联网 一把2曲"
       },
       {
         "game": 9001,
         "version": "2",
         "count": 1,
         "coin_per_play": 2,
-        "description": "已联网"
+        "description": "已联网，但网络有时会断"
       },
       {
         "game": 9003,
         "version": "骑士与公主",
         "count": 1,
         "coin_per_play": 3,
-        "description": "有时有网有时没网..."
+        "description": "网络偶尔会断，请知悉\r\n另游玩时请爱惜机台，游玩完后请将鼓棒放回原处（和旁边太鼓一样是路人拆机重灾区……）"
       },
       {
         "game": 9002,
@@ -14238,8 +14386,8 @@
     }
   },
   {
-    "_id": 353,
-    "name": "福州金融街万达大玩家",
+    "_id": 1080,
+    "name": "福州金融街万达广场大玩家",
     "per_coin_price": 1.0,
     "description": "",
     "location": {
@@ -14250,27 +14398,20 @@
       "transport": "公交：金融街万达广场站（10、13、15、16、51、58、71、74、88、97、102、109、112、126、136、137、153、169、179、206、312、320、321、509）"
     },
     "coordinate": {
-      "longitude": 119.343448,
-      "latitude": 26.052873
+      "longitude": 119.343454,
+      "latitude": 26.052883
     },
     "has": [
       {
         "game": 1002,
-        "version": "CH1.01-E",
+        "version": "CH-1.11",
         "count": 1,
         "coin_per_play": 4,
-        "description": "5.7日台万大玩家更新公告\r\n重置更新了更新公告的错字并打齐了文本丢失内容，容我致歉\r\n更新了玩家不可以使用新版本账号的问题，现在只能登陆旧版本从未打过新版本的账号啦！\r\n删除了舞萌dx2021更新，玩家可以正常游玩怀旧服了！\r\n更新了玩家可坐下的状态，现在连包和fufu都只能放在地上了！\r\n修复了温度状态：撤走电风扇\r\n更新了台万店长会处理maimai相关态度：我去问问\r\n更新了机修与店长的态度：当询问更新情况的时候直接删除玩家的好友，我们台万真是太厉害啦！\r\n后续版本更新以店内实际见到的景象为准\r\n有需要回血的可以找湾岸玩家回一些，实在找不到的可以帮忙联系（¿\r\n很可怕吗，是的这很可怕，我们联合！一起去东百罢！"
-      },
-      {
-        "game": 2003,
-        "version": "初代一台 官1一台(现已无)",
-        "count": 2,
-        "coin_per_play": 3,
         "description": ""
       }
     ],
     "external": {
-      "bcn": 353,
+      "bcn": 1080,
       "amap": ""
     }
   },
@@ -14351,10 +14492,10 @@
       },
       {
         "game": 5001,
-        "version": "国行",
+        "version": "国行（Ver.2）",
         "count": 2,
         "coin_per_play": 4,
-        "description": "机器已实装（可用）"
+        "description": "机器已实装（可用）\r\n已升级最新最热Ver.2，大家快来玩鸭"
       },
       {
         "game": 9002,
@@ -14391,7 +14532,7 @@
         "version": "finale",
         "count": 1,
         "coin_per_play": 0,
-        "description": "球盘/茶盘不定时轮换，可刷/banapass"
+        "description": "盘已炸，等待维修"
       },
       {
         "game": 1003,
@@ -14841,7 +14982,7 @@
     "_id": 361,
     "name": "厦门湖里大玩家",
     "per_coin_price": 1.5,
-    "description": "",
+    "description": "被偷币风险大，小心小屁孩，特别是那种穿着篮球服边上没家长的",
     "location": {
       "province": 350000,
       "city": 350200,
@@ -14862,18 +15003,11 @@
         "description": "单人3曲/双人4曲，已联网。"
       },
       {
-        "game": 2003,
-        "version": "官2",
-        "count": 2,
-        "coin_per_play": 3,
-        "description": ""
-      },
-      {
         "game": 4001,
         "version": "12亚洲版",
         "count": 1,
         "coin_per_play": 3,
-        "description": ""
+        "description": "3币三局，两人6币四局\r\n左侧鼓的鼓边不灵敏\r\n周围有舞立方和溜冰场，声音很吵 有点掩盖机台的声音"
       },
       {
         "game": 6002,
@@ -15114,6 +15248,28 @@
     }
   },
   {
+    "_id": 1082,
+    "name": "泉州城东大玩家",
+    "per_coin_price": 1.0,
+    "description": "人流量较少 机型只有国产山寨 湾岸还是简版机还要五个币（嫌弃",
+    "location": {
+      "province": 350000,
+      "city": 350500,
+      "district": 350503,
+      "address": "安吉南路与通源街交叉口东南100米万达广场2F",
+      "transport": "K2  K902 K307 802"
+    },
+    "coordinate": {
+      "longitude": 118.65967,
+      "latitude": 24.916146
+    },
+    "has": [],
+    "external": {
+      "bcn": 1082,
+      "amap": ""
+    }
+  },
+  {
     "_id": 369,
     "name": "泉州浦西大玩家",
     "per_coin_price": 1.0,
@@ -15164,8 +15320,8 @@
         "game": 4001,
         "version": "12亚洲版",
         "count": 1,
-        "coin_per_play": 2,
-        "description": "1P易吃音"
+        "coin_per_play": 3,
+        "description": "1P易吃音 1P右鼓面故障"
       },
       {
         "game": 9004,
@@ -15598,7 +15754,7 @@
     "_id": 671,
     "name": "大玩家（南昌红谷滩万达店）1店",
     "per_coin_price": 1.0,
-    "description": "营业时间：10:00-22:00（最晚玩到23点半）",
+    "description": "营业时间：10:00-22:00（最晚玩到23点半）\r\n舞萌定向币优惠只能用实体会员卡购买，实体会员卡必须在前台购买最低130的套餐，切记美团口碑等上面的套餐无法办理实体会员卡，建议前台寻问清楚办理实体卡和购买30元15次舞萌定向币套餐。",
     "location": {
       "province": 360000,
       "city": 360100,
@@ -15833,7 +15989,7 @@
     "_id": 1028,
     "name": "幸运星南昌万象汇店",
     "per_coin_price": 1.5,
-    "description": "前台有音乐机专用的50元80电子币，为长期套餐，需给前台出示自己在微信群才可购买。\r\n微信群进入方法，关注公众号《LuckyStar家庭娱乐南昌万象汇店》，添加客服二维码在公众号菜单《小程序》《在线客服》，说自己是玩家需要进微信群让客服拉。\r\n音乐机（就舞萌DX和E-mai）刷实体卡或投实体币为5币，微信扫码投币为3币，微信扫码直接付费为4.5元一把。",
+    "description": "次日工作日:10:00-21:30 次日休息:10:00-22:00（商场关门前进去可以玩晚点）\r\n前台有音乐机专用的50元80电子币，为长期套餐，需给前台出示自己在微信群才可购买。\r\n微信群进入方法，关注公众号《LuckyStar家庭娱乐南昌万象汇店》，添加客服二维码在公众号菜单《小程序》《在线客服》，说自己是玩家需要进微信群让客服拉。\r\n音乐机（就舞萌DX和E-mai）刷实体卡或投实体币为5币，微信扫码投币为3币，微信扫码直接付费为4.5元一把。",
     "location": {
       "province": 360000,
       "city": 360100,
@@ -15851,7 +16007,7 @@
         "version": "2021",
         "count": 2,
         "coin_per_play": 5,
-        "description": "有沙发x2，落地风扇x2，挂衣架，左侧机1P换的新屏幕屎黄颜色，2P较暗；右侧机3P换的新屏幕除了小黑点几乎和去年2020年11月之前的屏幕一样，3P较暗有黑线。"
+        "description": "有沙发x2，落地风扇x2，挂衣架，屏幕全部换了新的，和2020年10月之前的一样。"
       }
     ],
     "external": {
@@ -16327,7 +16483,7 @@
         "version": "Ver.CH1.11A",
         "count": 2,
         "coin_per_play": 5,
-        "description": "机况完美（99新机），触控良好；店铺外侧机台（靠近走廊及服装店一测）2p屏幕有横线，但不影响游玩；没有公用手套需要自备；店铺网络奇差，登录时经常卡死或者扫不了码（正在和机厅方面协调维修 已有所好转）；小孩子比较多，游玩时注意安全。"
+        "description": "机况完美（99新机），触控良好，开启续关；店铺外侧机台（靠近走廊及服装店一测）2p屏幕有横线，但不影响游玩；没有公用手套需要自备；店铺网络奇差，登录时经常卡死或者扫不了码（正在和机厅方面协调维修 已有所好转）；小孩子比较多，游玩时注意安全。"
       }
     ],
     "external": {
@@ -16357,14 +16513,14 @@
         "version": "Ver.CH1.11-A",
         "count": 3,
         "coin_per_play": 3,
-        "description": "机台旁没有风扇，凳子也很少，请保管好随身物品，以及谨防小孩拆机。2号机和3号机1P耳机孔有电流，3号机2P屏幕有一道竖黑线，请窒息"
+        "description": "机台旁没有风扇，凳子也很少，请保管好随身物品，以及谨防小孩拆机。三台机器均不能联机，未开起续关。2号机和3号机1P耳机孔有电流，3号机2P屏幕有一道竖黑线，请窒息"
       },
       {
         "game": 5001,
         "version": "Ver.2",
         "count": 2,
         "coin_per_play": 3,
-        "description": ""
+        "description": "2p可能会吞币（投币进去没反应，coins数和credit数没变化，请联系机修）"
       }
     ],
     "external": {
@@ -16515,17 +16671,17 @@
     "_id": 703,
     "name": "爱尚玩 Love play",
     "per_coin_price": 1.0,
-    "description": "",
+    "description": "工作日除了IIDX其他音游机大多是关闭的状态（机厅为了省电费），如果想玩请联系机厅工作人员开机。",
     "location": {
       "province": 370000,
       "city": 370200,
       "district": 370203,
-      "address": "哈尔滨路88号保利广场五层",
-      "transport": "三号线出清江路站"
+      "address": "哈尔滨路88号保利广场5层5001（暹罗街新加坡融合美食旁）",
+      "transport": "三号线清江路站走站内地下通道（很长）可直接到达保利广场1层（地下通道的保利广场入口在KFC旁边），呃……到保利的公车太多了(´；ω；｀)乘坐公车请自行查询，如果是在马路北侧靠近保利广场一侧的和达中心城公交站下车，请顺着车站北边稍微直走一小段路看到有KFC提示的向下的楼梯进门（实际就是进地下通道的楼梯，但看到KFC就知道入口了！），请不要继续再往车站北边走乘电梯到地下通道（可能会把自己绕晕），如果在地铁双山站或保儿馨都公交站下车请按地图指引找到商场正门"
     },
     "coordinate": {
-      "longitude": 120.39942,
-      "latitude": 36.112685
+      "longitude": 120.391001,
+      "latitude": 36.109146
     },
     "has": [
       {
@@ -16533,28 +16689,28 @@
         "version": "iiidx 26 rootage",
         "count": 1,
         "coin_per_play": 4,
-        "description": "毛机26，无外放音响，左右两侧均有耳放，有自带耳机。"
+        "description": "(´･ω･`)毛机26，bose功放（声音较大），左右两侧均有耳放，有自带耳机。如2dx屏幕出现画面撕裂请热插拔屏幕后的VGA线，网络状况较差偶尔会卡。"
       },
       {
         "game": 2003,
         "version": "Copious",
         "count": 2,
         "coin_per_play": 2,
-        "description": "中间那台2号机投币器目前损坏，无法投币，可以找机修给他币让他按服务（他懒得修投币器）1号机正常。\r\n曲库为saucer-prop以及部分qubell曲，离线店铺模式。"
+        "description": "中间那台2号机投币器目前损坏，无法投币，可以找机修给他币让他按服务（他懒得修投币器）1号机损坏。\r\n曲库为saucer-prop以及部分qubell曲，离线店铺模式。"
       },
       {
         "game": 2003,
         "version": "festo",
         "count": 1,
         "coin_per_play": 2,
-        "description": "联网刷卡 PASELI提示可用但机厅不支持充值。"
+        "description": "联网，2币5首\r\n因为不可控原因会3分钟卡顿一次。"
       },
       {
         "game": 2005,
         "version": "悠久のリフレシア",
         "count": 2,
-        "coin_per_play": 2,
-        "description": "已联网 读卡器可用 可进行店铺对战\r\n左机的左音响好像有点问题，声音很小，建议优先游玩2号机"
+        "coin_per_play": 3,
+        "description": "已联网 读卡器可用 可进行店铺对战\r\n左机的左音响好像有点问题，声音很小，建议优先游玩2号机，右边那台偶尔会吞币（最近严重了很多by：2021.6.13出现的情况连吞三个币），如果选曲菜单划屏不顺畅拿纸巾擦一下(´･Д･)」"
       },
       {
         "game": 9001,
@@ -16568,7 +16724,7 @@
         "version": "三代联网",
         "count": 1,
         "coin_per_play": 3,
-        "description": "青岛地区唯一的dmt三代,自动读公卡，无法插卡。"
+        "description": "3币可以打两次共6首歌，青岛地区唯一的dmt三代,自动读公卡，无法插卡。\r\nDMT3自2021年六月起处于长期关闭的状态（大概是dmt收入太少，关了省电）"
       },
       {
         "game": 9004,
@@ -16811,7 +16967,7 @@
         "version": "2021",
         "count": 1,
         "coin_per_play": 3,
-        "description": "屏幕偏暗 联网正常 位置偏里  体验很棒（"
+        "description": "屏幕偏暗 联网正常 位置偏里 1P4号键和五号键微震 其余一切正常"
       },
       {
         "game": 9003,
@@ -16830,7 +16986,7 @@
     "_id": 697,
     "name": "*芯窝*",
     "per_coin_price": 1.0,
-    "description": "现有bj jubeat festo 自制框体sdvx eg iidx筹备中~详细欢迎咨询QQ:3196218314",
+    "description": "现有bj jubeat festo 自制框体sdvx eg 原装框体bio2 iidx28~详细欢迎咨询QQ:3196218314",
     "location": {
       "province": 370000,
       "city": 370200,
@@ -16849,6 +17005,13 @@
         "count": 1,
         "coin_per_play": 1,
         "description": "自制框体功能正常，可以刷实体epass。"
+      },
+      {
+        "game": 2002,
+        "version": "IIDX 28 BISTROVER",
+        "count": 1,
+        "coin_per_play": 0,
+        "description": "已接入bjmania，现正常运行。不能投币只能刷epass[支持aic等各类限定卡片]使用paseli。如没有epass可以提供临时白卡以供使用。机台情况慢慢化1p带耳放。"
       },
       {
         "game": 2003,
@@ -16882,10 +17045,10 @@
     "has": [
       {
         "game": 1002,
-        "version": "最新",
+        "version": "DX 2021",
         "count": 1,
         "coin_per_play": 3,
-        "description": "全新，但不知道是不是我的问题，偶尔扫不上码（？）"
+        "description": "全新"
       },
       {
         "game": 4001,
@@ -17253,7 +17416,7 @@
     "_id": 811,
     "name": "威龙传奇潍坊奎文店",
     "per_coin_price": 1.0,
-    "description": "电玩城在三楼，目前在歇业，已经有半个月了，现已开业。",
+    "description": "电玩城在三楼。",
     "location": {
       "province": 370000,
       "city": 370700,
@@ -17687,6 +17850,36 @@
     }
   },
   {
+    "_id": 1090,
+    "name": "迪卡丘嘉年华（佳和店）",
+    "per_coin_price": 1.0,
+    "description": "经历千辛万苦，菏泽终于也有了一台乌蒙地插(\r\nMaimai DX 4币一局",
+    "location": {
+      "province": 370000,
+      "city": 371700,
+      "district": 371702,
+      "address": "中华路与牡丹路交汇处西南角佳和广场二楼",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 115.438822,
+      "latitude": 35.235054
+    },
+    "has": [
+      {
+        "game": 1002,
+        "version": "2021",
+        "count": 1,
+        "coin_per_play": 4,
+        "description": "新机到店，体验极佳("
+      }
+    ],
+    "external": {
+      "bcn": 1090,
+      "amap": ""
+    }
+  },
+  {
     "_id": 874,
     "name": "威龙嘉年华",
     "per_coin_price": 1.0,
@@ -17708,41 +17901,11 @@
         "version": "jinale",
         "count": 1,
         "coin_per_play": 3,
-        "description": "目前无法游玩，关机状态，机修也没办法，请安心等待新佳和的迪卡丘的dx（悲"
+        "description": "鸡盘联网 三币三首歌 按键正常 机子目前无法双排 微信群加群请加队长微信:reaiheping7777   QQ群971232334"
       }
     ],
     "external": {
       "bcn": 874,
-      "amap": ""
-    }
-  },
-  {
-    "_id": 982,
-    "name": "环亚大完家",
-    "per_coin_price": 1.0,
-    "description": "",
-    "location": {
-      "province": 370000,
-      "city": 371700,
-      "district": 371722,
-      "address": "单县向阳西路与湖西路交汇处环亚商城4楼",
-      "transport": ""
-    },
-    "coordinate": {
-      "longitude": 115.467421,
-      "latitude": 35.24299
-    },
-    "has": [
-      {
-        "game": 4001,
-        "version": "亚洲",
-        "count": 1,
-        "coin_per_play": 1,
-        "description": "机器正常，开机请叫工作人开机。"
-      }
-    ],
-    "external": {
-      "bcn": 982,
       "amap": ""
     }
   },
@@ -17775,7 +17938,7 @@
         "version": "FiNALE",
         "count": 2,
         "coin_per_play": 3,
-        "description": "五楼茶盘，单人3曲双人4曲，1P屏幕2a,7a感应区已报废，部分按键故障，支持。一楼的为日文原框体无盘，单人双人均为三币四首，不能刷卡。"
+        "description": "五楼为联网茶盘，单人3曲双人4曲，1P屏幕2a、7a感应区已报废，部分按键故障，支持。一楼的为日文原版，断网无盘，不能刷卡，单人双人均为三币四首。"
       },
       {
         "game": 2007,
@@ -17817,7 +17980,7 @@
         "version": "联网",
         "count": 1,
         "coin_per_play": 3,
-        "description": "PIU隔壁，没人玩"
+        "description": "在店外面，没啥人玩"
       }
     ],
     "external": {
@@ -17997,17 +18160,17 @@
     "has": [
       {
         "game": 1001,
-        "version": "Jinale联网",
+        "version": "FiNALE",
         "count": 1,
         "coin_per_play": 3,
-        "description": "已升级Jinale联网，可刷卡，左边的屏幕偶尔会黑屏几秒，体验较差"
+        "description": "已升级JiNALE联网，可刷卡，左边的屏幕偶尔会黑屏几秒，体验较差"
       },
       {
         "game": 2001,
         "version": "IV",
         "count": 2,
         "coin_per_play": 3,
-        "description": "理网四代，已经断网\r\n两边旋钮很涩，有些曲子一选就死机，不建议游玩\r\n（新增：机子已坏，无法投币，无法游玩）"
+        "description": "理网四代，已经断网\r\n两边旋钮很涩，有些曲子一选就死机，不建议游玩\r\n（新增：机子已坏，无法投币，暂时无法游玩）"
       },
       {
         "game": 2003,
@@ -18089,19 +18252,19 @@
   },
   {
     "_id": 1019,
-    "name": "玩美世界e动城 郑州新田360太康路店",
+    "name": "玩美世界e动城郑州太康路店",
     "per_coin_price": 1.0,
-    "description": "",
+    "description": "在大卫城旁边",
     "location": {
       "province": 410000,
       "city": 410100,
-      "district": 410104,
-      "address": "西太康路大卫城旁边66号附1号",
+      "district": 410103,
+      "address": "西太康路新田360广场(太康路店)四楼",
       "transport": ""
     },
     "coordinate": {
-      "longitude": 113.663056,
-      "latitude": 34.757897
+      "longitude": 113.662659,
+      "latitude": 34.757715
     },
     "has": [
       {
@@ -18109,7 +18272,7 @@
         "version": "dx2021",
         "count": 2,
         "coin_per_play": 2,
-        "description": "新机子，很丝滑。求求各位爷⑧拆了。\r\n游玩maimai dx请一定要自备耳机，不然真的会被吵死"
+        "description": "新机子，很丝滑。求求各位爷⑧拆了。\r\n游玩maimai dx请一定要自备耳机，不然真的会被吵死(因为隔壁的吴丽芳声音很大而且dx机台的声音偏小，不带耳机几乎听不见)"
       }
     ],
     "external": {
@@ -18192,36 +18355,6 @@
     }
   },
   {
-    "_id": 970,
-    "name": "玩美世界e动城郑州店",
-    "per_coin_price": 1.0,
-    "description": "",
-    "location": {
-      "province": 410000,
-      "city": 410100,
-      "district": 410105,
-      "address": "金水东路80号新田360广场A馆4楼",
-      "transport": ""
-    },
-    "coordinate": {
-      "longitude": 113.76743,
-      "latitude": 34.770119
-    },
-    "has": [
-      {
-        "game": 1002,
-        "version": "国行",
-        "count": 1,
-        "coin_per_play": 0,
-        "description": ""
-      }
-    ],
-    "external": {
-      "bcn": 970,
-      "amap": ""
-    }
-  },
-  {
     "_id": 473,
     "name": "风云再起丹尼斯七天地店",
     "per_coin_price": 1.0,
@@ -18250,7 +18383,7 @@
         "version": "FiNALE",
         "count": 1,
         "coin_per_play": 3,
-        "description": "鸡盘，不论单人还是双人游玩都只有3首"
+        "description": "鸡盘，不论单人还是双人游玩都只有3首，机况较差，且收且珍惜"
       },
       {
         "game": 4001,
@@ -18261,10 +18394,10 @@
       },
       {
         "game": 5001,
-        "version": "S",
+        "version": "Ver. 2",
         "count": 2,
         "coin_per_play": 4,
-        "description": "待调查"
+        "description": "已更新Ver. 2，机台状况待调查"
       },
       {
         "game": 9002,
@@ -18568,6 +18701,13 @@
         "count": 1,
         "coin_per_play": 3,
         "description": ""
+      },
+      {
+        "game": 9002,
+        "version": "联网",
+        "count": 1,
+        "coin_per_play": 2,
+        "description": ""
       }
     ],
     "external": {
@@ -18740,7 +18880,7 @@
     "_id": 1052,
     "name": "玩美世界e动城",
     "per_coin_price": 1.0,
-    "description": "",
+    "description": "我大南阳终于有maimai玩了，好耶！",
     "location": {
       "province": 410000,
       "city": 411300,
@@ -18848,7 +18988,7 @@
         "version": "世宇",
         "count": 1,
         "coin_per_play": 1,
-        "description": "已断网，版本号1.7，每次去请自带湿巾和卫生纸，脚板基本不清理，由于机厅熊孩子非常多所以板子上到处是污渍和口香糖，但这是商丘唯一一台DRS，所以如果要玩请自带清洁工具，机况一般，清理得当可正常游玩，否则无影脚"
+        "description": "有时能连上网，版本号1.7，每次去请自带湿巾和卫生纸，脚板基本不清理，由于机厅熊孩子非常多所以板子上到处是污渍和口香糖，但这是商丘唯一一台DRS，所以如果要玩请自带清洁工具，机况一般，清理得当可正常游玩，否则无影脚"
       }
     ],
     "external": {
@@ -18883,6 +19023,28 @@
     ],
     "external": {
       "bcn": 965,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1081,
+    "name": "莉天动漫城",
+    "per_coin_price": 2.0,
+    "description": "有舞立方和头文字D8",
+    "location": {
+      "province": 410000,
+      "city": 411600,
+      "district": 411625,
+      "address": "广场南路奥斯卡影城公园店一楼动漫城",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 115.15305,
+      "latitude": 33.641461
+    },
+    "has": [],
+    "external": {
+      "bcn": 1081,
       "amap": ""
     }
   },
@@ -18939,24 +19101,39 @@
       "longitude": 114.028008,
       "latitude": 33.003167
     },
+    "has": [],
+    "external": {
+      "bcn": 832,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1091,
+    "name": "星际传奇武汉龙湖江宸天街店",
+    "per_coin_price": 1.5,
+    "description": "和恒隆的币子通用",
+    "location": {
+      "province": 420000,
+      "city": 420100,
+      "district": 420103,
+      "address": "青年路518号武汉江宸天街4楼",
+      "transport": "地铁2号线/3号线范湖站C口E口"
+    },
+    "coordinate": {
+      "longitude": 114.261006,
+      "latitude": 30.606434
+    },
     "has": [
       {
         "game": 1002,
-        "version": "国行",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": ""
-      },
-      {
-        "game": 5001,
-        "version": "S",
-        "count": 1,
-        "coin_per_play": 0,
-        "description": "待调查"
+        "version": "CH1.11-A",
+        "count": 2,
+        "coin_per_play": 5,
+        "description": "新开的机厅，两台均为全新机，机况完美"
       }
     ],
     "external": {
-      "bcn": 832,
+      "bcn": 1091,
       "amap": ""
     }
   },
@@ -19062,7 +19239,7 @@
         "game": 1002,
         "version": "Ver CH1.00-C",
         "count": 1,
-        "coin_per_play": 6,
+        "coin_per_play": 5,
         "description": ""
       },
       {
@@ -19077,7 +19254,7 @@
         "version": "舞律炫步",
         "count": 1,
         "coin_per_play": 3,
-        "description": "压力板失灵"
+        "description": "压力板修好了或者是换了一个，现在工作完美"
       },
       {
         "game": 4001,
@@ -19097,7 +19274,7 @@
         "game": 6003,
         "version": "XX 20th",
         "count": 1,
-        "coin_per_play": 2,
+        "coin_per_play": 3,
         "description": ""
       },
       {
@@ -19209,14 +19386,14 @@
         "version": "Ver.CH1.11",
         "count": 1,
         "coin_per_play": 4,
-        "description": "吵，建议戴耳机"
+        "description": "环境又吵又热，建议戴耳机"
       },
       {
         "game": 1001,
-        "version": "初代",
+        "version": "大陆初代",
         "count": 1,
         "coin_per_play": 3,
-        "description": "1p屏幕完全失灵，2p机况非常差，谨慎游玩"
+        "description": "目前已黑屏关机，无法游玩，机台上放的有“维修中”的牌子"
       },
       {
         "game": 2003,
@@ -19791,13 +19968,13 @@
     "_id": 166,
     "name": "欢乐王国",
     "per_coin_price": 1.0,
-    "description": "",
+    "description": "地铁站右转进入商场直接上二楼后回头再上楼就能看见",
     "location": {
       "province": 420000,
       "city": 420100,
       "district": 420111,
       "address": "未来城购物公园2层",
-      "transport": "地铁二号线街道口地铁B出口"
+      "transport": "地铁二号线街道口地铁L出口"
     },
     "coordinate": {
       "longitude": 114.353082,
@@ -19809,7 +19986,7 @@
         "version": "JiNALE",
         "count": 1,
         "coin_per_play": 3,
-        "description": "机台全面换新，机况完美"
+        "description": "机台全面换新，机况完美，有耳机孔，旁边是跳舞机，很吵建议出勤带耳机"
       },
       {
         "game": 2001,
@@ -19853,7 +20030,7 @@
         "version": "finale",
         "count": 1,
         "coin_per_play": 5,
-        "description": "联网，🐔盘"
+        "description": "联网，🐔盘，有耳放"
       },
       {
         "game": 2002,
@@ -20117,8 +20294,8 @@
       "transport": ""
     },
     "coordinate": {
-      "longitude": 111.183263,
-      "latitude": 30.763663
+      "longitude": 111.296307,
+      "latitude": 30.702424
     },
     "has": [
       {
@@ -20302,7 +20479,7 @@
         "version": "国行",
         "count": 2,
         "coin_per_play": 6,
-        "description": "两组机台，一组在店门口，如不想被围观可选择内侧那组游戏  第一次来可在美团/口碑上购买一次的优惠套餐"
+        "description": "两组机台，一组在店门口，如不想被围观可选择内侧那组游戏"
       }
     ],
     "external": {
@@ -20512,36 +20689,6 @@
     }
   },
   {
-    "_id": 508,
-    "name": "鄂州市九方动漫",
-    "per_coin_price": 1.0,
-    "description": "南浦国际广场负一层A2-A12",
-    "location": {
-      "province": 420000,
-      "city": 420700,
-      "district": 420704,
-      "address": "鄂州市南浦路56号",
-      "transport": ""
-    },
-    "coordinate": {
-      "longitude": 114.886029,
-      "latitude": 30.402005
-    },
-    "has": [
-      {
-        "game": 4001,
-        "version": "亚洲版",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": "（有吃音情况，请着重考虑）请到前台换币"
-      }
-    ],
-    "external": {
-      "bcn": 508,
-      "amap": ""
-    }
-  },
-  {
     "_id": 579,
     "name": "真快活美乐园电玩城（银泰店）",
     "per_coin_price": 1.0,
@@ -20609,6 +20756,36 @@
     }
   },
   {
+    "_id": 1092,
+    "name": "密室汇",
+    "per_coin_price": 1.0,
+    "description": "个人机台，价格免费",
+    "location": {
+      "province": 420000,
+      "city": 420800,
+      "district": 420881,
+      "address": "湖北省荆门市钟祥市王府大道中百商场六楼密室汇",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 118.733562,
+      "latitude": 32.043482
+    },
+    "has": [
+      {
+        "game": 1001,
+        "version": "finale球盘",
+        "count": 1,
+        "coin_per_play": 0,
+        "description": "个人机台，免费游玩。日框，联网可刷aime卡"
+      }
+    ],
+    "external": {
+      "bcn": 1092,
+      "amap": ""
+    }
+  },
+  {
     "_id": 727,
     "name": "城市英雄动漫游戏体验中心",
     "per_coin_price": 0.5,
@@ -20630,7 +20807,7 @@
         "version": "世宇",
         "count": 2,
         "coin_per_play": 3,
-        "description": "机况已经非常差了，按键失灵串键"
+        "description": "机况极差无法游玩"
       },
       {
         "game": 4001,
@@ -20692,7 +20869,7 @@
     "_id": 952,
     "name": "大玩家（咸宁万达店）",
     "per_coin_price": 1.0,
-    "description": "可能机台关闭，请联系工作人员",
+    "description": "可能机台关闭，请联系工作人员\r\n门口有未联网的舞立方，可以免费玩",
     "location": {
       "province": 420000,
       "city": 421200,
@@ -20710,7 +20887,7 @@
         "version": "国行发行版",
         "count": 1,
         "coin_per_play": 2,
-        "description": ""
+        "description": "如机台关闭或找不到机台，请联系工作人员。"
       }
     ],
     "external": {
@@ -20805,6 +20982,36 @@
     ],
     "external": {
       "bcn": 848,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1096,
+    "name": "奇奇乐园",
+    "per_coin_price": 1.0,
+    "description": "",
+    "location": {
+      "province": 420000,
+      "city": 429006,
+      "district": null,
+      "address": "钟惺大道65号大润发3楼奇奇乐园",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 113.157986,
+      "latitude": 30.642186
+    },
+    "has": [
+      {
+        "game": 4001,
+        "version": "12亚",
+        "count": 1,
+        "coin_per_play": 2,
+        "description": "摆在最里面平时应该没啥人玩，机况不错 至少正常能玩  （当然都是暂时的 ）"
+      }
+    ],
+    "external": {
+      "bcn": 1096,
       "amap": ""
     }
   },
@@ -21149,10 +21356,10 @@
     "has": [
       {
         "game": 1002,
-        "version": "CH1.01-C",
+        "version": "Ver.CH1.11-A",
         "count": 2,
         "coin_per_play": 4,
-        "description": "（长沙最大洗衣房营业，欢迎来洗衣服~~~~~"
+        "description": "机况良好，就是三台maimai同时运行会很吵，建议戴好耳机"
       },
       {
         "game": 1001,
@@ -21377,7 +21584,7 @@
     "_id": 623,
     "name": "子洋联盟动漫体验中心（阳光100店）",
     "per_coin_price": 1.0,
-    "description": "",
+    "description": "营业时间10:00—22:00",
     "location": {
       "province": 430000,
       "city": 430100,
@@ -21395,7 +21602,7 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 4,
-        "description": "扫码摄像头偶尔抽风 可能需要放大二维码"
+        "description": "扫码摄像头偶尔抽风 可能需要放大二维码，没有靠墙，机台有些晃，左边舞立方，右边E舞成名，头上还有一块大屏幕日常播放游戏直播，人多时请佩戴耳机出勤"
       }
     ],
     "external": {
@@ -21425,7 +21632,7 @@
         "version": "2021",
         "count": 1,
         "coin_per_play": 5,
-        "description": ""
+        "description": "旁边是E舞，很吵，请戴好耳机"
       }
     ],
     "external": {
@@ -21508,6 +21715,36 @@
     }
   },
   {
+    "_id": 1076,
+    "name": "子洋联盟动漫体验中心（砂之船店）",
+    "per_coin_price": 1.0,
+    "description": "",
+    "location": {
+      "province": 430000,
+      "city": 430100,
+      "district": 430112,
+      "address": "月亮岛路与金星北路交汇处砂之船奥莱三楼影院旁边",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 112.924414,
+      "latitude": 28.294646
+    },
+    "has": [
+      {
+        "game": 1002,
+        "version": "国行",
+        "count": 1,
+        "coin_per_play": 4,
+        "description": "新机器，手感舒服，但是没风扇，有点热"
+      }
+    ],
+    "external": {
+      "bcn": 1076,
+      "amap": ""
+    }
+  },
+  {
     "_id": 313,
     "name": "城市英雄星沙吾悦店",
     "per_coin_price": 1.0,
@@ -21543,7 +21780,7 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 3,
-        "description": "新机到店，应该是长沙最便宜的wacca，音响已炸，请带耳机出勤"
+        "description": "新机到店，应该是长沙最便宜的wacca，音响已炸，请带耳机出勤\r\n路人偶尔会将耳机音量键当成音响音量键调到最大，插耳机前请注意检查耳机音量（本人耳机已炸呜呜呜）"
       },
       {
         "game": 9003,
@@ -21946,12 +22183,12 @@
       "province": 430000,
       "city": 430400,
       "district": 430412,
-      "address": "广济路2号岳秀花园3栋-01",
+      "address": "广济路2号天子山火文化园 下面",
       "transport": ""
     },
     "coordinate": {
-      "longitude": 112.739315,
-      "latitude": 27.228281
+      "longitude": 112.738993,
+      "latitude": 27.225121
     },
     "has": [
       {
@@ -22000,7 +22237,7 @@
   {
     "_id": 185,
     "name": "星世纪（友阿国际广场店）",
-    "per_coin_price": 0.5,
+    "per_coin_price": 1.0,
     "description": "",
     "location": {
       "province": 430000,
@@ -22204,7 +22441,7 @@
         "version": "orange plus",
         "count": 1,
         "coin_per_play": 4,
-        "description": "左框音响声音偏小，屏幕色暗。完全没人玩，旁边的e舞成名有人玩就基本听不到声音了。"
+        "description": "左框音响声音偏小，屏幕色暗。完全没人玩，旁边的e舞成名有人玩就基本听不到声音了。\r\n6月13日去看发现主板坏了，虽然看见机修但是还没修好，可能要等几天才能玩。"
       },
       {
         "game": 4001,
@@ -22307,7 +22544,7 @@
         "version": "CH1.01-D",
         "count": 1,
         "coin_per_play": 4,
-        "description": "2P的4号键损坏,\r\n1P的1号键振键,近期无维修打算"
+        "description": "机况良好"
       },
       {
         "game": 9002,
@@ -22849,7 +23086,7 @@
       "province": 440000,
       "city": 440100,
       "district": 440111,
-      "address": "云城东路501号万达广场F1层",
+      "address": "云城东路501号万达广场F3层",
       "transport": ""
     },
     "coordinate": {
@@ -23110,92 +23347,6 @@
     ],
     "external": {
       "bcn": 278,
-      "amap": ""
-    }
-  },
-  {
-    "_id": 36,
-    "name": "欢乐世界GOGO新天地大学城店",
-    "per_coin_price": 1.0,
-    "description": "2021年6月30日本店将结业。\r\n\r\n温馨提示：商场分一期二期，必胜客/电影院侧为二期，麦当劳侧为一期。\r\n二期进来的朋友建议从外面走到另外一侧也就是一期麦当劳那边上扶梯到达三楼，三楼扶梯右手边就是机厅。\r\n营业时间：10:30-22:00\r\n\r\n广西卡（jubeat/sdvx）/球卡(maimai)/前台有售\r\n店内没毛卡（IIDX）请上rbdoor.taobao.com购买\r\n\r\n店内不支持线上服务（大众点评，美团等）\r\n店内全场刷卡游玩，买币即送会员卡，最低买20。\r\n不买币单开卡需要5元工本费。\r\n\r\n开卡优惠：\r\n50元/60币（含会员卡）\r\n100元/150币（含会员卡）\r\n50元/80币（学生会员卡，需要学生证和身份证）\r\n\r\n套餐价格：\r\n20元=20币（1元/币）\r\n30元=30币（1元/币）\r\n50元=60币（0.83元/币）\r\n100元=140币（0.71元/币）\r\n200元=300币（0.66元/币）\r\n300元=480币（0.62元/币）\r\n400元=680币（0.58元/币）\r\n500元=880币（0.56元/币）\r\n\r\n周三会员日优惠：\r\n普通会员：\r\n50元=70币（0.71元/币）\r\n100元=160币（0.62元/币）\r\n200元=340币（0.58元/币）\r\n300元=520币（0.57元/币）\r\n学生会员：\r\n50元=78币（0.64元/币）\r\n100元=168币（0.59元/币）\r\n200元=368币（0.54元/币）\r\n300元=548币（0.54元/币）",
-    "location": {
-      "province": 440000,
-      "city": 440100,
-      "district": 440113,
-      "address": "大学城中二横路1号GOGO新天地一期3楼368铺",
-      "transport": "地铁:4号线大学城北站D出口，开导航沿中环东路步行或骑行两个十字路口即可到达。公交:361路,大学城专线1/3路,大学城环线2路,番201/202路（中环东路站）"
-    },
-    "coordinate": {
-      "longitude": 113.392183,
-      "latitude": 23.061283
-    },
-    "has": [
-      {
-        "game": 1002,
-        "version": "国行",
-        "count": 1,
-        "coin_per_play": 6,
-        "description": "新玩家首局扫码免费，单人3曲，双人4曲。排队版和排队规则在机台左侧。"
-      },
-      {
-        "game": 1001,
-        "version": "Finale",
-        "count": 1,
-        "coin_per_play": 4,
-        "description": "球盘联网，可刷球卡/Aime/四社。内含自制，已经添加耳放,前台有aime兼容卡销售"
-      },
-      {
-        "game": 2001,
-        "version": "5 VIVID WAVE",
-        "count": 4,
-        "coin_per_play": 3,
-        "description": "广西网，刷广西卡全解，原装三和+欧姆龙按键，带耳放，可店内联机。"
-      },
-      {
-        "game": 2002,
-        "version": "26 Rootage",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": "毛机，内含27曲库，耳放在机台中间下方处。两边都是三和按键，欧姆龙1c3微动+20g弹簧。"
-      },
-      {
-        "game": 2003,
-        "version": "广西festo+",
-        "count": 2,
-        "coin_per_play": 3,
-        "description": "可联网，机况良好，机修定期维护，带耳放，刷卡全曲\r\n支持店内对战/传导"
-      },
-      {
-        "game": 3001,
-        "version": "华立代理版",
-        "count": 2,
-        "coin_per_play": 3,
-        "description": "3币3曲"
-      },
-      {
-        "game": 9003,
-        "version": "三代",
-        "count": 1,
-        "coin_per_play": 4,
-        "description": "离线，鼓况一般，路人机器。"
-      },
-      {
-        "game": 9002,
-        "version": "CH1.01-B",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": "单人游戏3币2曲，双人6币2曲。"
-      },
-      {
-        "game": 9004,
-        "version": "贴吧免费离线全解",
-        "count": 2,
-        "coin_per_play": 2,
-        "description": "离线264曲全解+解除隐藏Lv5难度，左机实际难度为Lv3/4/5(Lv5曲部分铺面不齐)，右机Lv1/2/3。"
-      }
-    ],
-    "external": {
-      "bcn": 36,
       "amap": ""
     }
   },
@@ -23932,7 +24083,7 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 6,
-        "description": "疑似工作日晚上六点前免费游玩（待确定）"
+        "description": "机况良好 打着很舒服 不吃星"
       },
       {
         "game": 4001,
@@ -24050,7 +24201,7 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 5,
-        "description": "写作6，读作5力"
+        "description": "可能会吃星星，可能卡键【小概率】"
       },
       {
         "game": 5001,
@@ -24129,7 +24280,7 @@
     "_id": 605,
     "name": "极客森超乐场深圳宝能城店",
     "per_coin_price": 1.5,
-    "description": "机台换到了进门就能看到的位置，你就是全深圳最亮眼的音游仔\r\n100元=70币 300元=300币\r\n500元=600币 1000元=1350币\r\n3000元=4500币\r\n5880元=10000币",
+    "description": "100元=70币 300元=300币\r\n500元=600币 1000元=1350币\r\n3000元=4500币\r\n5880元=10000币",
     "location": {
       "province": 440000,
       "city": 440300,
@@ -24154,7 +24305,7 @@
         "version": "SY國行",
         "count": 2,
         "coin_per_play": 3,
-        "description": "全深圳最便宜的炒茶机\r\n机况良好，音响够劲\r\n旁边的鹅舞吵死了"
+        "description": "全深圳最便宜的炒茶机\r\n机况良好，音响够劲\r\n旁边的鹅舞吵死了\r\n全深圳唯一指定怀旧服"
       }
     ],
     "external": {
@@ -24503,7 +24654,7 @@
         "version": "Finale",
         "count": 1,
         "coin_per_play": 3,
-        "description": "3币/次(4曲)，精文机，离线全解"
+        "description": "3币/次(4曲)，精文机，茶盘"
       },
       {
         "game": 2003,
@@ -24521,10 +24672,10 @@
       },
       {
         "game": 5001,
-        "version": "sy国服",
+        "version": "sy国服ver2",
         "count": 2,
         "coin_per_play": 5,
-        "description": "1P延迟+3sec左右，2P有些许吃音但影响不大。几乎听不清，务必带耳机(注:耳机孔已坏，吵是真的)"
+        "description": "已升级Ver2，左侧机台耳机音量只能调大，调小无反应，注意"
       }
     ],
     "external": {
@@ -24536,7 +24687,7 @@
     "_id": 877,
     "name": "极客森超乐场深圳万科里店",
     "per_coin_price": 1.5,
-    "description": "",
+    "description": "营业时间改为下午17:30开始 原因待查\r\n疑似不允许穿校服的人进入机厅，待查",
     "location": {
       "province": 440000,
       "city": 440300,
@@ -24553,7 +24704,7 @@
         "game": 1002,
         "version": "CH",
         "count": 1,
-        "coin_per_play": 3,
+        "coin_per_play": 4,
         "description": ""
       }
     ],
@@ -24595,7 +24746,7 @@
       },
       {
         "game": 1003,
-        "version": "PARADISE",
+        "version": "PARADISE LOST",
         "count": 2,
         "coin_per_play": 0,
         "description": "自制框架与舟(大四)台 两台已到货 可正常游玩"
@@ -24721,6 +24872,28 @@
     ],
     "external": {
       "bcn": 47,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1088,
+    "name": "朗玩Round1（壹方天地店）",
+    "per_coin_price": 1.5,
+    "description": "9月30號開業\r\n詳情朗玩中國公眾號",
+    "location": {
+      "province": 440000,
+      "city": 440300,
+      "district": 440309,
+      "address": "人民路4022号",
+      "transport": "4號線-龍華站 A出口走500米"
+    },
+    "coordinate": {
+      "longitude": 114.027999,
+      "latitude": 22.648939
+    },
+    "has": [],
+    "external": {
+      "bcn": 1088,
       "amap": ""
     }
   },
@@ -25094,50 +25267,6 @@
     ],
     "external": {
       "bcn": 684,
-      "amap": ""
-    }
-  },
-  {
-    "_id": 1022,
-    "name": "星际传奇（珠海优特汇店）",
-    "per_coin_price": 1.5,
-    "description": "",
-    "location": {
-      "province": 440000,
-      "city": 440400,
-      "district": 440402,
-      "address": "银桦路98号正西方向180米 三楼",
-      "transport": "乘18，23路直达优特汇楼下公交站"
-    },
-    "coordinate": {
-      "longitude": 113.558819,
-      "latitude": 22.278672
-    },
-    "has": [
-      {
-        "game": 1001,
-        "version": "Finale",
-        "count": 1,
-        "coin_per_play": 2,
-        "description": "原版机，无联网"
-      },
-      {
-        "game": 4001,
-        "version": "11亚",
-        "count": 1,
-        "coin_per_play": 2,
-        "description": "问题待确认"
-      },
-      {
-        "game": 5001,
-        "version": "ver.2  Lily",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": "联网，新版WOCAO  Lily，耳机孔有点问题，要多转几下"
-      }
-    ],
-    "external": {
-      "bcn": 1022,
       "amap": ""
     }
   },
@@ -25547,8 +25676,8 @@
       "transport": "地方比较偏僻，建议开车或电动"
     },
     "coordinate": {
-      "longitude": 116.435269,
-      "latitude": 23.215092
+      "longitude": 116.442805,
+      "latitude": 23.239958
     },
     "has": [
       {
@@ -26061,14 +26190,7 @@
         "version": "finale（联网球盘）",
         "count": 1,
         "coin_per_play": 3,
-        "description": "支持旧款aime卡，含dx转谱，机台按键换了过一遍，但判定漂移，位置更容易被路过的熊孩子激情拆机，屏幕有些灰尘，不够润滑，目前暂时断网"
-      },
-      {
-        "game": 2003,
-        "version": "一台Festo+（广西） 一台copious魔改",
-        "count": 2,
-        "coin_per_play": 3,
-        "description": "广西的读卡器已撤走，现只能单机（歌不全）左边已经变砖，右边部分按键粘连"
+        "description": "支持旧款aime卡,1p 1号键接触有问题，2p屏幕烧了，左右两边自带下隐，整体机况松松垮垮，"
       },
       {
         "game": 4001,
@@ -26632,7 +26754,7 @@
       "city": 441200,
       "district": 441202,
       "address": "端州区星湖国际广场一期北座四楼",
-      "transport": "17路到天宁北路站下车，再高德地图导航到星湖国际广场即可"
+      "transport": "天宁北路，宝月公园，七星岩牌坊东站下车均可，再地图导航到星湖国际广场即可"
     },
     "coordinate": {
       "longitude": 112.471087,
@@ -26641,24 +26763,24 @@
     "has": [
       {
         "game": 1002,
-        "version": "CH1.01-E",
+        "version": "CH1.11-A",
         "count": 2,
         "coin_per_play": 4,
-        "description": "有空调，mai机旁放了一台风扇，内录设备准备OK！（1.25涨价为4币）"
+        "description": "有空调，mai机旁放了一台风扇，内录设备准备OK！"
       },
       {
         "game": 2001,
-        "version": "5 VIVID WAVE",
+        "version": "6 EXCEED GEAR",
         "count": 2,
         "coin_per_play": 2,
-        "description": "广西网，3曲safe，ARS。手感非常好。\r\n两台机均增设了耳放，可店内对战。前台无广西卡，购买请加群：894173628"
+        "description": "广西网，3曲safe，ARS。手感非常好。\r\n两台机均增设了耳放，可店内对战。前台无广西卡，购买请加群：894173628（因广西段位还没有做好，所以暂时不能刷卡，请谅解。）"
       },
       {
         "game": 2003,
         "version": "Festo，Festo",
         "count": 2,
         "coin_per_play": 1,
-        "description": "右机暂时死亡(R.I.P)，左机机况不好(最近店长说会把机况搞好的)"
+        "description": "右机复活为私网，可刷四社卡和epass，左机为广西网"
       },
       {
         "game": 9004,
@@ -27151,7 +27273,7 @@
         "version": "世宇科技代理版",
         "count": 1,
         "coin_per_play": 3,
-        "description": "耳放质量一般，位置摆放在e舞旁边，出勤时若声音不足可联系机修拉满外放\r\nVer.2 Comming soon……"
+        "description": "耳放质量一般，位置摆放在e舞旁边，出勤时若声音不足可联系机修拉满外放\r\nVer.2 Coming soon…短期内不用抱太大期望了"
       }
     ],
     "external": {
@@ -27431,9 +27553,9 @@
       {
         "game": 1002,
         "version": "国行联网最新版本",
-        "count": 3,
+        "count": 4,
         "coin_per_play": 7,
-        "description": "店内共3台Maimai DX国行原装，工作日刷卡/微信投币只需3币，周末5币，投实体币均需7币。机况良好"
+        "description": "店内共4台Maimai DX国行原装，工作日刷卡/微信投币只需3币，周末5币，投实体币均需7币。机况良好"
       },
       {
         "game": 2011,
@@ -27455,13 +27577,6 @@
         "count": 2,
         "coin_per_play": 3,
         "description": "Red3币3首，14+单人2币3首，双人最多2币4首（困难和魔王难度），此为刷卡和微信投币价，投实体币都是+2币，已经被搬到店内（基本听不清歌，需要带耳机）鼓况一般（1p随机吃红跳蓝2p随机跳蓝）"
-      },
-      {
-        "game": 3001,
-        "version": "音炫轨道",
-        "count": 2,
-        "coin_per_play": 5,
-        "description": "注册账号3币，直接游玩5币，机台未联网，歌曲更新极慢，机况一般"
       },
       {
         "game": 6003,
@@ -27686,7 +27801,7 @@
       {
         "game": 1001,
         "version": "FiNALE",
-        "count": 1,
+        "count": 2,
         "coin_per_play": 4,
         "description": "仅可以使用刷卡投币，日版原装框体。Ver.Qiu，可以使用AIC。"
       },
@@ -27695,7 +27810,7 @@
         "version": "VividWave",
         "count": 2,
         "coin_per_play": 3,
-        "description": "已更换按键以及旋钮帽子。机台会进行定期保养，请爱惜。5uv2hx"
+        "description": "已更换按键以及旋钮帽子。机台会进行定期保养，请爱惜。"
       },
       {
         "game": 2002,
@@ -27717,6 +27832,13 @@
         "count": 1,
         "coin_per_play": 3,
         "description": "仅可以使用刷卡投币，广西科技APU网络，需自行购卡刷卡解锁全曲。"
+      },
+      {
+        "game": 2011,
+        "version": "XG",
+        "count": 1,
+        "coin_per_play": 3,
+        "description": ""
       },
       {
         "game": 2007,
@@ -27741,9 +27863,9 @@
       },
       {
         "game": 5001,
-        "version": "华卡音舞",
+        "version": "华卡音舞 Ver.2",
         "count": 2,
-        "coin_per_play": 4,
+        "coin_per_play": 5,
         "description": "建议携带耳机出勤，耳放质量一般。"
       }
     ],
@@ -28147,7 +28269,7 @@
   },
   {
     "_id": 413,
-    "name": "晴空超乐场",
+    "name": "晴空超乐场潮州南风里店",
     "per_coin_price": 1.0,
     "description": "购买游戏币单次最低费用是30元30币，建议朋友一起拼单\r\n店里还有舞立方，同样是3币，有联网\r\n太鼓在入门右手饮料购买处。\r\n潮州音游QQ群:1022537770",
     "location": {
@@ -28554,7 +28676,7 @@
     "_id": 805,
     "name": "大玩家南宁江南万达店",
     "per_coin_price": 1.5,
-    "description": "",
+    "description": "币价较高，工作日有机会出勤的建议在前台办理一张会员卡(最低开卡套餐120元)，每周工作日期间可以在前台领取10张游玩券(有效期七天)",
     "location": {
       "province": 450000,
       "city": 450100,
@@ -28572,14 +28694,14 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 4,
-        "description": "mai当劳，在机厅门外。不能刷币卡，需要领币，经常会移位置。2P四号键已修复。"
+        "description": "mai当劳，目前在机厅门外公开处刑。读卡器偶尔有问题，请联系机修重启路由器。"
       },
       {
         "game": 9001,
         "version": "-",
         "count": 2,
         "coin_per_play": 1,
-        "description": ""
+        "description": "没人玩，一般只开一台"
       }
     ],
     "external": {
@@ -28862,7 +28984,7 @@
     "_id": 380,
     "name": "玛丽奥电玩（桂林）",
     "per_coin_price": 1.0,
-    "description": "美团有39.9元100币的团购",
+    "description": "美团有39.9元100币的团购（已失效）\r\n6月18日：店铺线路正在检修，不正常运营，随缘随时开一扇门和maimai",
     "location": {
       "province": 450000,
       "city": 450300,
@@ -28880,7 +29002,7 @@
         "version": "CH1.11A",
         "count": 1,
         "coin_per_play": 6,
-        "description": "机况良好，单人三首，双人四首"
+        "description": "机况良好，单人三首，双人四首，因近期店铺线路维修中，屏幕供电不稳定有严重吃音问题"
       },
       {
         "game": 1001,
@@ -28945,7 +29067,7 @@
         "version": "FINAL联网球盘",
         "count": 1,
         "coin_per_play": 2,
-        "description": "4track，机台现已被修复，可以正常使用"
+        "description": "4track，2p2号键有震键，店铺网络会随缘爆掉导致无法刷卡"
       },
       {
         "game": 2003,
@@ -29149,28 +29271,6 @@
     ],
     "external": {
       "bcn": 483,
-      "amap": ""
-    }
-  },
-  {
-    "_id": 1065,
-    "name": "乐趣时代贵港港北店",
-    "per_coin_price": 1.0,
-    "description": "新机5币",
-    "location": {
-      "province": 450000,
-      "city": 450800,
-      "district": 450802,
-      "address": "广西省贵港市港北区贵城街道客世界三楼乐趣时代",
-      "transport": ""
-    },
-    "coordinate": {
-      "longitude": 116.360787,
-      "latitude": 39.888503
-    },
-    "has": [],
-    "external": {
-      "bcn": 1065,
       "amap": ""
     }
   },
@@ -29514,6 +29614,13 @@
         "count": 1,
         "coin_per_play": 6,
         "description": "1P、2P都有挂墙风扇\r\n似乎每月可以申请返币，活动详情请查看机台告示"
+      },
+      {
+        "game": 1001,
+        "version": "JINALE 2.30 2021/6/19",
+        "count": 1,
+        "coin_per_play": 3,
+        "description": "机台完好，按键虽弹性不佳但反应灵敏，不可摄影，可刷aime卡登陆，其他卡没试过"
       },
       {
         "game": 9001,
@@ -30416,7 +30523,7 @@
         "version": "CH1.01—E",
         "count": 1,
         "coin_per_play": 4,
-        "description": "绿屏，有吃音现象。\r\n1p四号键卡键，五号键震键"
+        "description": "绿屏，有吃音现象。\r\n1p四号键卡键，五号键震键（已好转）"
       }
     ],
     "external": {
@@ -30902,7 +31009,7 @@
         "version": "CH1.11-A",
         "count": 1,
         "coin_per_play": 5,
-        "description": "屏幕吃音，已联系华立，具体修复时间未知。可排卡，设有衣帽架。"
+        "description": "机况已改善。可排卡，设有衣帽架。"
       },
       {
         "game": 4001,
@@ -31716,6 +31823,36 @@
     }
   },
   {
+    "_id": 1083,
+    "name": "欢乐嘉时光",
+    "per_coin_price": 1.0,
+    "description": "",
+    "location": {
+      "province": 520000,
+      "city": 520200,
+      "district": 520201,
+      "address": "钟山大道大润发3楼",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 104.886722,
+      "latitude": 26.565681
+    },
+    "has": [
+      {
+        "game": 1002,
+        "version": "CH1.11-A",
+        "count": 1,
+        "coin_per_play": 5,
+        "description": "屏幕吃slide，touch\r\n周一至周四免费游玩"
+      }
+    ],
+    "external": {
+      "bcn": 1083,
+      "amap": ""
+    }
+  },
+  {
     "_id": 897,
     "name": "Sowhat搜哇特（曼哈顿广场）",
     "per_coin_price": 1.0,
@@ -32174,6 +32311,36 @@
     }
   },
   {
+    "_id": 1089,
+    "name": "地心王国",
+    "per_coin_price": 1.0,
+    "description": "美团套餐新人首次9.9买20",
+    "location": {
+      "province": 530000,
+      "city": 530700,
+      "district": 530702,
+      "address": "民主路地下商场",
+      "transport": "1路/9路公交车到福慧市场下"
+    },
+    "coordinate": {
+      "longitude": 100.231421,
+      "latitude": 26.875741
+    },
+    "has": [
+      {
+        "game": 4001,
+        "version": "12亚",
+        "count": 1,
+        "coin_per_play": 3,
+        "description": ""
+      }
+    ],
+    "external": {
+      "bcn": 1089,
+      "amap": ""
+    }
+  },
+  {
     "_id": 261,
     "name": "爱玩嘉年华（普洱）",
     "per_coin_price": 1.0,
@@ -32308,39 +32475,39 @@
     }
   },
   {
-    "_id": 817,
-    "name": "大玩家西安民乐园万达店",
+    "_id": 1098,
+    "name": "大玩家超乐场民乐园万达店",
     "per_coin_price": 1.0,
-    "description": "",
+    "description": "全西安目前为止币最便宜的大玩家，就是非常吵，周内没多少人记得看好东西\r\n万达广场2号门进会比较方便，进门后左手直梯上4层可直接看到大玩家\r\n（五路口桑拿房不是吹的）",
     "location": {
       "province": 610000,
       "city": 610100,
       "district": 610102,
-      "address": "解放路111号万达广场4层",
-      "transport": "乘坐地铁1/4号线至五路口站由C/E出口出站或乘坐公交至五路口站"
+      "address": "解放路111号万达广场民乐园店北区4层",
+      "transport": "地铁4/1号线五路口站至4号线站厅E口出站，公交可乘坐5/14/K14/25/40/K40/41/46/49/ 201/258/286/309/500/602/607至五路口站下车"
     },
     "coordinate": {
-      "longitude": 108.964345,
-      "latitude": 34.268625
+      "longitude": 108.964297,
+      "latitude": 34.268637
     },
     "has": [
       {
         "game": 1002,
-        "version": "CH1.01-D",
+        "version": "CH1.11-A",
         "count": 1,
         "coin_per_play": 4,
-        "description": "在吴丽芳对面（虽然人不多），建议携带耳机出勤"
+        "description": "机况还行，机修不清灰，部分耳机戴着会有电流噪声"
       },
       {
         "game": 2003,
-        "version": "国行-不明",
+        "version": "未知",
         "count": 2,
         "coin_per_play": 2,
-        "description": "机况不明，需调查"
+        "description": "机台机况差到进粪坑，按键砸都砸不动，机修再不修就快退役了"
       }
     ],
     "external": {
-      "bcn": 817,
+      "bcn": 1098,
       "amap": ""
     }
   },
@@ -32449,36 +32616,6 @@
     }
   },
   {
-    "_id": 209,
-    "name": "哆啦星球大话南门店",
-    "per_coin_price": 1.0,
-    "description": "",
-    "location": {
-      "province": 610000,
-      "city": 610100,
-      "district": 610103,
-      "address": "长安路南稍门什字东北角向南80米(长安路东侧)",
-      "transport": ""
-    },
-    "coordinate": {
-      "longitude": 108.949446,
-      "latitude": 34.239876
-    },
-    "has": [
-      {
-        "game": 2003,
-        "version": "festo+（广西版）",
-        "count": 1,
-        "coin_per_play": 1,
-        "description": "刷广西卡全解1350曲"
-      }
-    ],
-    "external": {
-      "bcn": 209,
-      "amap": ""
-    }
-  },
-  {
     "_id": 210,
     "name": "stay for you漫玩吧",
     "per_coin_price": 1.0,
@@ -32531,13 +32668,6 @@
         "description": "4track 延迟机，又搬到店外了，音响效果完胜隔壁舞力特区，以及降为2币；1P2P读卡器接反"
       },
       {
-        "game": 9003,
-        "version": "3",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": ""
-      },
-      {
         "game": 9002,
         "version": "舞力特区",
         "count": 1,
@@ -32572,7 +32702,7 @@
         "version": "CH1.11",
         "count": 1,
         "coin_per_play": 6,
-        "description": "使用微信获取玩家二维码登录（对面有一台e舞，强烈建议佩戴耳机以改善游戏体验）"
+        "description": "使用微信获取玩家二维码登录（对面有一台舞立方和一台龙飞凤舞，强烈建议佩戴降噪耳机以改善游戏体验）"
       },
       {
         "game": 1001,
@@ -32638,13 +32768,6 @@
         "count": 2,
         "coin_per_play": 4,
         "description": "左侧机联网可刷卡，单局3曲\r\n右侧机离线，单局4曲"
-      },
-      {
-        "game": 2010,
-        "version": "?",
-        "count": 1,
-        "coin_per_play": 4,
-        "description": ""
       }
     ],
     "external": {
@@ -32674,7 +32797,7 @@
         "version": "12亚",
         "count": 1,
         "coin_per_play": 3,
-        "description": "待调查"
+        "description": "版本大陆版。鼓面蒙皮不平整，屏幕颜色较暗。"
       }
     ],
     "external": {
@@ -32778,7 +32901,7 @@
         "version": "音律炫动5",
         "count": 2,
         "coin_per_play": 4,
-        "description": "1P的R轮发涩,FX-L是硬微动"
+        "description": "1P的R轮发涩,FX-L是硬微动。\r\n机台在2楼，几乎连不上网，只能游客模式游玩，2p的BT-D按键灯颜色不一样，是白色。机台声音巨大，比旁边的舞立方还大，建议佩戴耳机"
       },
       {
         "game": 2007,
@@ -32792,14 +32915,7 @@
         "version": "Ver 2",
         "count": 2,
         "coin_per_play": 5,
-        "description": "机况良好， 可扫码上币，旁边是舞立方 建议佩戴耳机"
-      },
-      {
-        "game": 9003,
-        "version": "鼓王3骑士与公主",
-        "count": 1,
-        "coin_per_play": 3,
-        "description": "机台在二楼"
+        "description": "机况良好， 可扫码上币，机台现已挪至2楼，不在舞立方旁边了"
       },
       {
         "game": 9002,
@@ -32807,13 +32923,6 @@
         "count": 1,
         "coin_per_play": 3,
         "description": "单人3币双人5币"
-      },
-      {
-        "game": 9004,
-        "version": "断网",
-        "count": 1,
-        "coin_per_play": 2,
-        "description": ""
       }
     ],
     "external": {
@@ -32843,7 +32952,7 @@
         "version": "华卡音舞",
         "count": 2,
         "coin_per_play": 5,
-        "description": "两台机器耳机均有电流底噪，不影响游玩。左机无法投币，右机间歇黑屏，频率忽高忽低。"
+        "description": "两台机器耳机均有电流底噪，不影响游玩。左机无法投币，右机间歇黑屏，频率忽高忽低。机台周围的噪音已经突破了人类承受能力的极限，强烈建议自带耳机。"
       }
     ],
     "external": {
@@ -32942,6 +33051,36 @@
     }
   },
   {
+    "_id": 1075,
+    "name": "PPG潮玩汇兰州店",
+    "per_coin_price": 1.3,
+    "description": "会员卡工本费十元,可与天津店通用;会员卡购币套餐币值0.78元至0.45元不等。",
+    "location": {
+      "province": 620000,
+      "city": 620100,
+      "district": 620102,
+      "address": "广场南路东方红广场地下一层",
+      "transport": "[地铁]1号线东方红广场站D口;[公交]东方红广场南口站"
+    },
+    "coordinate": {
+      "longitude": 103.841841,
+      "latitude": 36.051781
+    },
+    "has": [
+      {
+        "game": 5001,
+        "version": "Ver.2",
+        "count": 2,
+        "coin_per_play": 1,
+        "description": "开业优惠1币三曲,后续会增加至5币"
+      }
+    ],
+    "external": {
+      "bcn": 1075,
+      "amap": ""
+    }
+  },
+  {
     "_id": 213,
     "name": "Play1家庭娱乐中心（万达广场兰州城关店）",
     "per_coin_price": 1.0,
@@ -32975,6 +33114,36 @@
     ],
     "external": {
       "bcn": 213,
+      "amap": ""
+    }
+  },
+  {
+    "_id": 1094,
+    "name": "大玩家中惠万达店",
+    "per_coin_price": 1.0,
+    "description": "位于中惠万达广场三楼",
+    "location": {
+      "province": 630000,
+      "city": 630100,
+      "district": 630102,
+      "address": "德令哈路与南山东路交汇处",
+      "transport": ""
+    },
+    "coordinate": {
+      "longitude": 101.798595,
+      "latitude": 36.595477
+    },
+    "has": [
+      {
+        "game": 1002,
+        "version": "CH1.11-A",
+        "count": 1,
+        "coin_per_play": 4,
+        "description": "新机子机况良好，左边方鹅舞建议戴耳机，扫码摄像头若抽风请放大二维码怼上去。位置靠机厅门很近，有路人小孩观看注意。无衣架无风扇"
+      }
+    ],
+    "external": {
+      "bcn": 1094,
       "amap": ""
     }
   },
@@ -33048,7 +33217,7 @@
       },
       {
         "game": 5001,
-        "version": "S",
+        "version": "Ver.2",
         "count": 2,
         "coin_per_play": 4,
         "description": "可联网，游艺宝扫码登录。右侧机台耳机孔接触不良"
@@ -33102,7 +33271,7 @@
         "version": "12亚",
         "count": 1,
         "coin_per_play": 2,
-        "description": "液晶屏的新框。两侧各只有一根鼓棒"
+        "description": "液晶屏的新框。"
       },
       {
         "game": 9001,
@@ -33115,8 +33284,8 @@
         "game": 9003,
         "version": "2008",
         "count": 1,
-        "coin_per_play": 99,
-        "description": "屏幕显示无信号，故障"
+        "coin_per_play": 4,
+        "description": ""
       },
       {
         "game": 9002,
@@ -33135,7 +33304,7 @@
     "_id": 771,
     "name": "大阅超乐场",
     "per_coin_price": 1.0,
-    "description": "是新店里面只有舞立方但根据老板描述以后会进maimai",
+    "description": "店面升级中，只有wlf和e舞但根据老板描述以后会进maimai",
     "location": {
       "province": 640000,
       "city": 640100,
@@ -33192,12 +33361,12 @@
       "province": 640000,
       "city": 640100,
       "district": 640106,
-      "address": "正源北街22号万达广场二楼",
-      "transport": "9路，53路，101路等"
+      "address": "正源北街22号万达广场二楼，万达影院下方",
+      "transport": "34路，49路，9路，53路，在正源街育安巷口下车；2路、4路、30路、301路在逸馨苑下车"
     },
     "coordinate": {
-      "longitude": 106.246304,
-      "latitude": 38.488631
+      "longitude": 106.248809,
+      "latitude": 38.485108
     },
     "has": [
       {
@@ -33205,7 +33374,7 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 6,
-        "description": "1P5号键震键2P4号键震键，屏内灰尘较多。店里无风扇空调,比较闷热,有排卡机制,节假日可能排队人数会比较多(4组左右),人多时需自备卡片进行排队游玩,排卡板上有本地群信息。饮料可以在附近的KK/金街解决。"
+        "description": "1P5号键震键2P4号键震键，屏内灰尘较多。有排卡机制,节假日可能排队人数会比较多(4组左右),人多时需自备卡片进行排队游玩,排卡板上有本地群信息。饮料可以在附近的KK/金街解决。"
       },
       {
         "game": 4001,
@@ -33228,16 +33397,46 @@
     }
   },
   {
+    "_id": 1087,
+    "name": "环游嘉年华超乐场（汇嘉时代店）",
+    "per_coin_price": 1.0,
+    "description": "微信小程序存币，与德港嘉年华游戏币通用。截止6月23日，新进舞萌dx2021一台，版本号1.11。",
+    "location": {
+      "province": 650000,
+      "city": 650100,
+      "district": 650104,
+      "address": "北京中路147号汇嘉时代3F",
+      "transport": "地铁1号线体育中心站D出口出站向南步行500米；BRT1号线体育中心站出站左侧向南步行500米；43路、54路、56路、76路、535路、701路、3406路于汇嘉时代站下车即到"
+    },
+    "coordinate": {
+      "longitude": 87.556151,
+      "latitude": 43.876466
+    },
+    "has": [
+      {
+        "game": 1002,
+        "version": "Ver.CH1.11",
+        "count": 1,
+        "coin_per_play": 4,
+        "description": "按键屏幕良好，按键比德港的舒服。刚进的新机，机修出差了暂时未联网"
+      }
+    ],
+    "external": {
+      "bcn": 1087,
+      "amap": ""
+    }
+  },
+  {
     "_id": 735,
     "name": "环游嘉年华超乐场（德港万达店）",
     "per_coin_price": 1.0,
-    "description": "截至2021年1月30日，店铺只有一台dx，机况良好。",
+    "description": "截至2021年6月23日，店铺只有一台dx，机况良好。//截至2021年1月30日，店铺只有一台dx，机况良好。",
     "location": {
       "province": 650000,
       "city": 650100,
       "district": null,
       "address": "中亚南路198号德港万达6楼环游嘉年华超乐场",
-      "transport": "BRT4号线厦门路下车，出车站右手边。"
+      "transport": "BRT4号线厦门路下车，出车站右手边；98路、68路于厦门路下车"
     },
     "coordinate": {
       "longitude": 87.533245,
@@ -33249,7 +33448,7 @@
         "version": "国行",
         "count": 1,
         "coin_per_play": 4,
-        "description": "乌鲁木齐唯一一台dx，希望看到这条备注的玩家能照顾好它www"
+        "description": "乌鲁木齐唯二的dx,屏幕按键目前无暗病，staff也每周清理积灰，希望大伙能善待迪拉熊。(2021.06.23)//乌鲁木齐唯一一台dx，希望看到这条备注的玩家能照顾好它www"
       }
     ],
     "external": {
